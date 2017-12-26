@@ -1,0 +1,1977 @@
+{
+  "groups": [
+    {
+      "name": "Luck Bonus",
+      "weight": 1,
+      "rewards": [
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "minecraft:coal",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "minecraft:coal",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "minecraft:diamond",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "minecraft:iron_ingot",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "minecraft:gold_ingot",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "minecraft:redstone",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "minecraft:ender_pearl",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "minecraft:skull",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "minecraft:emerald",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "IC2:itemIngot",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "IC2:itemIngot",
+              "Count": 32,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "IC2:itemIngot",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 3
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "IC2:itemIngot",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 5
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "IC2:itemIngot",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 6
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "IW:icParts",
+              "Count": 32,
+              "OreDict": "",
+              "Damage": 4
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "appliedenergistics2:item.ItemMultiMaterial",
+              "Count": 32,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "IW:iwParts1",
+              "Count": 6,
+              "OreDict": "",
+              "Damage": 11
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "IW:iwParts1",
+              "Count": 6,
+              "OreDict": "",
+              "Damage": 24
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "IW:iwParts1",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 12
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "IW:iwParts1",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 25
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "IW:iwParts1",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 27
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "IW:iwParts1",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 28
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "ImmersiveEngineering:metal",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 4
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "IW:iwParts1",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "flansmod:nitrocellulose",
+              "Count": 32,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "IW:foods",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "IW:foods",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 2
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "IW:foods",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 14
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "IW:foods",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 3
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "IW:foods",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 6
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "IW:foods",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 9
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "IW:foods",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 10
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "IW:foods",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 11
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "flansmod:stimpack",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "IW:foods",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 8
+            }
+          ]
+        },
+        {
+          "weight": 50,
+          "items": [
+            {
+              "id": "flansmod:nanogelcell",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:12mmbox",
+              "Count": 6,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:20mmbox",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:8mmhighcapmag",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:bolthighcapmag",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:ec",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:echeavy",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:8gamag",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:grenadehe",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:40mmhegrenade",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:promethiumtank",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:rockethe",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:satchelhe",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "flansmod:remotedetonator",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:minehe",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:mortarshell",
+              "Count": 32,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:remotecharge",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "flansmod:remotedetonator",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:medicanister",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:grenadeinferno",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:150mmround",
+              "Count": 32,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:120mmround",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:grenadefoam",
+              "Count": 32,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:grenadesticky",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:grenadetq",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:grenadetx",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:rocketap",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:rocketinferno",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:missileaa",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:missileat",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:boltinfernohighcapmag",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:boltkrakenhighcapmag",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:20mmheiapmag",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:bombhesmall",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:bombinfernosmall",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:boltbox",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:boltmag",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:boltkrakenmag",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 20,
+          "items": [
+            {
+              "id": "flansmod:boltinfernomag",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "combat_armor:Scout_Helmet",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "combat_armor:Scout_Plate",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "combat_armor:Scout_Legs",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "combat_armor:Scout_Boots_Step",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "combat_armor:Carapace_Helmet",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "combat_armor:Carapace_Plate",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "combat_armor:Carapace_Legs",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "combat_armor:Carapace_Boots",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:assaultcannon",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:autocannon",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:bolter",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:boltpistol",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:chainsword",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:grenadelauncher",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:heavyautogun",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:heavybolter",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:hellgun",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:lascannon",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:lasgun",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:longlas",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:missilelauncher",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:narthecium",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:plasmacannon",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:plasmagun",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:plasmapistol",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:powermaul",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:ripper",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:rocketlauncher",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:shotgun",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:siegemortarlauncher",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:sluggun",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:slugpistol",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:sniperrifle",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:stormbolter",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:sawedoff",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:flamer",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "betterrecords:recordplayer",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "betterrecords:recordspeaker.sm",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "betterquesting:placeholder",
+              "Count": 6,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "orig_meta:3": 0,
+                "orig_id:8": "\u003cbetterrecords:urlrecord\u003e"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "minecraft:ender_pearl",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:nanogelcell",
+              "Count": 32,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "flansmod:repairtool",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "IC2:itemToolIridiumDrill",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "IC2:itemArmorAdvBatpack",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "IC2:itemToolMiningLaser",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "items": [
+            {
+              "id": "IW:iwParts1",
+              "Count": 256,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "ImmersiveEngineering:toolbox",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "IC2:blockGenerator",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "IC2:blockGenerator",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "IC2:blockGenerator",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 3
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "IC2:blockGenerator",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 5
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "IC2:blockMachine",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 2
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "IC2:blockMachine",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 3
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "IC2:blockMachine",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 4
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "IC2:blockMachine",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 5
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "IC2:blockMachine2",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 5
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "IC2:blockMachine3",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 6
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "ImmersiveEngineering:metalDecoration",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 5
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "ImmersiveEngineering:metalDecoration",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "flansmod:jeep",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "flansmod:promethiumcan",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "flansmod:jeepautocannon",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "flansmod:promethiumcan",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "flansmod:jeepcargo",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "flansmod:promethiumcan",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "appliedenergistics2:item.ItemBasicStorageCell.64k",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "IC2:blockElectric",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "ThermalExpansion:Tank",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 4
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "ThermalExpansion:Cache",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 4
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "MiningTools:advIridiumDrill",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "IC2:itemAdvBat",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "IC2:reactorCondensatorLap",
+              "Count": 6,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "IC2:upgradeModule",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "IC2:reactorVentDiamond",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "IC2:reactorHeatSwitchDiamond",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "appliedenergistics2:item.ItemMultiPart",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 5,
+          "items": [
+            {
+              "id": "betterquesting:extra_life",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "IC2:blockGenerator",
+              "Count": 12,
+              "OreDict": "",
+              "Damage": 3
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "IC2:blockGenerator",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 9
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "IC2:blockGenerator",
+              "Count": 6,
+              "OreDict": "",
+              "Damage": 5
+            },
+            {
+              "id": "IC2:blockReactorChamber",
+              "Count": 6,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "IC2:reactorCondensatorLap",
+              "Count": 24,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "IC2:blockElectric",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 2
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "IC2:blockElectric",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "IC2:blockElectric",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 7
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "IC2:blockMachine2",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 11
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "IC2:blockMachine",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 14
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "IC2:blockMachine2",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 3
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "IC2:blockMachine2",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 4
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "IC2:blockMachine2",
+              "Count": 6,
+              "OreDict": "",
+              "Damage": 6
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "ArchimedesShipsPlus:engine",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "ArchimedesShipsPlus:marker",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "ArchimedesShipsPlus:balloon",
+              "Count": 128,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "ImmersiveEngineering:metalMultiblock",
+              "Count": 9,
+              "OreDict": "",
+              "Damage": 2
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "ImmersiveEngineering:metalMultiblock",
+              "Count": 9,
+              "OreDict": "",
+              "Damage": 3
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "IC2:itemBatLamaCrystal",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 26
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "IC2:itemBatCrystal",
+              "Count": 2,
+              "OreDict": "",
+              "Damage": 26
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "flansmod:lemanruss120mm",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "flansmod:tauroxheavyautogun",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "flansmod:paladinknighttitan",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "flansmod:gravitongun",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "flansmod:ultima",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "flansmod:artillery",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "ThermalExpansion:satchel",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 3
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "ThermalExpansion:capacitor",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 5
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "ThermalDynamics:ThermalDynamics_0",
+              "Count": 128,
+              "OreDict": "",
+              "Damage": 6
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "combat_armor:Power_Helmet",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "combat_armor:Power_Plate",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "combat_armor:Power_Legs",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "combat_armor:Power_Boots",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "combat_armor:Assault_Helmet",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "combat_armor:Assault_Plate",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "combat_armor:Assault_Legs",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "combat_armor:Assault_Boots",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+Name Sawed Off Double Barrel
+// 
+//*file info*
+//
+ShortName sawedoff
+Icon SawedOff
+Color 255 255 255
+Model dayz.shotguns.DoubleBarrelSO
+Texture DoubleBarreldayz
+ModelScale 1.00
+//
+//*sounds*
+//
+ShootSound SawedOffShoot
+GunSoundRange 288
+ReloadSound SawedOffReload
+ReloadSoundRange 8
+//
+//*gun stats*
+//
+UsableByPlayers True
+UsableByMechas False
+CanShootUnderwater False
+OneHanded False
+Mode SemiAuto Burst
+//
+Ammo 8garound
+Ammo 8garound
+LoadIntoGun 2
+ReloadTime 40
+CanForceReload True
+//
+Damage 5
+NumBullets 8
+Accuracy 30
+ShootDelay 1
+BulletSpeed 20.0
+//
+Recoil 20
+RandomRecoilRange 9.00
+RandomRecoilYawRange 7.00
+DecreaseRecoil 1.50
+DecreaseRecoilYaw 0.60
+//
+//*aiming*
+//
+Scope None
+ZoomLevel 1.00
+FOVZoomLevel 1.20
+//
+//*attachments*
+//
+AllowAllAttachments false
+AllowAttachments bayonet ripperbayonet flashlight accuracy1 accuracy2 accuracy3 accuracy4 accuracy5 luckyshot1 luckyshot2 luckyshot3 luckyshot4 luckyshot5 agility1 agility2 agility3 agility4 agility5 smallguns1 smallguns2 smallguns3 smallguns4 shotgunsurgeon
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 6
+//
+//*status effects*
+//
+KnockbackModifier 1.0

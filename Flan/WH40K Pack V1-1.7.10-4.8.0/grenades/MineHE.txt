@@ -1,0 +1,56 @@
+Name HE Mine
+//
+//*fileinfo*
+//
+ShortName minehe
+Icon MineHE
+Color 255 255 255
+Model mw.Claymore
+Texture Claymore
+StackSize 32
+ThrowSound Throw
+DetonateSound MineExplode
+DespawnTime 0
+//
+//*visual effects*
+//
+TrailParticles False
+SpinWhenThrown False
+ExplodeParticles explode
+//
+//*physics*
+//
+Bounciness 0.0
+ThrowSpeed 0.2
+FallSpeed 1.0
+BreaksGlass False
+PenetratesBlocks False
+Sticky False
+MeleeDamage 0
+//
+//*stats*
+//
+CanThrow True
+ThrowDelay 60
+//
+PrimeDelay 100
+VehicleProximityTrigger -1.0
+LivingProximityTrigger 2.0
+//
+DetonateOnImpact False
+DetonateWhenShot True
+//
+Fuse 0
+FireRadius 0.0
+ExplosionBreaksBlocks False
+ExplosionRadius 4.0
+ExplosionDamageVsLiving 7.5
+ExplosionDamageVsPlane 1.0
+ExplosionDamageVsVehicle 1.0
+//
+//*smoke effects*
+//
+//Syntax is SmokeEffect <ID> <Duration> <Amplifier>
+//IDs are 	1:MoveSpeed		2:MoveSlowdown		3:DigSpeed			4:DigSlowdown		5:DamageBoost	6:Heal			7:Harm		8:Jump			9:Confusion		10:Regeneration
+//			11:Resistance	12:FireResistance	13:WaterBreathing	14:Invisibility		15:Blindness	16:NightVision	17:Hunger	18:Weakness		19:Poison		20:Wither
+//SmokeEffect 7 1 6

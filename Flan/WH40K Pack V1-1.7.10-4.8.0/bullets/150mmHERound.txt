@@ -1,0 +1,42 @@
+Name 150mm HE Round
+//
+//*fileinfo*
+//
+ShortName 150mmheround
+Icon 150mmHERound
+Colour 255 255 255
+Model bmp.30mm
+Texture Tracer
+//
+//*sounds*
+//
+HitSoundEnable True
+HitSound TankHit
+HitSoundRange 32
+EntityHitSoundEnable True
+//
+//*bullet stats*
+//
+WeaponType Shell
+FallSpeed 0.1
+HitBoxSize 3.0
+MaxStackSize 3
+RoundsPerItem 1
+//
+DamageVsVehicles 300
+DamageVsLiving 600
+//
+SetEntitiesOnFire False
+FireRadius 0
+BreaksGlass False
+//
+ExplodeOnImpact True
+ExplosionBreaksBlocks False
+ExplosionRadius 4.0
+ExplosionDamageVsLiving 7.5
+ExplosionDamageVsPlane 1.0
+ExplosionDamageVsVehicle 1.0
+//
+//*visuals*
+//
+SmokeTrail True

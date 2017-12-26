@@ -1,0 +1,34 @@
+Name 20mm TQ Mag
+//
+//*fileinfo*
+//
+ShortName 20mmtqmag
+Icon 20mmTQMag
+Colour 255 255 255 
+WeaponType NONE
+//
+//*sounds*
+//
+HitSoundEnable True
+HitSound BulletHit
+HitSoundRange 16
+EntityHitSoundEnable True
+//
+//*bullet stats*
+//
+FallSpeed 0.1
+MaxStackSize 6
+RoundsPerItem 10
+DamageVsLiving 1
+DamageVsVehicles 0.1
+ExplodeOnImpact False
+ExplosionRadius 0
+SetEntitiesOnFire False
+FireRadius 0
+BreaksGlass False
+HitBoxSize 1.0
+SmokeTrail False
+PotionEffect 2 200 3
+PotionEffect 4 200 3
+PotionEffect 9 200 3
+PotionEffect 18 200 3

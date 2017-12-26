@@ -1,0 +1,6 @@
+Name Mechandrites
+Description Robotic grabbers which retrieve_dropped items.
+ShortName mechandrites
+Icon Mechandrites
+Type upgrade
+ItemVacuum true

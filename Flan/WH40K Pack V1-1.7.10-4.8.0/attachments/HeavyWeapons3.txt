@@ -1,0 +1,10 @@
+Name Heavy Weapons 3
+ShortName heavyweapons3
+Icon abilitytoken
+//
+AttachmentType generic
+//
+DamageMultiplier 1.15
+SpreadMultiplier 0.7
+RecoilMultiplier 0.6
+ReloadTimeMultiplier 0.7

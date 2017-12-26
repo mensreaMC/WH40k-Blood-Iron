@@ -1,0 +1,7 @@
+Name Melee Weapons 4
+ShortName meleeweapons4
+Icon abilitytoken
+//
+AttachmentType generic
+//
+MeleeDamageMultiplier 1.4

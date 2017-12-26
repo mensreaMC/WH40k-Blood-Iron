@@ -1,0 +1,42 @@
+Name Inferno Rocket
+//
+//*fileinfo*
+//
+ShortName rocketinferno
+Icon RocketInferno
+Colour 255 255 255 
+WeaponType NONE
+//
+//*sounds*
+//
+HitSoundEnable True
+HitSound RocketHit
+HitSoundRange 32
+EntityHitSoundEnable True
+//
+//*bullet stats*
+//
+FallSpeed 0.2
+MaxStackSize 60
+RoundsPerItem 1
+DamageVsVehicles 20
+DamageVsLiving 400
+ExplodeOnImpact True
+ExplosionRadius 2
+ExplosionDamageVsLiving 100
+ExplosionDamageVsDrivable 0
+SetEntitiesOnFire True
+FireRadius 4
+BreaksGlass False
+HitBoxSize 1.0
+//
+PotionEffect 26 120 4
+//
+//*visuals*
+//
+FlakParticles 10
+FlakParticleType explode
+TrailParticles True
+TrailParticleType flansmod.fmflame
+BoostParticle explode
+SmokeTrail True

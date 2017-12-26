@@ -1,0 +1,45 @@
+Name Bolt Drum
+//
+//*fileinfo*
+//
+ShortName boltdrum
+Icon BoltDrum
+Colour 255 255 255 
+WeaponType NONE
+Model Manus_WH40K.Misc.WH40K_Misc_BoltBullet_1
+Texture Skin_WH40K_Bullet_BoltBullet_1A
+//
+//*sounds*
+//
+HitSoundEnable True
+HitSound BoltHit
+HitSoundRange 16
+EntityHitSoundEnable True
+//
+//*bullet stats*
+//
+FallSpeed 0.0
+Fuse 20
+HitBoxSize 1.5
+MaxStackSize 1
+RoundsPerItem 1080
+//
+DamageVsVehicles 1.0
+DamageVsLiving 1.0
+//
+ExplodeOnImpact False
+ExplosionRadius 0.0
+ExplosionBreaksBlocks False
+//
+SetEntitiesOnFire False
+FireRadius 0.0
+//
+BreaksGlass False
+//
+//*visuals*
+//
+FlakParticles 10
+FlakParticleType explode
+TrailParticles True
+TrailParticleType flansmod.fmflame
+BoostParticle explode

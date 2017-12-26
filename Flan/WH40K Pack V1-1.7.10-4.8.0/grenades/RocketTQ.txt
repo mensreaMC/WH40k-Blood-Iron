@@ -1,0 +1,50 @@
+Name TQ Rocket
+//
+//*fileinfo*
+//
+ShortName rockettq
+Icon RocketTQ
+Color 255 255 255
+Model mw.RoundGrenade
+Texture M67
+MaxStackSize 60
+//
+//*visual effects*
+//
+TrailParticles True
+SmokeParticles cloud
+SpinWhenThrown true
+SmokeTime 400
+SmokeRadius 5
+//
+//*physics*
+//
+Bounciness 0.9
+ThrowSpeed 8.0
+FallSpeed 0.2
+BreaksGlass false
+PenetratesBlocks false
+HitBoxSize 0.5
+MeleeDamage 0
+//
+//*stats*
+//
+CanThrow False
+ThrowDelay 10
+//
+DetonateOnImpact true
+DetonateWhenShot true
+Fuse 60
+FireRadius 0
+ExplosionRadius 0
+ExplosionBreaksBlocks false
+//
+//*smoke effects*
+//
+//Syntax is SmokeEffect <ID> <Duration> <Amplifier>
+//IDs are 	1:MoveSpeed		2:MoveSlowdown		3:DigSpeed			4:DigSlowdown		5:DamageBoost	6:Heal			7:Harm		8:Jump			9:Confusion		10:Regeneration
+//			11:Resistance	12:FireResistance	13:WaterBreathing	14:Invisibility		15:Blindness	16:NightVision	17:Hunger	18:Weakness		19:Poison		20:Wither
+SmokeEffect 2 200 0
+SmokeEffect 4 200 0
+SmokeEffect 18 200 0
+SmokeEffect 9 100 0

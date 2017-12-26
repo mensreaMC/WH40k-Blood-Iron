@@ -1,0 +1,147 @@
+{
+
+  "mch.menu": {
+    "category": "music",
+    "musicchoices": true,
+    "menu": true,
+    "sounds": [
+      {
+        "name": "growing_hate",
+        "stream": true
+      }
+    ]
+  },
+
+  "mch.intro": {
+    "category": "music",
+    "musicchoices": true,
+    "event": "login",
+    "sounds": [
+      {
+        "name": "doom3gui",
+        "stream": true
+      }
+    ]
+  },
+
+  "mch.dim01": {
+    "category": "music",
+    "musicchoices": true,
+	"dimensions":
+    [
+		0
+    ],
+    "sounds": [
+      {
+        "name": "doom3gui",
+        "stream": true
+      }
+    ]
+  },
+
+  "mch.dim02": {
+    "category": "music",
+    "musicchoices": true,
+	"dimensions":
+    [
+		0
+    ],
+    "sounds": [
+      {
+        "name": "fot_bos",
+        "stream": true
+      }
+    ]
+  },
+
+  "mch.dim03": {
+    "category": "music",
+    "musicchoices": true,
+	"dimensions":
+    [
+		0
+    ],
+    "sounds": [
+      {
+        "name": "fot_cal",
+        "stream": true
+      }
+    ]
+  },
+
+  "mch.dim04": {
+    "category": "music",
+    "musicchoices": true,
+	"dimensions":
+    [
+		0
+    ],
+    "sounds": [
+      {
+        "name": "fot_fac",
+        "stream": true
+      }
+    ]
+  },
+
+  "mch.dim05": {
+    "category": "music",
+    "musicchoices": true,
+	"dimensions":
+    [
+		0
+    ],
+    "sounds": [
+      {
+        "name": "fot_mm",
+        "stream": true
+      }
+    ]
+  },
+
+  "mch.dim06": {
+    "category": "music",
+    "musicchoices": true,
+	"dimensions":
+    [
+		0
+    ],
+    "sounds": [
+      {
+        "name": "fot_mnt",
+        "stream": true
+      }
+    ]
+  },
+
+  "mch.dim07": {
+    "category": "music",
+    "musicchoices": true,
+	"dimensions":
+    [
+		0
+    ],
+    "sounds": [
+      {
+        "name": "fot_urb",
+        "stream": true
+      }
+    ]
+  },
+
+  "mch.dim08": {
+    "category": "music",
+    "musicchoices": true,
+	"dimensions":
+    [
+		0
+    ],
+    "sounds": [
+      {
+        "name": "fot_worldmap",
+        "stream": true
+      }
+    ]
+  }
+  
+}

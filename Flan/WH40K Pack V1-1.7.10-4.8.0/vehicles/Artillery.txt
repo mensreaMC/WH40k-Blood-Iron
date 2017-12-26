@@ -1,0 +1,109 @@
+Name Artillery
+//
+//*file info*
+//
+ShortName artillery
+Icon artillery
+Model ww2.M157MM
+Texture M157
+CameraDistance 7.5
+ModelScale 0.8
+//
+//*movement*
+//
+Tank False
+FourWheelDrive False
+MaxThrottle 0.0
+MaxNegativeThrottle 0.0
+TurnLeftSpeed 0.0
+TurnRightSpeed 0.0
+//
+//*wheels*
+//
+WheelRadius 1.0
+WheelPosition 0 -32 -8 -18
+WheelPosition 1 -32 -8 18
+WheelPosition 2 20 -8 18
+WheelPosition 3 20 -8 -18
+WheelSpringStrength 0.5
+//
+//*weaponry*
+//
+BarrelPosition 60 20 0
+DriverAimSpeed 0.5 0.5 0.5
+ShellDelay 60
+BulletSpeed 20
+BulletSpread 1
+AllowAllAmmo False
+AddAmmo 120mmround
+AddAmmo 120mmapround
+AddAmmo 120mmheround
+//
+//*cargo*
+//
+CargoSlots 0
+ShellSlots 4
+FuelTankSize 0
+//
+//*seating*
+//
+Driver 0 -2 0 -15 15 -10 10
+RotatedDriverOffset -8 0 -9
+Passengers 0
+//
+//*sounds*
+//
+ShootSoundPrimary 150mmShoot
+//
+//*recipe*
+//
+AddRecipeParts core 3 vehicleparts 1 vehiclebattlecannon 16 redstone
+AddRecipeParts leftTrack 1 wheel
+AddRecipeParts rightTrack 1 wheel
+//
+//*health & collision*
+//
+SetupPart core 500 -40 -8 -18 60 24 36
+SetupPart leftTrack 400 4 -8 -22 12 12 4
+SetupPart rightTrack 400 4 -8 18 12 12 4
+BulletDetection 7
+IsExplosionWhenDestroyed False
+CollisionDamageEnable True
+CollisionDamageThrottle 0.21
+CollisionDamageTimes 0
+//
+//*particles*
+//
+ShootParticlesPrimary largeexplode 0 0 0
+ShootParticlesPrimary cloud 1 0 0
+ShootParticlesPrimary cloud 1.75 0 0
+ShootParticlesPrimary cloud 1.5 0 0
+ShootParticlesPrimary cloud 1.25 0 0
+ShootParticlesPrimary cloud 0.75 0 0
+ShootParticlesPrimary cloud 0.5 0 0
+ShootParticlesPrimary cloud 0.25 0 0
+ShootParticlesPrimary explode 1.5 0 0
+ShootParticlesPrimary largesmoke 0.5 0 0.1
+ShootParticlesPrimary largesmoke 0.5 0 -0.1
+ShootParticlesPrimary largesmoke 0.5 0.06 0.06
+ShootParticlesPrimary largesmoke 0.5 0.06 -0.06
+ShootParticlesPrimary largesmoke 0.5 -0.06 0.06
+ShootParticlesPrimary largesmoke 0.5 -0.06 -0.06
+ShootParticlesPrimary largesmoke 0.5 -0.1 0
+ShootParticlesPrimary largesmoke 0.5 0.1 0
+ShootParticlesPrimary cloud 0.05 0 0.2
+ShootParticlesPrimary cloud 0.05 0 -0.2
+ShootParticlesPrimary cloud 0.05 0.13 0.13
+ShootParticlesPrimary cloud 0.05 0.13 -0.13
+ShootParticlesPrimary cloud 0.05 -0.13 0.13
+ShootParticlesPrimary cloud 0.05 -0.13 -0.13
+ShootParticlesPrimary cloud 0.05 -0.2 0
+ShootParticlesPrimary cloud 0.05 0.2 0
+ShootParticlesPrimary flame 0.1 0 0.4
+ShootParticlesPrimary flame 0.1 0 -0.4
+ShootParticlesPrimary flame 0.1 0.26 0.26
+ShootParticlesPrimary flame 0.1 0.26 -0.26
+ShootParticlesPrimary flame 0.1 -0.26 0.26
+ShootParticlesPrimary flame 0.1 -0.26 -0.26
+ShootParticlesPrimary flame 0.1 -0.4 0
+ShootParticlesPrimary flame 0.1 0.4 0

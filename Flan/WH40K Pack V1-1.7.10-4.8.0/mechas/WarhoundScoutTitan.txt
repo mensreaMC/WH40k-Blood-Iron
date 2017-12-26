@@ -1,0 +1,69 @@
+Name Warhound Scout Titan
+//
+//*file info*
+//
+ShortName warhoundscouttitan
+Icon WarhoundScoutTitan
+Model Manus_WH40K.Mecha.WH40K_Mecha_Warhound_1
+Texture Skin_WH40K_Mecha_Warhound_1A
+ModelScale 1
+CameraDistance 30.0
+//
+//*movement*
+//
+MoveSpeed 1
+RotateSpeed 10
+StepHeight 2
+JumpHeight 10
+TakeFallDamage false
+FallDamageMultiplier 0.0
+DamageBlocksFromFalling false
+BlockDamageFromFalling 0.1
+SquashMobs true
+//
+//*cargo*
+//
+FuelTankSize 6000
+CargoSlots 16
+//
+//*seating*
+//
+Driver 0 216 0
+Passengers 0
+RotatedDriverOffset 112 0 0
+YOffset 0
+//
+//*model info*
+//
+LeftArmOrigin 25.5 222 -77
+RightArmOrigin 25.5 222 77
+ArmLength 0.1
+LegLength 161
+HeldItemScale 1
+Height 96
+Width 56
+ChassisHeight 123
+LegSwingLimit 5
+UpperArmLimit 20
+LowerArmLimit 60
+LimitHeadTurn True 70
+//
+//*recipe*
+//
+AddRecipeParts core 18 vehicleparts 18 vehiclearmor 4 vehicleelectronics 8 mechpowertrain 512 redstone
+AddRecipeParts leftArm 6 vehicleparts 6 vehiclearmor 2 vehicleelectronics
+AddRecipeParts rightArm 6 vehicleparts 6 vehiclearmor 2 vehicleelectronics
+AddRecipeParts hips 12 vehicleparts 12 vehiclearmor 4 vehicleelectronics
+//mmm dem hips
+//
+//*health & collision*
+//
+SetupPart core 26000 -67 189 -55 201 83 110
+SetupPart hips 26000 -36 44 -70 66 143 140
+SetupPart rightArm 26000 -36 197 -96 142 28 40
+SetupPart leftArm 26000 -36 197 56 142 28 40
+BulletDetection 16
+IsExplosionWhenDestroyed True
+CollisionDamageEnable True
+CollisionDamageThrottle 0.21
+CollisionDamageTimes 0

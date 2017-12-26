@@ -1,0 +1,349 @@
+{
+    "ReturnToStart": 0b,
+    "NpcInv": [
+    ],
+    "PotionEffect": 2,
+    "Size": 3,
+    "stopAndInteract": 0b,
+    "Resistances": {
+        "Arrow": 1.0f,
+        "Explosion": 1.5070423f,
+        "Knockback": 1.9014084f,
+        "Melee": 1.5070423f
+    },
+    "BossBar": 0b,
+    "RespawnTime": 0,
+    "NpcAngrySound": "shadowmobs:entity.shade.hurt",
+    "ReactsToFire": 0b,
+    "IgnoreCobweb": 0b,
+    "PositionOffsetZ": 5.0f,
+    "PositionOffsetY": 5.0f,
+    "PositionOffsetX": 5.0f,
+    "LootMode": 0,
+    "TransformHasAI": 0b,
+    "AttackStrenght": 12,
+    "PersistenceRequired": 0b,
+    "id": "customnpcs.CustomNpc",
+    "HealF": 200.0f,
+    "MovingPatern": 0,
+    "NpcLines": {
+        "Lines": [
+        ]
+    },
+    "DefendFaction": 1b,
+    "FireIndirect": 0,
+    "NpcVisible": 0,
+    "LinkedNpcName": "",
+    "FindShelter": 1,
+    "GuardTargets": [
+    ],
+    "ScriptsContainers": [
+    ],
+    "Air": 300s,
+    "TacticalVariant": 0,
+    "Orientation": 0,
+    "ScriptLanguage": "ECMAScript",
+    "KnockBack": 0,
+    "TransformHasJob": 0b,
+    "CustomName": "",
+    "CanDespawn": 0b,
+    "BurnInSun": 1b,
+    "StandingState": 0,
+    "AttackInvisible": 0b,
+    "HurtTime": 0s,
+    "WalkingRange": 5,
+    "CustomNameVisible": 0b,
+    "ShotCount": 1,
+    "pDur": 5,
+    "extendedPropertiesFluidRespiration": {
+        "airLevel": 300
+    },
+    "AttackRange": 2,
+    "NpcKillLines": {
+        "Lines": [
+        ]
+    },
+    "PotionImmune": 0b,
+    "AvoidsSun": 0b,
+    "GuardAttackCreepers": 0b,
+    "Texture": "junglemobs:textures/entity/concapedesegment.png",
+    "NpcJob": 3,
+    "BurstCount": 1,
+    "NpcAttackLines": {
+        "Lines": [
+        ]
+    },
+    "pSpeed": 20,
+    "pArea": 0,
+    "DeathTime": 0s,
+    "pImpact": 0,
+    "DropChances": [
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f
+    ],
+    "MoveState": 0,
+    "RangeAndMelee": 0,
+    "pRender3D": 0b,
+    "Motion": [
+        0.0d,
+        -0.0784000015258789d,
+        0.0d
+    ],
+    "CombatRegen": 0,
+    "pEffect": 0,
+    "DistanceToMelee": 2,
+    "NpcStepSound": "mountainmobs:entity.jabberwock.step",
+    "FireRate": 1,
+    "pEffAmp": 0,
+    "OnGround": 1b,
+    "Dimension": 0,
+    "ImmuneToFire": 0b,
+    "NpcKilledLines": {
+        "Lines": [
+        ]
+    },
+    "GuardAttackMobs": 0b,
+    "UUIDMost": -2438451225271972378L,
+    "Fire": -1s,
+    "DisablePitch": 0b,
+    "pPhysics": 0b,
+    "TransformHasInv": 0b,
+    "NpcInteractLines": {
+        "Lines": [
+            {
+                "Line": "Uggghhhh.",
+                "Song": "",
+                "Slot": 0
+            },
+            {
+                "Line": "Errrgggghhh.",
+                "Song": "",
+                "Slot": 1
+            }
+        ]
+    },
+    "pSpin": 0b,
+    "NpcHurtSound": "shadowmobs:entity.shade.hurt",
+    "pTrail": 0,
+    "CreatureType": 2,
+    "Attributes": [
+        {
+            "Base": 200.0d,
+            "Name": "generic.maxHealth"
+        },
+        {
+            "Base": 0.0d,
+            "Name": "generic.knockbackResistance"
+        },
+        {
+            "Base": 0.3499999940395355d,
+            "Name": "generic.movementSpeed"
+        },
+        {
+            "Base": 32.0d,
+            "Name": "generic.followRange"
+        },
+        {
+            "Base": 12.0d,
+            "Name": "generic.attackDamage"
+        }
+    ],
+    "Invulnerable": 0b,
+    "TransformHasDisplay": 0b,
+    "NoFallDamage": 1b,
+    "AbsorptionAmount": 0.0f,
+    "TransformHasRole": 0b,
+    "Name": "Feeder",
+    "GuardSpecific": 0b,
+    "FallDistance": 0.0f,
+    "NpcIdleSound": "shadowmobs:entity.shade.eat",
+    "Weapons": [
+        {
+            "Slot": 1b,
+            "id": "customnpcs:npcStoneBullet",
+            "Count": 1b,
+            "Damage": 0s
+        }
+    ],
+    "NPCDialogOptions": [
+    ],
+    "AggroRange": 32,
+    "DirectLOS": 1b,
+    "HealthRegen": 1,
+    "NpcModelData": {
+        "LegsConfig": {
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "BodyConfig": {
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "EntityClass": "lycanite.lycanitesmobs.junglemobs.entity.EntityConcapedeSegment",
+        "LegParts": {
+            "Type": 0b,
+            "PlayerTexture": 1b,
+            "Color": 16777215
+        },
+        "Parts": [
+        ],
+        "Breasts": 0b,
+        "Headwear": 2b,
+        "ArmsConfig": {
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "ExtraData": {
+        },
+        "HeadConfig": {
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        }
+    },
+    "minDelay": 10,
+    "DoorInteract": 0,
+    "MoveSpeed": 7,
+    "TransformEditingModus": 0b,
+    "UsingSkinUrl": 0b,
+    "Leashed": 0b,
+    "SkinUrl": "",
+    "CanSwim": 0b,
+    "MaxHealth": 200,
+    "HideBodyWhenKilled": 0b,
+    "AttackSpeed": 10,
+    "GuardAttackAnimals": 1b,
+    "PotionDuration": 1,
+    "maxDelay": 20,
+    "ScriptEnabled": 0b,
+    "Role": 0,
+    "DropChance": [
+        {
+            "Integer": 100,
+            "Slot": 0
+        },
+        {
+            "Integer": 100,
+            "Slot": 1
+        },
+        {
+            "Integer": 100,
+            "Slot": 2
+        },
+        {
+            "Integer": 100,
+            "Slot": 3
+        },
+        {
+            "Integer": 100,
+            "Slot": 4
+        },
+        {
+            "Integer": 100,
+            "Slot": 5
+        },
+        {
+            "Integer": 100,
+            "Slot": 6
+        },
+        {
+            "Integer": 100,
+            "Slot": 7
+        },
+        {
+            "Integer": 100,
+            "Slot": 8
+        }
+    ],
+    "FactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "pDamage": 12,
+    "KilledTime": 0L,
+    "AimWhileShooting": 1b,
+    "CanPickUpLoot": 0b,
+    "AttackOtherFactions": 1b,
+    "CanDrown": 1b,
+    "AttackTime": 0s,
+    "pSize": 1,
+    "CanSprint": 1b,
+    "CanLeap": 1b,
+    "TransformIsActive": 0b,
+    "ForgeData": {
+        "HungerOverhaulCheck": 2
+    },
+    "MovingState": 0,
+    "MovingPos": 0,
+    "PotionAmp": 0,
+    "OnAttack": 0,
+    "TacticalRadius": 16,
+    "MaxExp": 1,
+    "OrderedLines": 0b,
+    "PortalCooldown": 0,
+    "pGlows": 0b,
+    "TransformHasAdvanced": 0b,
+    "TransformHasStats": 0b,
+    "FiringSound": "flansmod:8mmShoot",
+    "ModRev": 16,
+    "Accuracy": 100,
+    "MinExp": 1,
+    "Armor": [
+    ],
+    "CloakTexture": "",
+    "GlowTexture": "",
+    "MaxFiringRange": 32,
+    "pXlr8": 0b,
+    "UUIDLeast": -6185870452357549873L,
+    "Health": 200s,
+    "pExplode": 0b,
+    "pStick": 0b,
+    "MovingPause": 1b,
+    "NpcDeathSound": "shadowmobs:entity.shade.death",
+    "FactionID": 4,
+    "Title": "Daemon",
+    "TotalTicksAlive": 328228L,
+    "Rotation": [
+        -216.68066f,
+        0.0f
+    ],
+    "ShowName": 0,
+    "npcInteracting": 0b,
+    "AvoidsWater": 1b,
+    "Equipment": [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    "NoLivingAnimation": 0b,
+    "SpawnCycle": 3
+}

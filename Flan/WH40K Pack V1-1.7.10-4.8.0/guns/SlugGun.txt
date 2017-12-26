@@ -1,0 +1,67 @@
+Name Slug Gun
+// 
+//*file info*
+//
+ShortName sluggun
+Icon SlugGun
+Color 255 255 255
+Model dwfirearms.CinderfireRifle
+Texture CinderfireRifle_Steam
+ModelScale 0.2
+//
+//*sounds*
+//
+ShootSound 8mmShoot
+GunSoundRange 208
+ReloadSound MagazineReload
+ReloadSoundRange 8
+//
+//*gun stats*
+//
+UsableByPlayers True
+UsableByMechas False
+CanShootUnderwater False
+OneHanded False
+Mode SemiAuto
+//
+Ammo 8mmround
+Ammo 8mmapround
+Ammo 8mmtxround
+Ammo 8mmtqround
+Ammo 8mmmag
+Ammo 8mmapmag
+Ammo 8mmtxmag
+Ammo 8mmtqmag
+ReloadTime 40
+CanForceReload True
+//
+Damage 12
+Accuracy 3
+ShootDelay 5
+BulletSpeed 8.0
+//
+Recoil 4
+RandomRecoilRange 1.20
+RandomRecoilYawRange 0.80
+DecreaseRecoil 0.39
+DecreaseRecoilYaw 0.24
+//
+//*aiming*
+//
+Scope None
+ZoomLevel 1.00
+FOVZoomLevel 1.20
+//
+//*attachments*
+//
+AllowAllAttachments false
+AllowAttachments reddotsight acogsight 4xscope 6xscope 10xscope silencer bayonet ripperbayonet flashlight accuracy1 accuracy2 accuracy3 accuracy4 accuracy5 luckyshot1 luckyshot2 luckyshot3 luckyshot4 luckyshot5 agility1 agility2 agility3 agility4 agility5 smallguns1 smallguns2 smallguns3 smallguns4
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 6
+//
+//*status effects*
+//
+KnockbackModifier 1.0

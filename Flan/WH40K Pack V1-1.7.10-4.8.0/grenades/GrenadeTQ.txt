@@ -1,0 +1,51 @@
+Name TQ Grenade
+//
+//*fileinfo*
+//
+ShortName grenadetq
+Icon grenadetq
+Color 255 255 255
+Model Manus_WH40K.Misc.WH40K_Misc_KrakGrenade_1
+Texture Skin_WH40K_Misc_KrakGrenade_1A
+StackSize 32
+ThrowSound Throw
+//
+//*visual effects*
+//
+TrailParticles false
+SmokeParticles cloud
+SpinWhenThrown true
+SmokeTime 400
+SmokeRadius 5
+//
+//*physics*
+//
+Bounciness 0.5
+ThrowSpeed 1.7
+FallSpeed 1.0
+BreaksGlass false
+PenetratesBlocks false
+MeleeDamage 0
+HitBoxSize 0.5
+//
+//*stats*
+//
+CanThrow True
+ThrowDelay 60
+//
+DetonateOnImpact False
+DetonateWhenShot true
+Fuse 40
+FireRadius 0
+ExplosionRadius 0
+ExplosionBreaksBlocks false
+//
+//*smoke effects*
+//
+//Syntax is SmokeEffect <ID> <Duration> <Amplifier>
+//IDs are 	1:MoveSpeed		2:MoveSlowdown		3:DigSpeed			4:DigSlowdown		5:DamageBoost	6:Heal			7:Harm		8:Jump			9:Confusion		10:Regeneration
+//			11:Resistance	12:FireResistance	13:WaterBreathing	14:Invisibility		15:Blindness	16:NightVision	17:Hunger	18:Weakness		19:Poison		20:Wither
+SmokeEffect 2 200 0
+SmokeEffect 4 200 0
+SmokeEffect 18 200 0
+SmokeEffect 9 100 0

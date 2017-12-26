@@ -1,0 +1,8 @@
+Name Fusion Interface
+ShortName fusioninterface
+Icon FusionInterface
+Category Engine
+EngineSpeed 1.0
+FuelConsumption 0.0
+WorksWith vehicles mechas planes
+StackSize 1

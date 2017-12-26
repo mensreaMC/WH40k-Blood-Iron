@@ -1,0 +1,10 @@
+Name Heavy Weapons 1
+ShortName heavyweapons1
+Icon abilitytoken
+//
+AttachmentType generic
+//
+DamageMultiplier 1.05
+SpreadMultiplier 0.9
+RecoilMultiplier 0.8
+ReloadTimeMultiplier 0.9

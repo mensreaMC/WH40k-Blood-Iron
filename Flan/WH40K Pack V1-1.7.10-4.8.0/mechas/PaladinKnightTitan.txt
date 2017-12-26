@@ -1,0 +1,67 @@
+Name Paladin Knight Titan
+//
+//*file info*
+//
+ShortName paladinknighttitan
+Icon PaladinKnightTitan
+Model titan.ZeroTitan
+Texture ZeroTitan
+ModelScale 1.0
+CameraDistance 15.0
+//
+//*movement*
+//
+MoveSpeed 1.2
+RotateSpeed 40
+StepHeight 6.0
+JumpHeight 10.0
+TakeFallDamage False
+FallDamageMultiplier 0.0
+DamageBlocksFromFalling False
+BlockDamageFromFalling 1.0
+//
+//*cargo*
+//
+FuelTankSize 2000
+CargoSlots 8
+//
+//*seating*
+//
+Driver 0 119 0
+Passengers 0
+RotatedDriverOffset 35 0 0
+YOffset 0
+//
+//*model info*
+//
+LeftArmOrigin -11 104 -49
+RightArmOrigin -11 104 49
+ArmLength 48
+LegLength 91
+HeldItemScale 2
+Height 153
+Width 114
+ChassisHeight 42
+LegSwingLimit 4
+UpperArmLimit 30
+LowerArmLimit 60
+//
+//*recipe*
+//
+AddRecipeParts core 12 vehicleparts 12 vehiclearmor 4 vehicleelectronics 4 mechpowertrain 256 redstone
+AddRecipeParts leftArm 3 vehicleparts 3 vehiclearmor 1 vehicleelectronics
+AddRecipeParts rightArm 3 vehicleparts 3 vehiclearmor 1 vehicleelectronics
+AddRecipeParts hips 5 vehicleparts 5 vehiclearmor 2 vehicleelectronics
+//
+//*health & collision*
+//
+SetupPart core 8000 -50 111 -31 108 31 61
+SetupPart hips 8000 -20 1 -31 40 100 62
+SetupPart rightArm 3000 -31 87 43 68 22 12
+SetupPart leftArm 3000 -31 87 -55 68 22 12
+BulletDetection 8
+IsExplosionWhenDestroyed True
+CollisionDamageEnable True
+CollisionDamageThrottle 0.21
+CollisionDamageTimes 0
+SquashMobs True

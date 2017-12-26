@@ -1,0 +1,14 @@
+{
+  "nameCache": [
+    {
+      "uuid": "10fb7b4e-417d-42c8-9b59-ecc0964768df",
+      "name": "Mensrea",
+      "isOP": false
+    },
+    {
+      "uuid": "fac0350f-54b0-4731-b8e5-ab405b636134",
+      "name": "laserbeam_nik",
+      "isOP": true
+    }
+  ]
+}

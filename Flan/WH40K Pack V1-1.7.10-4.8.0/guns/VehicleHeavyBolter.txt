@@ -1,0 +1,47 @@
+Name Vehicle Heavy Bolter
+// 
+//*file info*
+//
+ShortName vehicleheavybolter
+Icon VehicleHeavyBolter
+Color 255 255 255
+Model mw.M249
+Texture M249
+ModelScale 1.6
+//
+//*sounds*
+//
+ShootSound BolterShoot
+GunSoundRange 208
+ReloadSound BoltReload
+ReloadSoundRange 16
+//
+//*gun stats*
+//
+UsableByPlayers False
+UsableByMechas True
+CanShootUnderwater False
+OneHanded False
+Mode FullAuto
+//
+Ammo boltbox
+Ammo boltdrum
+ReloadTime 0
+CanForceReload True
+//
+Damage 80
+Accuracy 2
+ShootDelay 3
+BulletSpeed 20.0
+//
+Recoil 0
+//
+IgnoreArmorProbability 0.5
+IgnoreArmorDamageFactor 1.0
+//
+//*attachments*
+//
+AllowAllAttachments false
+AllowAttachments none
+AllowScopeAttachments false
+NumGenericAttachmentSlots 0

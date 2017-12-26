@@ -1,0 +1,10 @@
+Name Parachute
+ShortName parachute
+Icon parachute
+Model mw.MWParachute
+Texture MWParachute
+Colour 255 255 255
+StackSize 1
+ToolLife 1
+DestroyOnEmpty true
+Parachute true

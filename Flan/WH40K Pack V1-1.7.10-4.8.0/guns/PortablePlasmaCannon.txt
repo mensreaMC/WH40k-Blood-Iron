@@ -1,0 +1,64 @@
+Name Portable Plasma Cannon
+// 
+//*file info*
+//
+ShortName portableplasmacannon
+Icon PortablePlasmaCannon
+Color 255 255 255
+Model fc.MechPAC1
+Texture MechPAC1
+ModelScale 0.2
+//
+//*sounds*
+//
+ShootSound PlasmaShoot
+GunSoundRange 304
+ReloadSound ECReload
+ReloadSoundRange 16
+//
+//*gun stats*
+//
+UsableByPlayers True
+UsableByMechas False
+CanShootUnderwater False
+OneHanded False
+Mode SemiAuto
+//
+Ammo echeavyoverclocked
+ReloadTime 240
+CanForceReload False
+//
+Damage 250
+Accuracy 10
+ShootDelay 40
+BulletSpeed 4.0
+//
+Recoil 16
+RandomRecoilRange 6.00
+RandomRecoilYawRange 6.00
+DecreaseRecoil 1.80
+DecreaseRecoilYaw 1.80
+//
+IgnoreArmorProbability 1.0
+IgnoreArmorDamageFactor 8.0
+//
+//*melee*
+//
+MeleeDamage 1
+MeleeTime 60
+//MeleeSound Throw
+//
+//*status effects*
+//
+MoveSpeedModifier 0.8
+KnockbackModifier 1.0
+//
+//*attachments*
+//
+AllowAllAttachments false
+AllowAttachments bayonet ripperbayonet accuracy1 accuracy2 accuracy3 accuracy4 accuracy5 luckyshot1 luckyshot2 luckyshot3 luckyshot4 luckyshot5 agility1 agility2 agility3 agility4 agility5 heavyweapons1 heavyweapons2 heavyweapons3 heavyweapons4 steady
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 6

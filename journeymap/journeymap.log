@@ -1,0 +1,257 @@
+[09:36:51] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[09:36:51] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[09:36:51] [Client thread/INFO] [PropertiesBase] Loaded CoreProperties from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\config\5.1\journeymap.core.config
+[09:36:51] [Client thread/INFO] [PropertiesBase] Loaded FullMapProperties from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\config\5.1\journeymap.fullmap.config
+[09:36:51] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\config\5.1\journeymap.minimap.config
+[09:36:51] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties2 from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\config\5.1\journeymap.minimap2.config
+[09:36:51] [Client thread/INFO] [PropertiesBase] Loaded WebMapProperties from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\config\5.1\journeymap.webmap.config
+[09:36:51] [Client thread/INFO] [PropertiesBase] Loaded WaypointProperties from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\config\5.1\journeymap.waypoint.config
+[09:36:51] [Client thread/INFO] [?] Version: JourneyMap 5.1.4p2 Unlimited, built with Forge 10.13.4.1558
+Forge: 10.13.4.1614
+Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_US, locale=en_us
+Unlimited Features: 
+	RadarPlayers : singleplayer = true , multiplayer = true
+	RadarAnimals : singleplayer = true , multiplayer = true
+	RadarMobs : singleplayer = true , multiplayer = true
+	RadarVillagers : singleplayer = true , multiplayer = true
+	MapCaves : singleplayer = true , multiplayer = true
+MiniMapProperties{entityIconSetName=2D, showAnimals=true, showMobs=true, showPets=true, showPlayers=true, showSelf=true, showVillagers=true, showWaypoints=true, zoomLevel=0, fontScale=1, locationFormat=xyz, locationFormatVerbose=true, showCaves=true, showWaypointLabels=true, showMobHeading=true, showPlayerHeading=true, textureSmall=true, active=true, compassFontScale=1, enabled=true, frameAlpha=100, name=minimap, orientation=North, position=Top Right, preferredMapType=day, reticleOrientation=Compass, shape=Square, showBiome=true, showCompass=true, showFps=false, showLocation=true, showReticle=true, sizePercent=30, terrainAlpha=100}
+MiniMapProperties2{enabled=true, shape=Rectangle, position=Top Center, showFps=false, showBiome=true, showLocation=true, showWaypointLabels=true, sizePercent=30, frameAlpha=60, terrainAlpha=60, orientation=My Heading, compassFontScale=1, showCompass=true, showReticle=true, reticleOrientation=Compass, preferredMapType=day, name=minimap2, id=2}
+FullMapProperties{entityIconSetName=2D, showAnimals=true, showMobs=true, showPets=true, showPlayers=true, showSelf=true, showVillagers=true, showWaypoints=true, zoomLevel=0, fontScale=1, locationFormat=xyz, locationFormatVerbose=true, showCaves=true, showWaypointLabels=true, showMobHeading=true, showPlayerHeading=true, textureSmall=true, preferredMapType=day, showGrid=true}
+WaypointProperties{autoHideLabel=true, beaconEnabled=true, boldLabel=false, createDeathpoints=false, fontScale=2, managerEnabled=true, maxDistance=0, name=waypoint, showDistance=true, showName=true, showRotatingBeam=true, showStaticBeam=true, showTexture=true, textureSmall=true}
+WebMapProperties: , enabled=false, port=8080, showMobs=true, showAnimals=true, showVillagers=true, showPets=true, showPlayers=true, showWaypoints=true, entityIconSetName=2D
+CoreProperties{announceMod=true, autoMapPoll=10000, browserPoll=10000, cacheAnimalsData=3100, cacheMobsData=3000, cachePlayerData=1000, cachePlayersData=2000, cacheVillagersData=10000, caveIgnoreGlass=true, isUpdateCheckEnabled=false, renderDelay=2, hideSneakingEntities=false, logLevel=INFO, mapAntialiasing=true, mapBathymetry=false, mapCaveLighting=false, mapCrops=true, mapPlants=false, mapPlantShadows=false, mapSurfaceAboveCaves=true, tileHighDisplayQuality=false, mapTransparency=true, maxAnimalsData=32, maxMobsData=32, maxPlayersData=32, maxVillagersData=32, optionsManagerViewed=5.1.4p2, radarLateralDistance=64, radarVerticalDistance=16, recordCacheStats=false, renderOverlayEventTypeName=ALL, renderOverlayPreEvent=true, renderDistanceCaveMin=1, renderDistanceCaveMax=1, renderDistanceSurfaceMin=4, renderDistanceSurfaceMax=6, revealShape=Circle, themeName=Vault, tileRenderType=1}
+[09:36:51] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
+[09:37:02] [Client thread/INFO] [JourneymapClient] postInitialize ENTER
+[09:37:02] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.ChatEventHandler registered in MinecraftForgeBus
+[09:37:02] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.StateTickHandler registered in FMLCommonHandlerBus
+[09:37:02] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.WorldEventHandler registered in MinecraftForgeBus
+[09:37:02] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.ChunkUpdateHandler registered in MinecraftForgeBus
+[09:37:02] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.WaypointBeaconHandler registered in MinecraftForgeBus
+[09:37:02] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.TextureAtlasHandler registered in MinecraftForgeBus
+[09:37:02] [Client thread/INFO] [WorldInfoHandler] Registered channel: world_info
+[09:37:02] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.MiniMapOverlayHandler registered in MinecraftForgeBus
+[09:37:02] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.KeyEventHandler registered in FMLCommonHandlerBus
+[09:37:02] [Client thread/INFO] [IconSetFileHandler] Initializing icon sets...
+[09:37:03] [Client thread/TRACE] [ThemeFileHandler] Initializing themes ...
+[09:37:03] [Client thread/DEBUG] [PropertiesBase] Saved journeymap.webmap.config
+[09:37:03] [Client thread/INFO] [VersionCheck] Update check disabled in properties file.
+[09:37:03] [Client thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r675.37§8ms§r
+[09:37:25] [Client thread/INFO] [ColorManager] Loading blocks and textures...
+[09:37:25] [Client thread/INFO] [BlockMD] Built BlockMD cache (1712) : BlockMD.reset count 1 avg 77.94ms
+[09:37:26] [Client thread/INFO] [ColorHelper_1_7_10] initBlocksTexture: 2048x2048 loaded in 108.68815ms
+[09:37:26] [Client thread/INFO] [ColorPalette] Existing color palette's resource packs and mod names match current loadout.
+[09:37:26] [Client thread/INFO] [ColorManager] Loaded 1651 block colors from color palette file in 6ms: C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\colorpalette.json
+[09:37:26] [Client thread/INFO] [ColorManager] Initialized 17 block colors from mods and resource packs in 21ms
+[09:37:26] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [IW:forcefieldA:0] (OpenToSky,Transparency,Error,TransparentRoof)
+[09:37:26] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ForgeMultipart:block:0] (Transparency,Error)
+[09:37:26] [Client thread/INFO] [ColorPalette] Color palette file generated with 1650 colors in 34ms for: C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\colorpalette.json
+[09:37:26] [Client thread/INFO] [ColorManager] Updated color palette file: C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\colorpalette.json
+[09:43:42] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\waypoints
+[09:43:42] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[09:43:42] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM1. Memory: 4096MB total, 3516MB free 
+[09:44:40] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
+[09:45:20] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM1
+[09:45:21] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\waypoints
+[09:45:21] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[09:45:21] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM1. Memory: 4096MB total, 3385MB free 
+[09:47:35] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM1
+[09:50:04] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\waypoints
+[09:50:04] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[09:50:04] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM1. Memory: 4096MB total, 3374MB free 
+[09:50:35] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM1
+[09:50:37] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\waypoints
+[09:50:37] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[09:50:37] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM0. Memory: 4096MB total, 3394MB free 
+[09:50:38] [JM-task-5/WARN] [VanillaColorHandler] Iconloader failed to get base color for BlockMD [IW:bush:0] (Error)
+[09:50:55] [JM-task-5/WARN] [VanillaColorHandler] Iconloader failed to get base color for BlockMD [IW:povertygrass:0] (Error)
+[09:51:13] [Client thread/WARN] [StatTimer] TileDrawStep.updateRegionTexture was slow: 70.87372 (Warning limit reached)
+[09:51:13] [Client thread/WARN] [StatTimer] TileDrawStep.updateRegionTexture: Avg:     0.04ms, Min:        0ms, Max:      93.82ms, Total:          0 sec, Count:    22155, Canceled:        0, Slow:       10
+[09:51:18] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM0
+[09:51:18] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\waypoints
+[09:51:18] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[09:51:18] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM0. Memory: 4096MB total, 3305MB free 
+[09:52:17] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM0
+[09:52:17] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\waypoints
+[09:52:17] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[09:52:17] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM0. Memory: 4096MB total, 3266MB free 
+[09:53:17] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM0
+[09:53:17] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\waypoints
+[09:53:17] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[09:53:17] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM0. Memory: 4096MB total, 3266MB free 
+[09:54:17] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM0
+[09:54:18] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\waypoints
+[09:54:18] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[09:54:18] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM0. Memory: 4096MB total, 2983MB free 
+[09:54:57] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM0
+[09:58:00] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\waypoints
+[09:58:00] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[09:58:00] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM0. Memory: 4096MB total, 3398MB free 
+[09:58:19] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM0
+[09:58:21] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\waypoints
+[09:58:21] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[09:58:21] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM0. Memory: 4096MB total, 3094MB free 
+[09:58:23] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM0
+[10:10:06] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:10:06] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:10:06] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 3320MB free 
+[10:10:15] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:10:26] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:10:26] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:10:26] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 3253MB free 
+[10:11:05] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:11:28] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:11:28] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:11:28] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 3208MB free 
+[10:12:24] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:12:25] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:12:25] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:12:25] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 3171MB free 
+[10:13:24] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:13:26] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:13:26] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:13:26] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 3121MB free 
+[10:13:50] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:14:01] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:14:01] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:14:01] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 3156MB free 
+[10:14:33] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:14:35] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:14:35] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:14:35] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 3071MB free 
+[10:15:35] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:15:36] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:15:36] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:15:36] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 3153MB free 
+[10:16:32] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:16:52] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\waypoints
+[10:16:52] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:16:52] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM0. Memory: 4096MB total, 3106MB free 
+[10:17:50] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM0
+[10:17:50] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\waypoints
+[10:17:50] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:17:50] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM0. Memory: 4096MB total, 3110MB free 
+[10:18:50] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM0
+[10:18:50] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\waypoints
+[10:18:50] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:18:50] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM0. Memory: 4096MB total, 3060MB free 
+[10:19:50] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM0
+[10:19:51] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\waypoints
+[10:19:51] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:19:51] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM0. Memory: 4096MB total, 3016MB free 
+[10:20:49] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM0
+[10:21:15] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\waypoints
+[10:21:15] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:21:15] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM0. Memory: 4096MB total, 3088MB free 
+[10:21:16] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM0
+[10:21:17] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\waypoints
+[10:21:17] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:21:17] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM0. Memory: 4096MB total, 2942MB free 
+[10:22:00] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\dev world 4\DIM0
+[10:23:30] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:23:30] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:23:30] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 2992MB free 
+[10:23:45] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:23:46] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:23:46] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:23:46] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 2915MB free 
+[10:24:44] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:24:46] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:24:46] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:24:46] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 2858MB free 
+[10:25:46] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:25:47] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:25:47] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:25:47] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 2847MB free 
+[10:26:39] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:26:56] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:26:56] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:26:56] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 3029MB free 
+[10:27:14] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:27:15] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:27:15] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:27:15] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 2845MB free 
+[10:28:14] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:28:15] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:28:15] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:28:15] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 2835MB free 
+[10:29:14] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:29:15] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:29:15] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:29:15] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 2844MB free 
+[10:30:14] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:30:15] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:30:15] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:30:15] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 2400MB free 
+[10:31:14] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:31:15] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:31:15] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:31:15] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 2435MB free 
+[10:32:14] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:32:15] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:32:15] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:32:15] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 2741MB free 
+[10:33:14] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:33:14] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:33:14] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:33:14] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 2686MB free 
+[10:34:14] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:34:15] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:34:15] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:34:15] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 2541MB free 
+[10:35:14] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:35:15] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:35:15] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:35:15] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 2661MB free 
+[10:36:14] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:36:15] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:36:15] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:36:15] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 2441MB free 
+[10:37:14] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:37:15] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:37:15] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:37:15] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 2984MB free 
+[10:38:14] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:38:15] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:38:15] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:38:15] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 2953MB free 
+[10:39:14] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:39:15] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:39:15] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:39:15] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 2691MB free 
+[10:40:14] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:40:14] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:40:14] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:40:14] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 2644MB free 
+[10:41:14] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:41:15] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:41:15] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:41:15] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 2371MB free 
+[10:42:14] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:42:15] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:42:15] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:42:15] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 2847MB free 
+[10:43:14] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:43:15] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:43:15] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:43:15] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 2577MB free 
+[10:44:14] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:44:15] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:44:15] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:44:15] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 2571MB free 
+[10:45:14] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:45:15] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:45:15] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:45:15] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 2639MB free 
+[10:46:14] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:46:15] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:46:15] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:46:15] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 2471MB free 
+[10:47:14] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:47:14] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:47:14] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:47:14] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 2863MB free 
+[10:48:14] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0
+[10:48:15] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\waypoints
+[10:48:15] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:48:15] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\journeymap\data\sp\New World\DIM0. Memory: 4096MB total, 2811MB free 

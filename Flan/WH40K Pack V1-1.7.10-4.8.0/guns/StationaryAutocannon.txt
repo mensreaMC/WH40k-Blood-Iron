@@ -1,0 +1,72 @@
+Name Stationary Autocannon
+// 
+//*file info*
+//
+ShortName stationaryautocannon
+Icon PortableAutocannon
+Color 255 255 255
+Model fc.MechPAC1
+Texture MechPAC1
+ModelScale 0.2
+//
+//*sounds*
+//
+ShootSound 20mmShoot
+GunSoundRange 400
+ReloadSound BoxReload
+ReloadSoundRange 16
+//
+//*gun stats*
+//
+UsableByPlayers True
+UsableByMechas False
+CanShootUnderwater False
+OneHanded False
+Mode FullAuto
+//
+Ammo 20mmmag
+Ammo 20mmhemag
+Ammo 20mmapmag
+Ammo 20mmheiapmag
+Ammo 20mmtxmag
+Ammo 20mmtqmag
+Ammo 20mmbox
+Ammo 20mmhebox
+Ammo 20mmapbox
+Ammo 20mmdrum
+Ammo 20mmhedrum
+Ammo 20mmapdrum
+ReloadTime 0
+CanForceReload True
+//
+Damage 40
+Accuracy 6
+ShootDelay 20
+BulletSpeed 12.0
+//
+Recoil 16
+RandomRecoilRange 8.00
+RandomRecoilYawRange 3.00
+DecreaseRecoil 2.40
+DecreaseRecoilYaw 0.90
+//
+//*melee*
+//
+MeleeDamage 1
+MeleeTime 60
+//MeleeSound Throw
+//
+//*status effects*
+//
+MoveSpeedModifier 0.0
+KnockbackModifier 1.0
+//
+//*attachments*
+//
+AllowAllAttachments false
+AllowAttachments bayonet ripperbayonet accuracy1 accuracy2 accuracy3 accuracy4 accuracy5 luckyshot1 luckyshot2 luckyshot3 luckyshot4 luckyshot5 agility1 agility2 agility3 agility4 agility5 heavyweapons1 heavyweapons2 heavyweapons3 heavyweapons4 antimaterialist steady
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 6

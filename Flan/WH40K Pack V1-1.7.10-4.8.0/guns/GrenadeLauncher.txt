@@ -1,0 +1,70 @@
+Name Grenade Launcher
+// 
+//*file info*
+//
+ShortName grenadelauncher
+Icon GrenadeLauncher
+Color 255 255 255
+Model Manus_WH40K.Gun.WH40K_Gun_MkVGrenadeLauncher_1
+Texture Skin_WH40K_Gun_MkVGrenadeLauncher_1A
+ModelScale 0.09
+//
+//*sounds*
+//
+ShootSound GrenadeLauncherShoot
+GunSoundRange 112
+ReloadSound GrenadeLauncherReload
+ReloadSoundRange 8
+//
+//*gun stats*
+//
+UsableByPlayers True
+UsableByMechas False
+CanShootUnderwater False
+OneHanded False
+Mode SemiAuto
+//
+Ammo 40mmhegrenade
+Ammo 40mminfernogrenade
+Ammo 40mmtxgrenade
+Ammo 40mmtqgrenade
+Ammo 40mmsmokegrenade
+Ammo 40mmstickygrenade
+Ammo 40mmricogrenade
+Ammo 40mmremotecharge
+Ammo 40mmheimpactgrenade
+Ammo 40mmfoamgrenade
+LoadIntoGun 6
+ReloadTime 120
+CanForceReload True
+//
+Damage 10
+Accuracy 8
+ShootDelay 10
+BulletSpeed 2.5
+//
+Recoil 10
+RandomRecoilRange 5.00
+RandomRecoilYawRange 2.00
+DecreaseRecoil 1.50
+DecreaseRecoilYaw 0.60
+//
+//*melee*
+//
+MeleeDamage 1
+MeleeTime 60
+//MeleeSound Throw
+//
+//*attachments*
+//
+AllowAllAttachments false
+AllowAttachments bayonet ripperbayonet accuracy1 accuracy2 accuracy3 accuracy4 accuracy5 luckyshot1 luckyshot2 luckyshot3 luckyshot4 luckyshot5 agility1 agility2 agility3 agility4 agility5 masterblaster1 masterblaster2 masterblaster3 masterblaster4
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 6
+//
+//*status effects*
+//
+KnockbackModifier 1.0

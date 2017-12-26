@@ -1,0 +1,10 @@
+Name Metal Stormer
+ShortName metalstormer
+Icon abilitytoken
+//
+AttachmentType generic
+//
+DamageMultiplier 1.2
+SpreadMultiplier 0.2
+RecoilMultiplier 0.2
+ReloadTimeMultiplier 0.5

@@ -1,0 +1,11 @@
+Name Plasma Spaz
+ShortName plasmaspaz
+Icon abilitytoken
+//
+AttachmentType generic
+//
+BulletSpeedMultiplier 1.4
+DamageMultiplier 1.4
+SpreadMultiplier 0.8
+RecoilMultiplier 0.8
+ReloadTimeMultiplier 0.5

@@ -1,0 +1,7 @@
+Name Melee Weapons 3
+ShortName meleeweapons3
+Icon abilitytoken
+//
+AttachmentType generic
+//
+MeleeDamageMultiplier 1.3

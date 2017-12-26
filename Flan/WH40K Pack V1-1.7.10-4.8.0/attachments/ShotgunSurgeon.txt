@@ -1,0 +1,10 @@
+Name Shotgun Surgeon
+ShortName shotgunsurgeon
+Icon abilitytoken
+//
+AttachmentType generic
+//
+DamageMultiplier 1.4
+SpreadMultiplier 0.8
+RecoilMultiplier 0.4
+ReloadTimeMultiplier 0.4

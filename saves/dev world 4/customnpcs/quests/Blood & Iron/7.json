@@ -1,0 +1,100 @@
+{
+    "CompleterNpc": "Endel",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Escape From Mortua",
+    "Text": "-Craft the spacecraft components and return them to Endel for assembly.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 16,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1508172405837L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "ArchimedesShipsPlus:marker",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "ArchimedesShipsPlus:engine",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "IW:steelblock",
+                "Count": 64b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "IW:steelsiding",
+                "Count": 64b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "ArchimedesShipsPlus:gauge",
+                "Count": 1b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 6b,
+                "id": "ArchimedesShipsPlus:balloon",
+                "Count": 64b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "ArchimedesShipsPlus:balloon",
+                "Count": 64b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "id": "ArchimedesShipsPlus:gauge",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcCrate",
+                "Count": 1b,
+                "Damage": 5s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "\"Alright, Colonel. Ready to fly?\"",
+    "NextQuestTitle": ""
+}

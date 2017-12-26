@@ -1,0 +1,34 @@
+Name Combat Knife
+// 
+//*file info*
+//
+ShortName combatknife
+Icon CombatKnife
+Color 255 255 255
+//
+//*sounds*
+//
+//MeleeSound Throw
+GunSoundRange 8
+//
+//*gun stats*
+//
+UsableByPlayers True
+UsableByMechas False
+OneHanded False
+//
+//*melee*
+//
+MeleeDamage 3
+MeleeTime 20
+//
+//*status effects*
+//
+//MoveSpeedModifier 1.0
+KnockbackModifier 0.3
+//
+//*attachments*
+//
+AllowAllAttachments false
+AllowAttachments meleeweapons1 meleeweapons2 meleeweapons3 meleeweapons4
+NumGenericAttachmentSlots 4

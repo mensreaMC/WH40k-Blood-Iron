@@ -1,0 +1,46 @@
+Name Vehicle Heavy Autogun
+// 
+//*file info*
+//
+ShortName vehicleheavyautogun
+Icon VehicleHeavyAutogun
+Color 255 255 255
+Model fc.MechCannon
+Texture MechCannon
+ModelScale 0.1
+//
+//*sounds*
+//
+ShootSound 12mmShoot
+GunSoundRange 304
+ReloadSound BoxReload
+ReloadSoundRange 16
+//
+//*gun stats*
+//
+UsableByPlayers False
+UsableByMechas True
+CanShootUnderwater False
+OneHanded False
+Mode FullAuto
+//
+Ammo 12mmbox
+Ammo 12mmapbox
+Ammo 12mmdrum
+Ammo 12mmapdrum
+ReloadTime 0
+CanForceReload False
+//
+Damage 20
+Accuracy 2
+ShootDelay 3
+BulletSpeed 10.0
+//
+Recoil 0
+//
+//*attachments*
+//
+AllowAllAttachments false
+AllowAttachments none
+AllowScopeAttachments false
+NumGenericAttachmentSlots 0

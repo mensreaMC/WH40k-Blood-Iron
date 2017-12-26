@@ -1,0 +1,45 @@
+Name Overclocked EC
+//
+//*fileinfo*
+//
+ShortName ecoverclocked
+Icon ECOverclocked
+Colour 255 255 255 
+WeaponType NONE
+Model Manus_WH40K.Misc.WH40K_Misc_BoltBullet_1
+Texture Skin_WH40K_Bullet_Plasma_1A
+//
+//*sounds*
+//
+HitSoundEnable True
+HitSound PlasmaShoot
+HitSoundRange 16
+EntityHitSoundEnable True
+//
+//*bullet stats*
+//
+FallSpeed 0.0
+Fuse 7
+HitBoxSize 0.4
+MaxStackSize 8
+RoundsPerItem 10
+//
+DamageVsVehicles 2.0
+DamageVsLiving 1.0
+//
+SetEntitiesOnFire True
+FireRadius 0.5
+BreaksGlass False
+//
+ExplodeOnImpact True
+ExplosionRadius 1.0
+ExplosionBreaksBlocks False
+ExplosionDamageVsLiving 1.5
+ExplosionDamageVsPlane 1.5
+ExplosionDamageVsVehicle 1.5
+//
+//*visuals*
+//
+SmokeTrail False
+FlakParticles 20
+FlakParticleType fireworksSpark

@@ -1,0 +1,40 @@
+Name Loading Bench
+//
+ShortName ammunitionworkbench
+//
+TopTexture ammunitionworkbenchtop
+SideTexture workbenchside
+BottomTexture workbenchbottom
+//
+//AddGun shortName amountOf item
+//AddAmmo must come immediately after AddGun for them to be in the same slot
+//The names of the items / blocks are those in the code, with some exceptions such as iron (ingotIron) and gunpowder (sulphur)
+//And with parts from this mod, they are the shortName of the item
+//Guns cannot yet have multiple ammo types in the same slot. For now, just list them under two seperate guns that are the same
+//
+NumGuns 22
+//
+// *Ammunition*
+//
+AddGun 8gaapmag 1 apbulletparts 1 casingparts 2 nitrocellulose
+AddGun 8gamag 1 bulletparts 1 casingparts 2 nitrocellulose
+AddGun 8mmaphighcapmag 1 apbulletparts 1 casingparts 1 nitrocellulose
+AddGun 8mmhighcapmag 1 bulletparts 1 casingparts 1 nitrocellulose
+AddGun 12mmapbox 2 apbulletparts 2 casingparts 3 nitrocellulose
+AddGun 12mmapdrum 18 apbulletparts 18 casingparts 27 nitrocellulose
+AddGun 12mmbox 2 bulletparts 2 casingparts 3 nitrocellulose
+AddGun 12mmdrum 18 bulletparts 18 casingparts 27 nitrocellulose
+AddGun 20mmapbox 4 apbulletparts 4 casingparts 8 nitrocellulose
+AddGun 20mmapdrum 36 apbulletparts 36 casingparts 72 nitrocellulose
+AddGun 20mmbox 4 bulletparts 4 casingparts 8 nitrocellulose
+AddGun 20mmdrum 36 bulletparts 36 casingparts 72 nitrocellulose
+AddGun 20mmhebox 2 rdx 4 bulletparts 4 casingparts 8 nitrocellulose
+AddGun 20mmhedrum 18 rdx 36 bulletparts 36 casingparts 72 nitrocellulose
+AddGun 120mmapround 1 apbulletparts 1 casingparts 2 nitrocellulose
+AddGun 120mmheround 1 rdx 1 bulletparts 1 casingparts 2 nitrocellulose
+AddGun 120mmround 1 bulletparts 1 casingparts 2 nitrocellulose
+AddGun 150mmapround 2 apbulletparts 2 casingparts 4 nitrocellulose
+AddGun 150mmheround 2 rdx 2 bulletparts 2 casingparts 4 nitrocellulose
+AddGun 150mmround 2 bulletparts 2 casingparts 4 nitrocellulose
+AddGun boltbox 2 rdx 4 boltparts 4 nitrocellulose
+AddGun boltdrum 18 rdx 36 boltparts 36 nitrocellulose

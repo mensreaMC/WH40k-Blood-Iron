@@ -1,0 +1,5 @@
+Name Nitrocellulose
+ShortName nitrocellulose
+Icon Nitrocellulose
+Category Misc
+StackSize 64

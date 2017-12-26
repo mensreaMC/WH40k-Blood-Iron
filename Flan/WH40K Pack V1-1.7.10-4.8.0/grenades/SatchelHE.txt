@@ -1,0 +1,55 @@
+Name HE Satchel
+//
+//*fileinfo*
+//
+ShortName satchelhe
+Icon SatchelHE
+Color 255 255 255
+Model mw.C4
+Texture C4
+StackSize 32
+ThrowSound Throw
+DetonateSound MineExplode
+DespawnTime 0
+//
+//*visual effects*
+//
+TrailParticles false
+ExplodeParticles explode
+SpinWhenThrown false
+SmokeTime 3
+SmokeRadius 5
+//
+//*physics*
+//
+Bounciness 0.0
+ThrowSpeed 0.2
+FallSpeed 1.0
+BreaksGlass false
+PenetratesBlocks false
+Sticky false
+MeleeDamage 0
+//
+//*stats*
+//
+CanThrow True
+ThrowDelay 30
+//
+PrimeDelay 20
+Remote true
+DetonateOnImpact false
+DetonateWhenShot false
+Fuse 0
+FireRadius 0
+ExplosionBreaksBlocks false
+ExplosionRadius 6.0
+ExplosionDamageVsLiving 8.0
+ExplosionDamageVsPlane 1.0
+ExplosionDamageVsVehicle 1.0
+//
+//*smoke effects*
+//
+//Syntax is SmokeEffect <ID> <Duration> <Amplifier>
+//IDs are 	1:MoveSpeed		2:MoveSlowdown		3:DigSpeed			4:DigSlowdown		5:DamageBoost	6:Heal			7:Harm		8:Jump			9:Confusion		10:Regeneration
+//			11:Resistance	12:FireResistance	13:WaterBreathing	14:Invisibility		15:Blindness	16:NightVision	17:Hunger	18:Weakness		19:Poison		20:Wither
+//SmokeEffect 7 1 7

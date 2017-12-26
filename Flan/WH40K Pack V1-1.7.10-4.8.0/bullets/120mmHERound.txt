@@ -1,0 +1,42 @@
+Name 120mm HE Round
+//
+//*fileinfo*
+//
+ShortName 120mmheround
+Icon 120mmHERound
+Colour 255 255 255
+Model bmp.30mm
+Texture Tracer
+//
+//*sounds*
+//
+HitSoundEnable True
+HitSound TankHit
+HitSoundRange 32
+EntityHitSoundEnable True
+//
+//*bullet stats*
+//
+WeaponType Shell
+FallSpeed 0.1
+HitBoxSize 2.0
+MaxStackSize 4
+RoundsPerItem 1
+//
+DamageVsVehicles 200
+DamageVsLiving 400
+//
+SetEntitiesOnFire False
+FireRadius 0
+BreaksGlass False
+//
+ExplodeOnImpact True
+ExplosionBreaksBlocks False
+ExplosionRadius 2.4
+ExplosionDamageVsLiving 5.5
+ExplosionDamageVsPlane 1.0
+ExplosionDamageVsVehicle 1.0
+//
+//*visuals*
+//
+SmokeTrail True

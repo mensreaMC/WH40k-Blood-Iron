@@ -1,0 +1,1 @@
+Drop the fastcraft and optifine files into your mods folder. The mods can increase performance in some machines but may create issues for others. 

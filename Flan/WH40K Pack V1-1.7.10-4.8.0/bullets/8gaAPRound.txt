@@ -1,0 +1,30 @@
+Name 8GA AP Round
+//
+//*fileinfo*
+//
+ShortName 8gaapround
+Icon 8gaAPRound
+Colour 255 255 255 
+WeaponType NONE
+//
+//*sounds*
+//
+HitSoundEnable True
+HitSound BulletHit
+HitSoundRange 16
+EntityHitSoundEnable True
+//
+//*bullet stats*
+//
+FallSpeed 0.2
+MaxStackSize 64
+RoundsPerItem 1
+DamageVsVehicles 2
+DamageVsLiving 1
+ExplodeOnImpact False
+ExplosionRadius 0
+SetEntitiesOnFire False
+FireRadius 0
+BreaksGlass False
+HitBoxSize 0.1
+SmokeTrail False

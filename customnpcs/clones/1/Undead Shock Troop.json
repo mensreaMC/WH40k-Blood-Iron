@@ -1,0 +1,459 @@
+{
+    "ReturnToStart": 1b,
+    "NpcInv": [
+        {
+            "Slot": 0b,
+            "id": "flansmod:8gamag",
+            "Count": 1b,
+            "Damage": 0s
+        },
+        {
+            "Slot": 1b,
+            "id": "customnpcs:npcCoinWooden",
+            "Count": 1b,
+            "Damage": 0s
+        }
+    ],
+    "PotionEffect": 2,
+    "Size": 5,
+    "stopAndInteract": 0b,
+    "Resistances": {
+        "Arrow": 1.0f,
+        "Explosion": 1.0f,
+        "Knockback": 1.9014084f,
+        "Melee": 1.0f
+    },
+    "BossBar": 0b,
+    "RespawnTime": 300,
+    "NpcAngrySound": "demonmobs:entity.pinky.say",
+    "ReactsToFire": 0b,
+    "IgnoreCobweb": 0b,
+    "PositionOffsetZ": 5.0f,
+    "PositionOffsetY": 5.0f,
+    "PositionOffsetX": 5.0f,
+    "LootMode": 0,
+    "TransformHasAI": 0b,
+    "AttackStrenght": 7,
+    "PersistenceRequired": 0b,
+    "id": "customnpcs.CustomNpc",
+    "HealF": 180.0f,
+    "MovingPatern": 0,
+    "NpcLines": {
+        "Lines": [
+        ]
+    },
+    "DefendFaction": 1b,
+    "FireIndirect": 0,
+    "NpcVisible": 0,
+    "LinkedNpcName": "",
+    "FindShelter": 2,
+    "GuardTargets": [
+    ],
+    "ScriptsContainers": [
+    ],
+    "Air": 300s,
+    "TacticalVariant": 2,
+    "Orientation": 0,
+    "ScriptLanguage": "ECMAScript",
+    "KnockBack": 1,
+    "TransformHasJob": 0b,
+    "CustomName": "",
+    "CanDespawn": 0b,
+    "BurnInSun": 0b,
+    "StandingState": 0,
+    "AttackInvisible": 0b,
+    "HurtTime": 0s,
+    "WalkingRange": 5,
+    "CustomNameVisible": 0b,
+    "ShotCount": 5,
+    "pDur": 5,
+    "extendedPropertiesFluidRespiration": {
+        "airLevel": 300
+    },
+    "AttackRange": 2,
+    "NpcKillLines": {
+        "Lines": [
+            {
+                "Line": "[the entity pumps its shotgun]",
+                "Song": "",
+                "Slot": 0
+            }
+        ]
+    },
+    "PotionImmune": 0b,
+    "AvoidsSun": 0b,
+    "GuardAttackCreepers": 0b,
+    "Texture": "customnpcs:textures/Other/Undead1.png",
+    "NpcJob": 3,
+    "BurstCount": 3,
+    "NpcAttackLines": {
+        "Lines": [
+        ]
+    },
+    "pSpeed": 20,
+    "pArea": 0,
+    "DeathTime": 0s,
+    "pImpact": 0,
+    "DropChances": [
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f
+    ],
+    "MoveState": 0,
+    "RangeAndMelee": 1,
+    "pRender3D": 0b,
+    "Motion": [
+        0.0d,
+        -0.0784000015258789d,
+        0.0d
+    ],
+    "CombatRegen": 0,
+    "pEffect": 0,
+    "DistanceToMelee": 2,
+    "NpcStepSound": "desertmobs:entity.cryptzombie.step",
+    "FireRate": 10,
+    "pEffAmp": 0,
+    "OnGround": 1b,
+    "Dimension": 0,
+    "ImmuneToFire": 1b,
+    "NpcKilledLines": {
+        "Lines": [
+            {
+                "Line": "[the creature falls head-first into the ground. it doesn't get up]",
+                "Song": "",
+                "Slot": 0
+            },
+            {
+                "Line": "[the creature's head explodes in a cloud of vapor. it falls to the ground limply]",
+                "Song": "",
+                "Slot": 1
+            }
+        ]
+    },
+    "GuardAttackMobs": 0b,
+    "UUIDMost": -2438451225271972378L,
+    "Fire": -1s,
+    "DisablePitch": 0b,
+    "pPhysics": 0b,
+    "TransformHasInv": 0b,
+    "NpcInteractLines": {
+        "Lines": [
+        ]
+    },
+    "pSpin": 0b,
+    "NpcHurtSound": "flansmod:ZombPain",
+    "pTrail": 0,
+    "CreatureType": 0,
+    "Attributes": [
+        {
+            "Base": 180.0d,
+            "Name": "generic.maxHealth"
+        },
+        {
+            "Base": 0.0d,
+            "Modifiers": [
+                {
+                    "UUIDMost": -3801225194067177672L,
+                    "UUIDLeast": -6586624321849018929L,
+                    "Amount": 1.0d,
+                    "Operation": 0,
+                    "Name": "KnockbackResist"
+                },
+                {
+                    "UUIDMost": 1309L,
+                    "UUIDLeast": 15394L,
+                    "Amount": 1.0d,
+                    "Operation": 0,
+                    "Name": "PlayerKnockback"
+                }
+            ],
+            "Name": "generic.knockbackResistance"
+        },
+        {
+            "Base": 0.25d,
+            "Modifiers": [
+                {
+                    "UUIDMost": 158935L,
+                    "UUIDLeast": 10948L,
+                    "Amount": 0.0d,
+                    "Operation": 2,
+                    "Name": "PlayerSpeed"
+                },
+                {
+                    "UUIDMost": -3801225194067177672L,
+                    "UUIDLeast": -6586624321849018929L,
+                    "Amount": 0.0d,
+                    "Operation": 2,
+                    "Name": "MovementSpeed"
+                }
+            ],
+            "Name": "generic.movementSpeed"
+        },
+        {
+            "Base": 32.0d,
+            "Name": "generic.followRange"
+        },
+        {
+            "Base": 7.0d,
+            "Modifiers": [
+                {
+                    "UUIDMost": -3801225194067177672L,
+                    "UUIDLeast": -6586624321849018929L,
+                    "Amount": 1.0d,
+                    "Operation": 0,
+                    "Name": "Weapon modifier"
+                }
+            ],
+            "Name": "generic.attackDamage"
+        }
+    ],
+    "Invulnerable": 0b,
+    "TransformHasDisplay": 0b,
+    "NoFallDamage": 0b,
+    "AbsorptionAmount": 0.0f,
+    "TransformHasRole": 0b,
+    "Name": "Undead Shock Troop",
+    "GuardSpecific": 0b,
+    "FallDistance": 0.0f,
+    "NpcIdleSound": "",
+    "Weapons": [
+        {
+            "Slot": 0b,
+            "id": "flansmod:shotgun",
+            "Count": 1b,
+            "tag": {
+                "attachments": {
+                    "barrel": {
+                    },
+                    "grip": {
+                    },
+                    "generic_0": {
+                    },
+                    "scope": {
+                    },
+                    "stock": {
+                    }
+                },
+                "ammo": [
+                    {
+                    }
+                ],
+                "Paint": "Shotgun"
+            },
+            "Damage": 0s
+        },
+        {
+            "Slot": 1b,
+            "id": "customnpcs:npcStoneBullet",
+            "Count": 1b,
+            "Damage": 0s
+        }
+    ],
+    "NPCDialogOptions": [
+    ],
+    "AggroRange": 32,
+    "DirectLOS": 1b,
+    "HealthRegen": 1,
+    "NpcModelData": {
+        "LegsConfig": {
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "BodyConfig": {
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "LegParts": {
+            "Type": 0b,
+            "PlayerTexture": 1b,
+            "Color": 16777215
+        },
+        "Parts": [
+        ],
+        "Breasts": 0b,
+        "Headwear": 2b,
+        "ArmsConfig": {
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "ExtraData": {
+        },
+        "HeadConfig": {
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        }
+    },
+    "minDelay": 60,
+    "DoorInteract": 1,
+    "MoveSpeed": 5,
+    "TransformEditingModus": 0b,
+    "UsingSkinUrl": 0b,
+    "Leashed": 0b,
+    "SkinUrl": "",
+    "CanSwim": 1b,
+    "MaxHealth": 180,
+    "HideBodyWhenKilled": 1b,
+    "AttackSpeed": 20,
+    "GuardAttackAnimals": 1b,
+    "PotionDuration": 12,
+    "maxDelay": 100,
+    "ScriptEnabled": 0b,
+    "Role": 0,
+    "DropChance": [
+        {
+            "Integer": 66,
+            "Slot": 0
+        },
+        {
+            "Integer": 100,
+            "Slot": 1
+        },
+        {
+            "Integer": 100,
+            "Slot": 2
+        },
+        {
+            "Integer": 100,
+            "Slot": 3
+        },
+        {
+            "Integer": 100,
+            "Slot": 4
+        },
+        {
+            "Integer": 100,
+            "Slot": 5
+        },
+        {
+            "Integer": 100,
+            "Slot": 6
+        },
+        {
+            "Integer": 100,
+            "Slot": 7
+        },
+        {
+            "Integer": 100,
+            "Slot": 8
+        }
+    ],
+    "FactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "pDamage": 8,
+    "KilledTime": 0L,
+    "AimWhileShooting": 1b,
+    "CanPickUpLoot": 0b,
+    "AttackOtherFactions": 1b,
+    "CanDrown": 0b,
+    "AttackTime": 0s,
+    "pSize": 1,
+    "CanSprint": 1b,
+    "CanLeap": 0b,
+    "TransformIsActive": 0b,
+    "ForgeData": {
+        "HungerOverhaulCheck": 7
+    },
+    "MovingState": 0,
+    "MovingPos": 0,
+    "PotionAmp": 0,
+    "OnAttack": 0,
+    "TacticalRadius": 16,
+    "MaxExp": 3,
+    "OrderedLines": 0b,
+    "PortalCooldown": 0,
+    "pGlows": 0b,
+    "TransformHasAdvanced": 0b,
+    "TransformHasStats": 0b,
+    "FiringSound": "flansmod:8gaShoot",
+    "ModRev": 16,
+    "Accuracy": 70,
+    "MinExp": 1,
+    "Armor": [
+        {
+            "Slot": 0b,
+            "id": "enviromine:gasMask",
+            "Count": 1b,
+            "tag": {
+                "gasMaskMax": 1000,
+                "gasMaskFill": 0
+            },
+            "Damage": 0s
+        },
+        {
+            "Slot": 1b,
+            "id": "combat_armor:Carapace_Plate",
+            "Count": 1b,
+            "Damage": 0s
+        },
+        {
+            "Slot": 2b,
+            "id": "combat_armor:Carapace_Legs",
+            "Count": 1b,
+            "Damage": 0s
+        },
+        {
+            "Slot": 3b,
+            "id": "combat_armor:Carapace_Boots",
+            "Count": 1b,
+            "Damage": 0s
+        }
+    ],
+    "CloakTexture": "",
+    "GlowTexture": "",
+    "MaxFiringRange": 16,
+    "pXlr8": 0b,
+    "UUIDLeast": -6185870452357549873L,
+    "Health": 180s,
+    "pExplode": 0b,
+    "pStick": 0b,
+    "MovingPause": 1b,
+    "NpcDeathSound": "flansmod:ZombDeath",
+    "FactionID": 4,
+    "Title": "Former Guardsman",
+    "TotalTicksAlive": 1276538L,
+    "Rotation": [
+        -330.41547f,
+        0.0f
+    ],
+    "ShowName": 1,
+    "npcInteracting": 0b,
+    "AvoidsWater": 1b,
+    "Equipment": [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    "NoLivingAnimation": 0b,
+    "SpawnCycle": 0
+}

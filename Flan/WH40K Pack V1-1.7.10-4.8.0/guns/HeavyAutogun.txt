@@ -1,0 +1,41 @@
+Name Heavy Autogun
+// 
+//*file info*
+//
+ShortName heavyautogun
+Icon HeavyAutogun
+Color 255 255 255
+//
+//*sounds*
+//
+ShootSound 12mmShoot
+GunSoundRange 304
+ReloadSound BoxReload
+ReloadSoundRange 16
+//
+//*gun stats*
+//
+UsableByPlayers True
+UsableByMechas False
+CanShootUnderwater False
+OneHanded False
+//
+Ammo 12mmbox
+Ammo 12mmapbox
+Ammo 12mmdrum
+Ammo 12mmapdrum
+ReloadTime 100
+CanForceReload True
+//
+Damage 20
+Accuracy 2
+ShootDelay 3
+BulletSpeed 10.0
+//
+Recoil 0
+//
+//*deployable info*
+// 
+Deployable True
+DeployedModel Manus_WW2.MG.WW2_MG_BrowningM1919_1
+DeployedTexture SkinGunBrowningM1919

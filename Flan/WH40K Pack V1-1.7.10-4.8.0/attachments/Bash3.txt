@@ -1,0 +1,7 @@
+Name Bash 3
+ShortName bash3
+Icon abilitytoken
+//
+AttachmentType generic
+//
+MeleeDamageMultiplier 20.0

@@ -1,0 +1,300 @@
+Chest Type,ItemStack,Item Display Name,Item ID,Weight
+bonusChest,1xitem.stick@0,Stick,minecraft:stick,10
+bonusChest,1xtile.wood@0,Hybrida Wood Planks,minecraft:planks,10
+bonusChest,1xtile.log@0,Hybrida Tree Log,minecraft:log,10
+bonusChest,1xitem.hatchetStone@0,Stone Axe,minecraft:stone_axe,3
+bonusChest,1xitem.hatchetWood@0,Wooden Axe,minecraft:wooden_axe,5
+bonusChest,1xitem.pickaxeStone@0,Stone Pickaxe,minecraft:stone_pickaxe,3
+bonusChest,1xitem.pickaxeWood@0,Wooden Pickaxe,minecraft:wooden_pickaxe,5
+bonusChest,1xitem.apple@0,Apple,minecraft:apple,5
+bonusChest,1xitem.bread@0,Bread,minecraft:bread,3
+bonusChest,1xtile.log@0,Creosote Wood,minecraft:log2,10
+bonusChest,1xitem.crystalwing.crystalWing@0,Recall Beacon,CrystalWing:crystalwing.crystalWing,2
+bonusChest,1xic2.itemTreetap@0,Treetap,IC2:itemTreetap,2
+dungeonChest,1xtile.blockRedstone@0,Dust Block,minecraft:redstone_block,50
+dungeonChest,1xic2.itemIngot@6,Silver Ingot,IC2:itemIngot,50
+dungeonChest,1xitem.appliedenergistics2.ItemMaterial@10,Purified Quartz Crystal,appliedenergistics2:item.ItemMultiMaterial,50
+dungeonChest,1xitem.ingotGold@0,Gold Ingot,minecraft:gold_ingot,25
+dungeonChest,1xitem.diamond@0,Diamond,minecraft:diamond,25
+dungeonChest,1xitem.emerald@0,Emerald,minecraft:emerald,25
+dungeonChest,1xic2.itemOreIridium@0,Iridium Ore,IC2:itemOreIridium,25
+dungeonChest,1xitem.enderPearl@0,Warp Crystal,minecraft:ender_pearl,25
+dungeonChest,1xitem.nanogelcell@0,Nano-Gel Cell,flansmod:nanogelcell,10
+dungeonChest,1xitem.misc@8,Payout Point,IW:misc,1
+dungeonChest,1xitem.fireball@0,Alien Lighter,minecraft:fire_charge,50
+dungeonChest,1xitem.ghastTear@0,Crystal Teardrop,minecraft:ghast_tear,40
+dungeonChest,1xitem.blazeRod@0,Prayer Staff,minecraft:blaze_rod,30
+dungeonChest,1xitem.eyeOfEnder@0,Lidless Eye,minecraft:ender_eye,20
+dungeonChest,1xitem.netherStar@0,Glistening Shard,minecraft:nether_star,10
+dungeonChest,1xitem.fermentedSpiderEye@0,Preserved Eye,minecraft:fermented_spider_eye,50
+dungeonChest,1xitem.painting@0,Painting,minecraft:painting,40
+dungeonChest,1xitem.clock@0,Ye Olde Chronometer,minecraft:clock,30
+dungeonChest,1xitem.magmaCream@0,Weird Orb,minecraft:magma_cream,20
+dungeonChest,1xitem.skull@4,Mummified Alien Head,minecraft:skull,10
+dungeonChest,1xitem.swordDiamond@0,Diamond Sword,minecraft:diamond_sword,1
+dungeonChest,1xitem.shovelDiamond@0,Diamond Shovel,minecraft:diamond_shovel,1
+dungeonChest,1xitem.pickaxeDiamond@0,Diamond Pickaxe,minecraft:diamond_pickaxe,1
+dungeonChest,1xitem.hatchetDiamond@0,Diamond Axe,minecraft:diamond_axe,1
+dungeonChest,1xitem.helmetDiamond@0,Diamond Helmet,minecraft:diamond_helmet,1
+dungeonChest,1xitem.chestplateDiamond@0,Diamond Chestplate,minecraft:diamond_chestplate,1
+dungeonChest,1xitem.leggingsDiamond@0,Diamond Leggings,minecraft:diamond_leggings,1
+dungeonChest,1xitem.bootsDiamond@0,Diamond Boots,minecraft:diamond_boots,1
+dungeonChest,1xitem.appleGold@0,Golden Apple,minecraft:golden_apple,1
+dungeonChest,1xitem.appleGold@1,Golden Apple,minecraft:golden_apple,1
+dungeonChest,1xitem.carrotGolden@0,Golden Carrot,minecraft:golden_carrot,1
+dungeonChest,1xic2.itemArmorAlloyChestplate@0,Composite Chestplate,IC2:itemArmorAlloyChestplate,1
+dungeonChest,1xic2.itemArmorNanoHelmet@0,Nano-Armor Helmet,IC2:itemArmorNanoHelmet,1
+dungeonChest,1xic2.itemArmorNanoChestplate@0,Nano-Armor Chestplate,IC2:itemArmorNanoChestplate,1
+dungeonChest,1xic2.itemArmorNanoLegs@0,Nano-Armor Leggings,IC2:itemArmorNanoLegs,1
+dungeonChest,1xic2.itemArmorNanoBoots@0,Nano-Armor Boots,IC2:itemArmorNanoBoots,1
+dungeonChest,1xic2.itemNanoSaber@0,Nano-Saber,IC2:itemNanoSaber,1
+ieVillageCrates,1xitem.ImmersiveEngineering.material@0,Treated Stick,ImmersiveEngineering:material,20
+ieVillageCrates,1xitem.ImmersiveEngineering.material@11,Iron Mechanical Component,ImmersiveEngineering:material,8
+ieVillageCrates,1xitem.ImmersiveEngineering.material@12,Steel Mechanical Component,ImmersiveEngineering:material,5
+ieVillageCrates,1xitem.ImmersiveEngineering.metal@0,Copper Ingot,ImmersiveEngineering:metal,16
+ieVillageCrates,1xitem.ImmersiveEngineering.metal@1,Aluminium Ingot,ImmersiveEngineering:metal,10
+ieVillageCrates,1xitem.ImmersiveEngineering.metal@2,Lead Ingot,ImmersiveEngineering:metal,10
+ieVillageCrates,1xitem.ImmersiveEngineering.metal@7,Steel Ingot,ImmersiveEngineering:metal,8
+ieVillageCrates,1xitem.ImmersiveEngineering.blueprint@0,Engineer's Blueprint,ImmersiveEngineering:blueprint,5
+ieVillageCrates,1xitem.ImmersiveEngineering.blueprint@1,Engineer's Blueprint,ImmersiveEngineering:blueprint,2
+ieVillageCrates,1xitem.ImmersiveEngineering.blueprint@2,Engineer's Blueprint,ImmersiveEngineering:blueprint,1
+ieVillageCrates,1xitem.ImmersiveEngineering.shader@0,Shader,ImmersiveEngineering:shader,5
+mineshaftCorridor,1xtile.log@0,Creosote Wood,minecraft:log2,75
+mineshaftCorridor,1xic2.itemCellEmpty@1,Water Cell,IC2:itemCellEmpty,75
+mineshaftCorridor,1xic2.itemIngot@3,Steel Ingot,IC2:itemIngot,75
+mineshaftCorridor,1xitem.ingotIron@0,Iron Ingot,minecraft:iron_ingot,50
+mineshaftCorridor,1xitem.redstone@0,Dust,minecraft:redstone,50
+mineshaftCorridor,1xic2.itemRubber@0,Rubber,IC2:itemRubber,50
+mineshaftCorridor,1xic2.itemIngot@0,Copper Ingot,IC2:itemIngot,50
+mineshaftCorridor,1xic2.itemIngot@6,Silver Ingot,IC2:itemIngot,50
+mineshaftCorridor,1xitem.metal@8,Aluminum Plate,IW:metal,50
+mineshaftCorridor,1xitem.iwParts1@0,Promethium Cell,IW:iwParts1,25
+mineshaftCorridor,1xitem.12mmmag@0,12mm Mag,flansmod:12mmmag,10
+mineshaftCorridor,1xitem.8mmmag@0,8mm Mag,flansmod:8mmmag,10
+mineshaftCorridor,1xitem.8mmhighcapmag@0,8mm High-cap Mag,flansmod:8mmhighcapmag,10
+mineshaftCorridor,1xitem.8gamag@0,8ga Mag,flansmod:8gamag,10
+mineshaftCorridor,1xitem.ec@0,EC Pack,flansmod:ec,10
+mineshaftCorridor,1xitem.ecmicro@0,Micro EC Pack,flansmod:ecmicro,10
+mineshaftCorridor,1xitem.grenadefoam@0,Foam Grenade,flansmod:grenadefoam,2
+mineshaftCorridor,1xitem.grenadetq@0,TQ Grenade,flansmod:grenadetq,2
+mineshaftCorridor,1xitem.remotecharge@0,Remote Charge,flansmod:remotecharge,2
+mineshaftCorridor,1xitem.foods@1,Civilian Rations,IW:foods,40
+mineshaftCorridor,1xic2.itemCellEmpty@12,Distilled Water Cell,IC2:itemCellEmpty,40
+mineshaftCorridor,1xitem.foods@2,Military Rations,IW:foods,5
+mineshaftCorridor,1xitem.foods@12,Beer,IW:foods,15
+mineshaftCorridor,1xitem.foods@14,Mushroom Vodka,IW:foods,15
+mineshaftCorridor,1xitem.foods@3,Rage,IW:foods,10
+mineshaftCorridor,1xitem.stimpack@0,Stim Pack,flansmod:stimpack,10
+mineshaftCorridor,1xitem.foods@5,Cat Eye,IW:foods,10
+mineshaftCorridor,1xitem.foods@6,Spur,IW:foods,10
+mineshaftCorridor,1xitem.foods@11,Hydra,IW:foods,5
+mineshaftCorridor,1xitem.foods@7,Slime Bag,IW:foods,1
+mineshaftCorridor,1xitem.foods@8,Oxy-crystals,IW:foods,1
+mineshaftCorridor,1xitem.foods@9,Frenzon,IW:foods,1
+mineshaftCorridor,1xitem.foods@10,Spook,IW:foods,1
+mineshaftCorridor,1xitem.skull@0,Skull,minecraft:skull,1
+mineshaftCorridor,1xtile.smalllightwhite@0,Small White Light,IW:smalllightwhite,15
+mineshaftCorridor,1xic2.itemCasing@5,Steel Parts,IC2:itemCasing,10
+mineshaftCorridor,1xic2.itemPartCircuit@0,Circuit Mk.I,IC2:itemPartCircuit,10
+mineshaftCorridor,1xic2.itemBatREDischarged@0,Battery Mk.I,IC2:itemBatREDischarged,10
+mineshaftCorridor,1xic2.itemRecipePart@2,Tool Power Unit Mk.II,IC2:itemRecipePart,10
+mineshaftCorridor,1xitem.thermalfoundation.tool.platinumHoe@0,Steel Hoe,ThermalFoundation:tool.hoePlatinum,5
+mineshaftCorridor,1xitem.thermalfoundation.tool.platinumAxe@0,Steel Axe,ThermalFoundation:tool.axePlatinum,5
+mineshaftCorridor,1xitem.thermalfoundation.tool.platinumShovel@0,Steel Shovel,ThermalFoundation:tool.shovelPlatinum,5
+mineshaftCorridor,1xitem.thermalfoundation.tool.platinumPickaxe@0,Steel Pickaxe,ThermalFoundation:tool.pickaxePlatinum,5
+mineshaftCorridor,1xic2.itemRecipePart@3,Tool Power Unit Mk.I,IC2:itemRecipePart,5
+mineshaftCorridor,1xic2.itemToolDrill@0,Mining Drill,IC2:itemToolDrill,2
+mineshaftCorridor,1xic2.itemToolChainsaw@0,Chainsaw,IC2:itemToolChainsaw,2
+mineshaftCorridor,1xitem.misc@1,$1 Credit,IW:misc,50
+mineshaftCorridor,1xitem.misc@2,$5 Credit,IW:misc,25
+mineshaftCorridor,1xitem.misc@3,$10 Credit,IW:misc,12
+mineshaftCorridor,1xitem.misc@4,$20 Credit,IW:misc,6
+mineshaftCorridor,1xitem.misc@5,$50 Credit,IW:misc,3
+mineshaftCorridor,1xitem.misc@6,$100 Credit,IW:misc,1
+pyramidDesertyChest,1xtile.blockRedstone@0,Dust Block,minecraft:redstone_block,50
+pyramidDesertyChest,1xic2.itemIngot@6,Silver Ingot,IC2:itemIngot,50
+pyramidDesertyChest,1xitem.appliedenergistics2.ItemMaterial@10,Purified Quartz Crystal,appliedenergistics2:item.ItemMultiMaterial,50
+pyramidDesertyChest,1xitem.ingotGold@0,Gold Ingot,minecraft:gold_ingot,25
+pyramidDesertyChest,1xitem.diamond@0,Diamond,minecraft:diamond,25
+pyramidDesertyChest,1xitem.emerald@0,Emerald,minecraft:emerald,25
+pyramidDesertyChest,1xic2.itemOreIridium@0,Iridium Ore,IC2:itemOreIridium,25
+pyramidDesertyChest,1xitem.enderPearl@0,Warp Crystal,minecraft:ender_pearl,25
+pyramidDesertyChest,1xitem.nanogelcell@0,Nano-Gel Cell,flansmod:nanogelcell,10
+pyramidDesertyChest,1xitem.misc@8,Payout Point,IW:misc,1
+pyramidDesertyChest,1xitem.npcAncientScroll@0,Scrolls,customnpcs:npcAncientScroll,50
+pyramidDesertyChest,1xitem.npcArtifact@0,Stone Face,customnpcs:npcArtifact,40
+pyramidDesertyChest,1xitem.npcLocket@0,Ancient Locket,customnpcs:npcLocket,30
+pyramidDesertyChest,1xitem.npcSilk@0,Burial Shroud,customnpcs:npcSilk,20
+pyramidDesertyChest,1xitem.npcStatuette@0,Statuette,customnpcs:npcStatuette,10
+pyramidDesertyChest,1xitem.fermentedSpiderEye@0,Preserved Eye,minecraft:fermented_spider_eye,50
+pyramidDesertyChest,1xitem.painting@0,Painting,minecraft:painting,40
+pyramidDesertyChest,1xitem.clock@0,Ye Olde Chronometer,minecraft:clock,30
+pyramidDesertyChest,1xitem.magmaCream@0,Weird Orb,minecraft:magma_cream,20
+pyramidDesertyChest,1xitem.skull@4,Mummified Alien Head,minecraft:skull,10
+pyramidDesertyChest,1xitem.swordDiamond@0,Diamond Sword,minecraft:diamond_sword,1
+pyramidDesertyChest,1xitem.shovelDiamond@0,Diamond Shovel,minecraft:diamond_shovel,1
+pyramidDesertyChest,1xitem.pickaxeDiamond@0,Diamond Pickaxe,minecraft:diamond_pickaxe,1
+pyramidDesertyChest,1xitem.hatchetDiamond@0,Diamond Axe,minecraft:diamond_axe,1
+pyramidDesertyChest,1xitem.helmetDiamond@0,Diamond Helmet,minecraft:diamond_helmet,1
+pyramidDesertyChest,1xitem.chestplateDiamond@0,Diamond Chestplate,minecraft:diamond_chestplate,1
+pyramidDesertyChest,1xitem.leggingsDiamond@0,Diamond Leggings,minecraft:diamond_leggings,1
+pyramidDesertyChest,1xitem.bootsDiamond@0,Diamond Boots,minecraft:diamond_boots,1
+pyramidDesertyChest,1xitem.appleGold@0,Golden Apple,minecraft:golden_apple,1
+pyramidDesertyChest,1xitem.appleGold@1,Golden Apple,minecraft:golden_apple,1
+pyramidDesertyChest,1xitem.carrotGolden@0,Golden Carrot,minecraft:golden_carrot,1
+pyramidDesertyChest,1xic2.itemArmorAlloyChestplate@0,Composite Chestplate,IC2:itemArmorAlloyChestplate,1
+pyramidDesertyChest,1xic2.itemArmorNanoHelmet@0,Nano-Armor Helmet,IC2:itemArmorNanoHelmet,1
+pyramidDesertyChest,1xic2.itemArmorNanoChestplate@0,Nano-Armor Chestplate,IC2:itemArmorNanoChestplate,1
+pyramidDesertyChest,1xic2.itemArmorNanoLegs@0,Nano-Armor Leggings,IC2:itemArmorNanoLegs,1
+pyramidDesertyChest,1xic2.itemArmorNanoBoots@0,Nano-Armor Boots,IC2:itemArmorNanoBoots,1
+pyramidDesertyChest,1xic2.itemNanoSaber@0,Nano-Saber,IC2:itemNanoSaber,1
+pyramidJungleChest,1xtile.blockRedstone@0,Dust Block,minecraft:redstone_block,50
+pyramidJungleChest,1xic2.itemIngot@6,Silver Ingot,IC2:itemIngot,50
+pyramidJungleChest,1xitem.appliedenergistics2.ItemMaterial@10,Purified Quartz Crystal,appliedenergistics2:item.ItemMultiMaterial,50
+pyramidJungleChest,1xitem.ingotGold@0,Gold Ingot,minecraft:gold_ingot,25
+pyramidJungleChest,1xitem.diamond@0,Diamond,minecraft:diamond,25
+pyramidJungleChest,1xitem.emerald@0,Emerald,minecraft:emerald,25
+pyramidJungleChest,1xic2.itemOreIridium@0,Iridium Ore,IC2:itemOreIridium,25
+pyramidJungleChest,1xitem.enderPearl@0,Warp Crystal,minecraft:ender_pearl,25
+pyramidJungleChest,1xitem.nanogelcell@0,Nano-Gel Cell,flansmod:nanogelcell,10
+pyramidJungleChest,1xitem.misc@8,Payout Point,IW:misc,1
+pyramidJungleChest,1xitem.npcTablet@0,Tablet,customnpcs:npcTablet,50
+pyramidJungleChest,1xitem.npcAncientCoin@0,Ancient Coin,customnpcs:npcAncientCoin,40
+pyramidJungleChest,1xitem.npcNecklace@0,Gold Necklace,customnpcs:npcNecklace,30
+pyramidJungleChest,1xitem.npcRing@0,Gold Ring,customnpcs:npcRing,20
+pyramidJungleChest,1xitem.npcPendant@0,Gold Pendant,customnpcs:npcPendant,10
+pyramidJungleChest,1xitem.fermentedSpiderEye@0,Preserved Eye,minecraft:fermented_spider_eye,50
+pyramidJungleChest,1xitem.painting@0,Painting,minecraft:painting,40
+pyramidJungleChest,1xitem.clock@0,Ye Olde Chronometer,minecraft:clock,30
+pyramidJungleChest,1xitem.magmaCream@0,Weird Orb,minecraft:magma_cream,20
+pyramidJungleChest,1xitem.skull@4,Mummified Alien Head,minecraft:skull,10
+pyramidJungleChest,1xitem.swordDiamond@0,Diamond Sword,minecraft:diamond_sword,1
+pyramidJungleChest,1xitem.shovelDiamond@0,Diamond Shovel,minecraft:diamond_shovel,1
+pyramidJungleChest,1xitem.pickaxeDiamond@0,Diamond Pickaxe,minecraft:diamond_pickaxe,1
+pyramidJungleChest,1xitem.hatchetDiamond@0,Diamond Axe,minecraft:diamond_axe,1
+pyramidJungleChest,1xitem.helmetDiamond@0,Diamond Helmet,minecraft:diamond_helmet,1
+pyramidJungleChest,1xitem.chestplateDiamond@0,Diamond Chestplate,minecraft:diamond_chestplate,1
+pyramidJungleChest,1xitem.leggingsDiamond@0,Diamond Leggings,minecraft:diamond_leggings,1
+pyramidJungleChest,1xitem.bootsDiamond@0,Diamond Boots,minecraft:diamond_boots,1
+pyramidJungleChest,1xitem.appleGold@0,Golden Apple,minecraft:golden_apple,1
+pyramidJungleChest,1xitem.appleGold@1,Golden Apple,minecraft:golden_apple,1
+pyramidJungleChest,1xitem.carrotGolden@0,Golden Carrot,minecraft:golden_carrot,1
+pyramidJungleChest,1xic2.itemArmorAlloyChestplate@0,Composite Chestplate,IC2:itemArmorAlloyChestplate,1
+pyramidJungleChest,1xic2.itemArmorNanoHelmet@0,Nano-Armor Helmet,IC2:itemArmorNanoHelmet,1
+pyramidJungleChest,1xic2.itemArmorNanoChestplate@0,Nano-Armor Chestplate,IC2:itemArmorNanoChestplate,1
+pyramidJungleChest,1xic2.itemArmorNanoLegs@0,Nano-Armor Leggings,IC2:itemArmorNanoLegs,1
+pyramidJungleChest,1xic2.itemArmorNanoBoots@0,Nano-Armor Boots,IC2:itemArmorNanoBoots,1
+pyramidJungleChest,1xic2.itemNanoSaber@0,Nano-Saber,IC2:itemNanoSaber,1
+pyramidJungleDispenser,1xitem.arrow@0,Arrow,minecraft:arrow,30
+strongholdCorridor,1xitem.12mmmag@0,12mm Mag,flansmod:12mmmag,15
+strongholdCorridor,1xitem.8mmhighcapmag@0,8mm High-cap Mag,flansmod:8mmhighcapmag,15
+strongholdCorridor,1xitem.8mmmag@0,8mm Mag,flansmod:8mmmag,20
+strongholdCorridor,1xitem.8gamag@0,8ga Mag,flansmod:8gamag,20
+strongholdCorridor,1xitem.ec@0,EC Pack,flansmod:ec,20
+strongholdCorridor,1xitem.12mmbox@0,12mm Box,flansmod:12mmbox,15
+strongholdCorridor,1xitem.mortarshell@0,Mortar Shell,flansmod:mortarshell,15
+strongholdCorridor,1xitem.grenadeinferno@0,Inferno Grenade,flansmod:grenadeinferno,10
+strongholdCorridor,1xitem.grenadetx@0,TX Grenade,flansmod:grenadetx,10
+strongholdCorridor,1xitem.grenadehe@0,HE Grenade,flansmod:grenadehe,10
+strongholdCorridor,1xitem.promethiumtank@0,Promethium Tank,flansmod:promethiumtank,10
+strongholdCorridor,1xitem.20mmmag@0,20mm Mag,flansmod:20mmmag,10
+strongholdCorridor,1xitem.echeavy@0,Heavy EC Pack,flansmod:echeavy,10
+strongholdCorridor,1xitem.20mmbox@0,20mm Box,flansmod:20mmbox,5
+strongholdCorridor,1xitem.boltmag@0,Bolt Mag,flansmod:boltmag,5
+strongholdCorridor,1xitem.rockethe@0,HE Rocket,flansmod:rockethe,5
+strongholdCorridor,1xitem.minehe@0,HE Mine,flansmod:minehe,5
+strongholdCorridor,1xitem.mineinferno@0,Inferno Mine,flansmod:mineinferno,5
+strongholdCorridor,1xitem.autogun@0,Autogun,flansmod:autogun,1
+strongholdCorridor,1xitem.sniperrifle@0,Sniper Rifle,flansmod:sniperrifle,1
+strongholdCorridor,1xitem.longlas@0,Long-las,flansmod:longlas,1
+strongholdCorridor,1xitem.shotgun@0,Shotgun,flansmod:shotgun,1
+strongholdCorridor,1xitem.chainsword@0,Chainsword,flansmod:chainsword,1
+strongholdCorridor,1xitem.slugpistol@0,Slug Pistol,flansmod:slugpistol,1
+strongholdCorridor,1xitem.laspistol@0,Laspistol,flansmod:laspistol,1
+strongholdCorridor,1xitem.plasmapistol@0,Plasma Pistol,flansmod:plasmapistol,1
+strongholdCorridor,1xitem.lasgun@0,Lasgun,flansmod:lasgun,1
+strongholdCorridor,1xitem.sluggun@0,Slug Gun,flansmod:sluggun,1
+strongholdCorridor,1xitem.heavyautogun@0,Heavy Autogun,flansmod:heavyautogun,1
+strongholdCorridor,1xitem.rocketlauncher@0,Rocket Launcher,flansmod:rocketlauncher,1
+strongholdCorridor,1xitem.autocannon@0,Autocannon,flansmod:autocannon,1
+strongholdCorridor,1xitem.flamer@0,Flamer,flansmod:flamer,1
+strongholdCorridor,1xic2.itemCellEmpty@12,Distilled Water Cell,IC2:itemCellEmpty,40
+strongholdCorridor,1xitem.foods@2,Military Rations,IW:foods,5
+strongholdCorridor,1xitem.foods@12,Beer,IW:foods,15
+strongholdCorridor,1xitem.foods@13,Whiskey,IW:foods,15
+strongholdCorridor,1xitem.foods@3,Rage,IW:foods,10
+strongholdCorridor,1xitem.stimpack@0,Stim Pack,flansmod:stimpack,10
+strongholdCorridor,1xitem.foods@5,Cat Eye,IW:foods,10
+strongholdCorridor,1xitem.foods@6,Spur,IW:foods,10
+strongholdCorridor,1xitem.foods@11,Hydra,IW:foods,5
+strongholdCorridor,1xitem.foods@7,Slime Bag,IW:foods,1
+strongholdCorridor,1xitem.foods@8,Oxy-crystals,IW:foods,1
+strongholdCorridor,1xitem.foods@9,Frenzon,IW:foods,1
+strongholdCorridor,1xitem.foods@10,Spook,IW:foods,1
+strongholdCorridor,1xitem.skull@0,Skull,minecraft:skull,1
+strongholdCorridor,1xtile.smalllightwhite@0,Small White Light,IW:smalllightwhite,5
+strongholdCorridor,1xitem.iwParts2@5,Duralux,IW:iwParts2,20
+strongholdCorridor,1xitem.iwParts1@11,Ceramite Plate,IW:iwParts1,10
+strongholdCorridor,1xitem.iwParts1@12,Ceramite Parts,IW:iwParts1,10
+strongholdCorridor,1xitem.nanogelcell@0,Nano-Gel Cell,flansmod:nanogelcell,5
+strongholdCrossing,1xitem.npcCoinIron@0,Memento,customnpcs:npcCoinIron,50
+strongholdCrossing,1xitem.bone@0,Bone,minecraft:bone,100
+strongholdCrossing,1xitem.skull@0,Skull,minecraft:skull,25
+strongholdCrossing,1xitem.leather@0,Leather,minecraft:leather,50
+strongholdCrossing,1xitem.foods@13,Whiskey,IW:foods,20
+strongholdCrossing,1xitem.foods@14,Mushroom Vodka,IW:foods,20
+strongholdCrossing,1xitem.chainsword@0,Chainsword,flansmod:chainsword,10
+strongholdCrossing,1xitem.slugpistol@0,Slug Pistol,flansmod:slugpistol,10
+strongholdCrossing,1xitem.lasgun@0,Lasgun,flansmod:lasgun,10
+strongholdCrossing,1xitem.laspistol@0,Laspistol,flansmod:laspistol,10
+strongholdLibrary,1xtile.log@0,Creosote Wood,minecraft:log2,75
+strongholdLibrary,1xic2.itemCellEmpty@1,Water Cell,IC2:itemCellEmpty,75
+strongholdLibrary,1xic2.itemIngot@3,Steel Ingot,IC2:itemIngot,75
+strongholdLibrary,1xitem.ingotIron@0,Iron Ingot,minecraft:iron_ingot,50
+strongholdLibrary,1xitem.redstone@0,Dust,minecraft:redstone,50
+strongholdLibrary,1xic2.itemRubber@0,Rubber,IC2:itemRubber,50
+strongholdLibrary,1xic2.itemIngot@0,Copper Ingot,IC2:itemIngot,50
+strongholdLibrary,1xic2.itemIngot@1,Tin Ingot,IC2:itemIngot,50
+strongholdLibrary,1xic2.itemIngot@5,Lead Ingot,IC2:itemIngot,50
+strongholdLibrary,1xic2.itemIngot@6,Silver Ingot,IC2:itemIngot,50
+strongholdLibrary,1xitem.metal@8,Aluminum Plate,IW:metal,50
+strongholdLibrary,1xitem.ingotGold@0,Gold Ingot,minecraft:gold_ingot,25
+strongholdLibrary,1xic2.itemOreIridium@0,Iridium Ore,IC2:itemOreIridium,25
+strongholdLibrary,1xitem.appliedenergistics2.ItemMaterial@0,Quartz Crystal,appliedenergistics2:item.ItemMultiMaterial,50
+strongholdLibrary,1xitem.iwParts1@0,Promethium Cell,IW:iwParts1,25
+strongholdLibrary,1xitem.iwParts1@24,Plasteel Plate,IW:iwParts1,20
+strongholdLibrary,1xitem.iwParts1@25,Plasteel Parts,IW:iwParts1,20
+strongholdLibrary,1xitem.iwParts1@11,Ceramite Plate,IW:iwParts1,10
+strongholdLibrary,1xitem.iwParts1@12,Ceramite Parts,IW:iwParts1,10
+strongholdLibrary,1xitem.iwParts1@27,Adamantium Plate,IW:iwParts1,5
+strongholdLibrary,1xitem.iwParts1@28,Adamantium Parts,IW:iwParts1,5
+villageBlacksmith,1xitem.diamond@0,Diamond,minecraft:diamond,3
+villageBlacksmith,1xitem.ingotIron@0,Iron Ingot,minecraft:iron_ingot,10
+villageBlacksmith,1xitem.ingotGold@0,Gold Ingot,minecraft:gold_ingot,5
+villageBlacksmith,1xitem.bread@0,Bread,minecraft:bread,15
+villageBlacksmith,1xitem.apple@0,Apple,minecraft:apple,15
+villageBlacksmith,1xitem.pickaxeIron@0,Iron Pickaxe,minecraft:iron_pickaxe,5
+villageBlacksmith,1xitem.swordIron@0,Iron Sword,minecraft:iron_sword,5
+villageBlacksmith,1xitem.chestplateIron@0,Iron Chestplate,minecraft:iron_chestplate,5
+villageBlacksmith,1xitem.helmetIron@0,Iron Helmet,minecraft:iron_helmet,5
+villageBlacksmith,1xitem.leggingsIron@0,Iron Leggings,minecraft:iron_leggings,5
+villageBlacksmith,1xitem.bootsIron@0,Iron Boots,minecraft:iron_boots,5
+villageBlacksmith,1xtile.obsidian@0,Obsidian,minecraft:obsidian,5
+villageBlacksmith,1xtile.sapling@0,Hybrida Tree,minecraft:sapling,5
+villageBlacksmith,1xitem.saddle@0,Saddle,minecraft:saddle,3
+villageBlacksmith,1xitem.horsearmormetal@0,Iron Pet Armor,minecraft:iron_horse_armor,1
+villageBlacksmith,1xitem.horsearmorgold@0,Golden Pet Armor,minecraft:golden_horse_armor,1
+villageBlacksmith,1xitem.horsearmordiamond@0,Diamond Pet Armor,minecraft:diamond_horse_armor,1
+villageBlacksmith,1xitem.crystalwing.crystalWing@0,Recall Beacon,CrystalWing:crystalwing.crystalWing,2
+villageBlacksmith,1xic2.itemIngot@2,Bronze Ingot,IC2:itemIngot,5
+villageBlacksmith,1xic2.itemShardIridium@0,Iridium Shard,IC2:itemShardIridium,4
+villageBlacksmith,1xic2.itemToolBronzePickaxe@0,Bronze Pickaxe,IC2:itemToolBronzePickaxe,3
+villageBlacksmith,1xic2.itemToolBronzeSword@0,Bronze Sword,IC2:itemToolBronzeSword,3
+villageBlacksmith,1xic2.itemArmorBronzeHelmet@0,Bronze Helmet,IC2:itemArmorBronzeHelmet,3
+villageBlacksmith,1xic2.itemArmorBronzeChestplate@0,Bronze Chestplate,IC2:itemArmorBronzeChestplate,3
+villageBlacksmith,1xic2.itemArmorBronzeLegs@0,Bronze Leggings,IC2:itemArmorBronzeLegs,3
+villageBlacksmith,1xic2.itemArmorBronzeBoots@0,Bronze Boots,IC2:itemArmorBronzeBoots,3
+villageBlacksmith,1xic2.itemIngot@0,Copper Ingot,IC2:itemIngot,9
+villageBlacksmith,1xic2.itemIngot@1,Tin Ingot,IC2:itemIngot,8
+villageBlacksmith,1xic2.blockRubSapling@0,Rubber Tree Sapling,IC2:blockRubSapling,4
+villageBlacksmith,1xitem.ImmersiveEngineering.blueprint@2,Engineer's Blueprint,ImmersiveEngineering:blueprint,2

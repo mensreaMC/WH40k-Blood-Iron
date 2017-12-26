@@ -1,0 +1,10 @@
+Name Energy Weapons 4
+ShortName energyweapons4
+Icon abilitytoken
+//
+AttachmentType generic
+//
+DamageMultiplier 3.0
+SpreadMultiplier 0.6
+RecoilMultiplier 0.6
+ReloadTimeMultiplier 0.5

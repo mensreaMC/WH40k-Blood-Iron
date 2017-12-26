@@ -1,0 +1,8 @@
+Name Fuel Interface
+ShortName fuelinterface
+Icon FuelInterface
+Category Engine
+EngineSpeed 1.0
+FuelConsumption 1.0
+WorksWith vehicles mechas planes
+StackSize 4

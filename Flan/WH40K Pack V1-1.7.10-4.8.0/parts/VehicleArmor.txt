@@ -1,0 +1,5 @@
+Name Vehicle Armor
+ShortName vehiclearmor
+Icon VehicleArmor
+Category Misc
+StackSize 16

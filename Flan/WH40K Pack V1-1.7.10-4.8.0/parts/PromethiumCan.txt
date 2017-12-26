@@ -1,0 +1,6 @@
+Name Promethium Can
+ShortName promethiumcan
+Icon PromethiumCan
+Category Fuel
+Fuel 4000
+StackSize 8

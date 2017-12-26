@@ -1,0 +1,135 @@
+Name Leman Russ
+//
+//*file info*
+//
+ShortName lemanrussduallascannon
+Icon LemanRussDualLascannon
+Model Manus_WH40K.Vehicle.WH40K_Vehicle_LemanRuss_1
+Texture Skin_WH40K_Vehicle_LemanRuss_1A
+ModelScale 1.0
+CameraDistance 7.5
+//
+//*movement*
+//
+Tank True
+FourWheelDrive True
+MaxThrottle 0.50
+MaxNegativeThrottle 0.50
+TurnLeftSpeed 1
+TurnRightSpeed 1
+Drag 10.0
+Bounciness 0.1
+//
+//*wheels*
+//
+WheelPosition 0 -66 -8 -41
+WheelPosition 1 -67 -8 41
+WheelPosition 2 16 -8 41
+WheelPosition 3 16 -8 -41
+WheelRadius 1.0
+WheelSpringStrength 0.5
+//
+//*weaponry*
+//
+BarrelPosition 82 76 0
+DriverAimSpeed 2 2 0
+ShellDelay 60
+BulletSpeed 20
+BulletSpread 1
+AllowAllAmmo False
+AddAmmo 120mmround
+AddAmmo 120mmapround
+AddAmmo 120mmheround
+//
+AddGun 38 76 12 turret heavyautogun
+ShootDelay 3
+//
+//*cargo*
+//
+CargoSlots 0
+ShellSlots 8
+FuelTankSize 2500
+//
+//*seating*
+//
+Driver 0 60 0 -360 360 -10 30
+RotatedDriverOffset 0 0 0
+Passengers 1
+Passenger 1 33 34 -8 core -30 30 -10 10 lascannon PassengerGun1
+GunOrigin 1 43 34 -8
+//
+//*sounds*
+//
+IdleSound TankIdle
+IdleSoundLength 30
+IdleSoundRange 32
+EngineSound TankRun
+EngineSoundLength 30
+EngineSoundRange 64
+BackSound TankRun
+BackSoundLength 30
+BackSoundRange 64
+ShootSoundPrimary 150mmShoot
+ShootSoundSecondary 12mmShoot
+//
+//*recipe*
+//
+AddRecipeParts turret 4 vehicleparts 2 vehiclearmor 1 vehicleelectronics 1 vehiclebattlecannon
+AddRecipeParts core 5 vehicleparts 7 vehiclearmor 2 vehicleelectronics 2 vehiclepowertrain 128 redstone
+AddRecipeParts leftTrack 3 vehicleparts 3 vehiclearmor
+AddRecipeParts rightTrack 3 vehicleparts 3 vehiclearmor
+//
+//*health & collision*
+//
+SetupPart core 8000 -58 9 -28 102 42 56
+SetupPart turret 6000 -26 53 -22 57 17 44
+SetupPart leftTrack 8000 -59 -10 29 108 58 14
+SetupPart rightTrack 8000 -59 -10 -43 108 58 14
+BulletDetection 7
+IsExplosionWhenDestroyed True
+CollisionDamageEnable True
+CollisionDamageThrottle 0.21
+CollisionDamageTimes 0
+//
+Harvester True
+HarvestToolType Tank
+HarvestBox [125,54,60] [-41,-10,-30]
+SquashMobs True
+//
+//*particles*
+//
+ShootParticlesPrimary largeexplode 0 0 0
+ShootParticlesPrimary cloud 1 0 0
+ShootParticlesPrimary cloud 1.75 0 0
+ShootParticlesPrimary cloud 1.5 0 0
+ShootParticlesPrimary cloud 1.25 0 0
+ShootParticlesPrimary cloud 0.75 0 0
+ShootParticlesPrimary cloud 0.5 0 0
+ShootParticlesPrimary cloud 0.25 0 0
+ShootParticlesPrimary explode 1.5 0 0
+ShootParticlesPrimary largesmoke 0.5 0 0.1
+ShootParticlesPrimary largesmoke 0.5 0 -0.1
+ShootParticlesPrimary largesmoke 0.5 0.06 0.06
+ShootParticlesPrimary largesmoke 0.5 0.06 -0.06
+ShootParticlesPrimary largesmoke 0.5 -0.06 0.06
+ShootParticlesPrimary largesmoke 0.5 -0.06 -0.06
+ShootParticlesPrimary largesmoke 0.5 -0.1 0
+ShootParticlesPrimary largesmoke 0.5 0.1 0
+ShootParticlesPrimary cloud 0.05 0 0.2
+ShootParticlesPrimary cloud 0.05 0 -0.2
+ShootParticlesPrimary cloud 0.05 0.13 0.13
+ShootParticlesPrimary cloud 0.05 0.13 -0.13
+ShootParticlesPrimary cloud 0.05 -0.13 0.13
+ShootParticlesPrimary cloud 0.05 -0.13 -0.13
+ShootParticlesPrimary cloud 0.05 -0.2 0
+ShootParticlesPrimary cloud 0.05 0.2 0
+ShootParticlesPrimary flame 0.1 0 0.4
+ShootParticlesPrimary flame 0.1 0 -0.4
+ShootParticlesPrimary flame 0.1 0.26 0.26
+ShootParticlesPrimary flame 0.1 0.26 -0.26
+ShootParticlesPrimary flame 0.1 -0.26 0.26
+ShootParticlesPrimary flame 0.1 -0.26 -0.26
+ShootParticlesPrimary flame 0.1 -0.4 0
+ShootParticlesPrimary flame 0.1 0.4 0
+//
+ShootParticlesSecondary cloud 0 0 0

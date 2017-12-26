@@ -1,0 +1,36 @@
+Name Medi-canister
+//
+//*fileinfo*
+//
+ShortName medicanister
+Icon MediCanister
+Colour 255 255 255 
+WeaponType NONE
+//
+//*bullet stats*
+//
+FallSpeed 1.0
+Fuse 1
+MaxStackSize 10
+RoundsPerItem 30
+DamageVsVehicles 0
+DamageVsLiving 0
+ExplodeOnImpact False
+ExplosionRadius 0
+SetEntitiesOnFire False
+FireRadius 0
+BreaksGlass False
+HitBoxSize 1.0
+Penetrates False
+SmokeTrail true
+SmokeParticles heart
+//
+//*potion effects*
+//
+//Syntax is SmokeEffect <ID> <Duration> <Amplifier>
+//IDs are 	1:MoveSpeed		2:MoveSlowdown		3:DigSpeed			4:DigSlowdown		5:DamageBoost	6:Heal			7:Harm		8:Jump			9:Confusion		10:Regeneration
+//			11:Resistance	12:FireResistance	13:WaterBreathing	14:Invisibility		15:Blindness	16:NightVision	17:Hunger	18:Weakness		19:Poison		20:Wither
+PotionEffect 6 60 1
+PotionEffect 10 120 2
+PotionEffect 11 1200 3
+PotionEffect 21 1200 18

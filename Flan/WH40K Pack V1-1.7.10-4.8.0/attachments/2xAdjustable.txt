@@ -1,0 +1,10 @@
+Name 2x Adjustable Scope
+ShortName 2xadjustable
+Icon adjustablescope
+Model mw.4xScope
+Texture 4xScope
+ModelScale 0.1
+AttachmentType sights
+ZoomLevel 2.0
+FOVZoomLevel 2.0
+ZoomOverlay basic

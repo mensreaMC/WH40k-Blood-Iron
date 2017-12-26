@@ -1,0 +1,8 @@
+Name Silencer
+ShortName silencer
+Icon Silencer
+Model mw.Silencer
+Silencer true
+Texture Silencer
+DamageMultiplier 0.9
+AttachmentType barrel

@@ -1,0 +1,10 @@
+Name Energy Weapons 1
+ShortName energyweapons1
+Icon abilitytoken
+//
+AttachmentType generic
+//
+DamageMultiplier 1.5
+SpreadMultiplier 0.9
+RecoilMultiplier 0.9
+ReloadTimeMultiplier 0.8

@@ -1,0 +1,491 @@
+{
+    "ReturnToStart": 1b,
+    "NpcInv": [
+        {
+            "Slot": 0b,
+            "id": "customnpcs:npcRuby",
+            "Count": 1b,
+            "Damage": 0s
+        },
+        {
+            "Slot": 1b,
+            "id": "flansmod:powersword",
+            "Count": 1b,
+            "tag": {
+                "attachments": {
+                    "barrel": {
+                    },
+                    "grip": {
+                    },
+                    "generic_1": {
+                    },
+                    "generic_0": {
+                    },
+                    "generic_3": {
+                    },
+                    "generic_2": {
+                    },
+                    "scope": {
+                    },
+                    "stock": {
+                    }
+                },
+                "ammo": [
+                    {
+                    }
+                ],
+                "Paint": "PowerSword"
+            },
+            "Damage": 0s
+        }
+    ],
+    "PotionEffect": 0,
+    "Size": 5,
+    "stopAndInteract": 1b,
+    "Resistances": {
+        "Arrow": 1.0f,
+        "Explosion": 1.0f,
+        "Knockback": 2.0f,
+        "Melee": 1.2535211f
+    },
+    "BossBar": 0b,
+    "RespawnTime": 400,
+    "NpcAngrySound": "",
+    "ReactsToFire": 0b,
+    "IgnoreCobweb": 1b,
+    "PositionOffsetZ": 5.0f,
+    "PositionOffsetY": 5.0f,
+    "PositionOffsetX": 5.0f,
+    "LootMode": 0,
+    "TransformHasAI": 0b,
+    "AttackStrenght": 40,
+    "PersistenceRequired": 0b,
+    "id": "customnpcs.CustomNpc",
+    "HealF": 600.0f,
+    "MovingPatern": 0,
+    "NpcLines": {
+        "Lines": [
+        ]
+    },
+    "DefendFaction": 1b,
+    "FireIndirect": 0,
+    "NpcVisible": 0,
+    "LinkedNpcName": "",
+    "FindShelter": 2,
+    "GuardTargets": [
+    ],
+    "ScriptsContainers": [
+    ],
+    "Air": 300s,
+    "TacticalVariant": 0,
+    "Orientation": 270,
+    "ScriptLanguage": "ECMAScript",
+    "KnockBack": 2,
+    "TransformHasJob": 0b,
+    "CustomName": "",
+    "CanDespawn": 0b,
+    "BurnInSun": 0b,
+    "StandingState": 0,
+    "AttackInvisible": 0b,
+    "HurtTime": 0s,
+    "WalkingRange": 10,
+    "CustomNameVisible": 0b,
+    "ShotCount": 1,
+    "pDur": 5,
+    "extendedPropertiesFluidRespiration": {
+        "airLevel": 300
+    },
+    "AttackRange": 2,
+    "NpcKillLines": {
+        "Lines": [
+        ]
+    },
+    "PotionImmune": 0b,
+    "AvoidsSun": 0b,
+    "GuardAttackCreepers": 1b,
+    "Texture": "customnpcs:textures/skins/wither.png",
+    "NpcJob": 3,
+    "BurstCount": 1,
+    "NpcAttackLines": {
+        "Lines": [
+            {
+                "Line": "DIE!",
+                "Song": "",
+                "Slot": 0
+            },
+            {
+                "Line": "I'LL SPLIT YOU IN HALF!",
+                "Song": "",
+                "Slot": 1
+            },
+            {
+                "Line": "I'M GONNA RIP YOU APART!",
+                "Song": "",
+                "Slot": 2
+            },
+            {
+                "Line": "THIS IS MY HOUSE!",
+                "Song": "",
+                "Slot": 3
+            },
+            {
+                "Line": "YOU'LL PAY FOR THIS!",
+                "Song": "",
+                "Slot": 4
+            },
+            {
+                "Line": "[Shiva screams manically]",
+                "Song": "",
+                "Slot": 5
+            }
+        ]
+    },
+    "pSpeed": 20,
+    "pArea": 0,
+    "DeathTime": 0s,
+    "pImpact": 0,
+    "DropChances": [
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f
+    ],
+    "MoveState": 0,
+    "RangeAndMelee": 0,
+    "pRender3D": 0b,
+    "Motion": [
+        0.0d,
+        -0.0784000015258789d,
+        0.0d
+    ],
+    "CombatRegen": 0,
+    "pEffect": 0,
+    "DistanceToMelee": 5,
+    "NpcStepSound": "",
+    "FireRate": 1,
+    "pEffAmp": 0,
+    "OnGround": 1b,
+    "Dimension": 1,
+    "ImmuneToFire": 1b,
+    "NpcKilledLines": {
+        "Lines": [
+        ]
+    },
+    "GuardAttackMobs": 1b,
+    "UUIDMost": 4006021056171885878L,
+    "Fire": -1s,
+    "DisablePitch": 0b,
+    "pPhysics": 0b,
+    "TransformHasInv": 0b,
+    "NpcInteractLines": {
+        "Lines": [
+            {
+                "Line": "You've gotta be some kind of IDIOT!",
+                "Song": "",
+                "Slot": 0
+            },
+            {
+                "Line": "[Shiva laughs at you]",
+                "Song": "",
+                "Slot": 1
+            }
+        ]
+    },
+    "pSpin": 0b,
+    "NpcHurtSound": "minecraft:game.player.hurt",
+    "pTrail": 0,
+    "CreatureType": 0,
+    "Attributes": [
+        {
+            "Base": 600.0d,
+            "Name": "generic.maxHealth"
+        },
+        {
+            "Base": 0.0d,
+            "Modifiers": [
+                {
+                    "UUIDMost": -3801225194067177672L,
+                    "UUIDLeast": -6586624321849018929L,
+                    "Amount": 1.0d,
+                    "Operation": 0,
+                    "Name": "KnockbackResist"
+                }
+            ],
+            "Name": "generic.knockbackResistance"
+        },
+        {
+            "Base": 0.25d,
+            "Modifiers": [
+                {
+                    "UUIDMost": -3801225194067177672L,
+                    "UUIDLeast": -6586624321849018929L,
+                    "Amount": 0.0d,
+                    "Operation": 2,
+                    "Name": "MovementSpeed"
+                }
+            ],
+            "Name": "generic.movementSpeed"
+        },
+        {
+            "Base": 32.0d,
+            "Name": "generic.followRange"
+        },
+        {
+            "Base": 40.0d,
+            "Modifiers": [
+                {
+                    "UUIDMost": -3801225194067177672L,
+                    "UUIDLeast": -6586624321849018929L,
+                    "Amount": 40.0d,
+                    "Operation": 0,
+                    "Name": "Weapon modifier"
+                }
+            ],
+            "Name": "generic.attackDamage"
+        }
+    ],
+    "Invulnerable": 0b,
+    "TransformHasDisplay": 0b,
+    "NoFallDamage": 1b,
+    "AbsorptionAmount": 0.0f,
+    "TransformHasRole": 0b,
+    "Name": "Shiva",
+    "GuardSpecific": 0b,
+    "FallDistance": 0.0f,
+    "NpcIdleSound": "",
+    "Weapons": [
+        {
+            "Slot": 0b,
+            "id": "flansmod:powersword",
+            "Count": 1b,
+            "tag": {
+                "attachments": {
+                    "barrel": {
+                    },
+                    "grip": {
+                    },
+                    "generic_1": {
+                    },
+                    "generic_0": {
+                    },
+                    "generic_3": {
+                    },
+                    "generic_2": {
+                    },
+                    "scope": {
+                    },
+                    "stock": {
+                    }
+                },
+                "ammo": [
+                    {
+                    }
+                ],
+                "Paint": "PowerSword"
+            },
+            "Damage": 0s
+        },
+        {
+            "Slot": 2b,
+            "id": "IW:foods",
+            "Count": 1b,
+            "Damage": 13s
+        }
+    ],
+    "NPCDialogOptions": [
+    ],
+    "AggroRange": 32,
+    "DirectLOS": 1b,
+    "HealthRegen": 0,
+    "NpcModelData": {
+        "LegsConfig": {
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "BodyConfig": {
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "LegParts": {
+            "Type": 0b,
+            "PlayerTexture": 1b,
+            "Color": 16777215
+        },
+        "Parts": [
+        ],
+        "Breasts": 0b,
+        "Headwear": 2b,
+        "ArmsConfig": {
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "ExtraData": {
+        },
+        "HeadConfig": {
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        }
+    },
+    "minDelay": 10,
+    "DoorInteract": 1,
+    "MoveSpeed": 5,
+    "TransformEditingModus": 0b,
+    "UsingSkinUrl": 0b,
+    "Leashed": 0b,
+    "SkinUrl": "",
+    "CanSwim": 1b,
+    "MaxHealth": 600,
+    "HideBodyWhenKilled": 0b,
+    "AttackSpeed": 40,
+    "GuardAttackAnimals": 1b,
+    "PotionDuration": 5,
+    "maxDelay": 10,
+    "ScriptEnabled": 0b,
+    "Role": 0,
+    "DropChance": [
+        {
+            "Integer": 100,
+            "Slot": 0
+        },
+        {
+            "Integer": 10,
+            "Slot": 1
+        },
+        {
+            "Integer": 100,
+            "Slot": 2
+        },
+        {
+            "Integer": 100,
+            "Slot": 3
+        },
+        {
+            "Integer": 100,
+            "Slot": 4
+        },
+        {
+            "Integer": 100,
+            "Slot": 5
+        },
+        {
+            "Integer": 100,
+            "Slot": 6
+        },
+        {
+            "Integer": 100,
+            "Slot": 7
+        },
+        {
+            "Integer": 100,
+            "Slot": 8
+        }
+    ],
+    "FactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 6,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "pDamage": 50,
+    "KilledTime": 0L,
+    "AimWhileShooting": 0b,
+    "CanPickUpLoot": 0b,
+    "AttackOtherFactions": 1b,
+    "CanDrown": 1b,
+    "AttackTime": 0s,
+    "pSize": 2,
+    "CanSprint": 1b,
+    "CanLeap": 1b,
+    "TransformIsActive": 0b,
+    "ForgeData": {
+        "HungerOverhaulCheck": 3
+    },
+    "MovingState": 0,
+    "MovingPos": 0,
+    "PotionAmp": 0,
+    "OnAttack": 0,
+    "TacticalRadius": 8,
+    "MaxExp": 0,
+    "OrderedLines": 0b,
+    "PortalCooldown": 0,
+    "pGlows": 0b,
+    "TransformHasAdvanced": 0b,
+    "TransformHasStats": 0b,
+    "FiringSound": "",
+    "ModRev": 16,
+    "Accuracy": 100,
+    "MinExp": 0,
+    "Armor": [
+        {
+            "Slot": 1b,
+            "id": "combat_armor:Chaos_power_Plate",
+            "Count": 1b,
+            "Damage": 0s
+        },
+        {
+            "Slot": 2b,
+            "id": "combat_armor:Chaos_power_Legs",
+            "Count": 1b,
+            "Damage": 0s
+        },
+        {
+            "Slot": 3b,
+            "id": "combat_armor:Chaos_power_Boots",
+            "Count": 1b,
+            "Damage": 0s
+        }
+    ],
+    "CloakTexture": "",
+    "GlowTexture": "",
+    "MaxFiringRange": 32,
+    "pXlr8": 1b,
+    "UUIDLeast": -4895350626359370891L,
+    "Health": 600s,
+    "pExplode": 0b,
+    "pStick": 0b,
+    "MovingPause": 1b,
+    "NpcDeathSound": "minecraft:game.player.hurt",
+    "FactionID": 18,
+    "Title": "Fallen Saint's Leader",
+    "TotalTicksAlive": 1808157L,
+    "Rotation": [
+        270.0f,
+        0.0f
+    ],
+    "ShowName": 0,
+    "npcInteracting": 1b,
+    "AvoidsWater": 0b,
+    "Equipment": [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    "NoLivingAnimation": 0b,
+    "SpawnCycle": 0
+}

@@ -1,0 +1,10 @@
+Name 6x Scope
+ShortName 6xscope
+Icon 6xScope
+Model mw.4xScope
+ModelScale 0.6
+Texture 4xScope
+AttachmentType sights
+ZoomLevel 6.0
+FOVZoomLevel 2.0
+ZoomOverlay basic

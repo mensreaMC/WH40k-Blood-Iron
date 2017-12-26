@@ -1,0 +1,37 @@
+Name Blade Of Order
+// 
+//*file info*
+//
+ShortName bladeoforder1
+Icon BladeOfOrder
+Model Manus_WH40K.Gun.WH40K_Gun_PowerSword_1
+ModelScale 0.10
+Texture Skin_WH40K_Gun_PowerSword_1A
+Color 0 51 102
+//
+//*sounds*
+//
+MeleeSound PowerSwing
+GunSoundRange 16
+//
+//*gun stats*
+//
+UsableByPlayers True
+UsableByMechas False
+OneHanded False
+//
+//*melee*
+//
+MeleeDamage 12
+MeleeTime 20
+//
+//*status effects*
+//
+MoveSpeedModifier 1.1
+KnockbackModifier 0.3
+//
+//*attachments*
+//
+AllowAllAttachments false
+AllowAttachments meleeweapons1 meleeweapons2 meleeweapons3 meleeweapons4
+NumGenericAttachmentSlots 4

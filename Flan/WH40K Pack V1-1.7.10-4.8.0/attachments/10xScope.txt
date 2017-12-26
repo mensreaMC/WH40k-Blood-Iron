@@ -1,0 +1,10 @@
+Name 10x Scope
+ShortName 10xscope
+Icon 10xScope
+Model mw.4xScope
+ModelScale 0.7
+Texture 4xScope
+AttachmentType sights
+ZoomLevel 10.0
+FOVZoomLevel 2.0
+ZoomOverlay basic

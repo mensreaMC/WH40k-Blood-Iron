@@ -1,0 +1,9 @@
+Name Large Silencer
+ShortName largesilencer
+Icon LargeSilencer
+Model mw.Silencer
+ModelScale 1.2
+Silencer true
+Texture Silencer
+DamageMultiplier 0.9
+AttachmentType barrel

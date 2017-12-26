@@ -1,0 +1,67 @@
+Name Storm Bolter
+// 
+//*file info*
+//
+ShortName stormbolter
+Icon StormBolter
+Color 255 255 255
+Model mw.Skorpion
+Texture Skorpion
+ModelScale 1.4
+//
+//*sounds*
+//
+ShootSound BolterShoot
+GunSoundRange 208
+ReloadSound BoltReload
+ReloadSoundRange 8
+//
+//*gun stats*
+//
+UsableByPlayers True
+UsableByMechas False
+CanShootUnderwater False
+OneHanded False
+Mode FullAuto
+//
+Ammo bolthighcapmag
+Ammo boltkrakenhighcapmag
+Ammo boltinfernohighcapmag
+ReloadTime 140
+CanForceReload True
+NumAmmoSlots 2
+//
+Damage 80
+Accuracy 8
+ShootDelay 1
+BulletSpeed 20.0
+//
+Recoil 6
+RandomRecoilRange 4.50
+RandomRecoilYawRange 1.00
+DecreaseRecoil 1.35
+DecreaseRecoilYaw 0.70
+//
+IgnoreArmorProbability 0.1
+IgnoreArmorDamageFactor 5.0
+//
+//*melee*
+//
+MeleeDamage 1
+MeleeTime 60
+//MeleeSound Throw
+//
+//*status effects*
+//
+MoveSpeedModifier 1.0
+KnockbackModifier 1.0
+//
+//*attachments*
+//
+AllowAllAttachments false
+AllowAttachments bayonet ripperbayonet accuracy1 accuracy2 accuracy3 accuracy4 accuracy5 luckyshot1 luckyshot2 luckyshot3 luckyshot4 luckyshot5 agility1 agility2 agility3 agility4 agility5 spacemarine
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 6

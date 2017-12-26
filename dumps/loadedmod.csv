@@ -1,0 +1,109 @@
+ID,Name,Version,Custom Container,Disableable,Dependencies
+mcp,Minecraft Coder Pack,9.05,true,YES,[]
+FML,Forge Mod Loader,7.10.99.99,true,NEVER,[]
+Forge,Minecraft Forge,10.13.4.1614,true,NEVER,[]
+appliedenergistics2-core,AppliedEnergistics2 Core,rv1-stable-1,true,NEVER,[]
+CodeChickenCore,CodeChicken Core,1.0.7.47,true,NEVER,[]
+NotEnoughItems,Not Enough Items,1.0.5.120,true,NEVER,"[CodeChickenCore@[1.0.7,)]"
+<CoFH ASM>,CoFH ASM,000,true,NEVER,[]
+mcdiscord,MC Discord,2.0.0,true,NEVER,[]
+bspkrsCore,bspkrsCore,6.16,false,DEPENDENCIES,"[Forge@[10.13.2.1291,)]"
+CrystalWing,CrystalWing,1.7.10.r02,false,RESTART,"[bspkrsCore@[6.15,)]"
+DirectionHUD,DirectionHUD,1.24,false,RESTART,"[bspkrsCore@[6.15,)]"
+gender,Gender,1.0.1,false,RESTART,[]
+StatusEffectHUD,StatusEffectHUD,1.27,false,RESTART,"[bspkrsCore@[6.15,)]"
+Treecapitator,Treecapitator,1.7.2,false,RESTART,"[Forge@[10.12.1.1080,), bspkrsCore@[6.9,)]"
+heart,Heart Health,2.0.0,false,RESTART,[]
+IC2,IndustrialCraft 2,2.2.820-experimental,false,DEPENDENCIES,"[Forge@[10.13.0.1200,)]"
+ImmibisCore,Immibis Core,59.0.7,false,DEPENDENCIES,[IC2]
+AdvancedRepulsionSystems,Advanced Repulsion Systems,59.0.2,false,RESTART,"[ImmibisCore@[55.1.0,), IC2]"
+AgriCraft,AgriCraft,1.7.10-1.5.0,false,RESTART,[]
+appliedenergistics2,Applied Energistics 2,rv1-stable-1,false,RESTART,"[appliedenergistics2-core, Forge@[10.13.0.1187,)]"
+MovingWorld,Moving World,1.7.10-1.8.1,false,DEPENDENCIES,[]
+ArchimedesShipsPlus,Archimedes' Ships Plus,1.7.10-1.8.2,false,RESTART,[MovingWorld]
+betterquesting,Better Questing,2.0.233,false,DEPENDENCIES,[]
+betterrecords,Better Records,@VERSION@,false,RESTART,[]
+ChickenChunks,ChickenChunks,1.3.4.16,false,RESTART,"[CodeChickenCore@[1.0.3,)]"
+CoFHCore,CoFH Core,1.7.10R3.1.4,false,DEPENDENCIES,"[Forge@[10.13.4.1448,10.14)]"
+combat_armor,Combat Armor,V0.18,false,RESTART,[]
+CustomStuff2,Custom Stuff 2,0.11.29,false,DEPENDENCIES,[NotEnoughItems]
+IW,Blood & Iron,1.0.0,false,RESTART,[CustomStuff2]
+CustomMainMenu,Custom Main Menu,1.9.1,false,RESTART,[]
+customnpcs,CustomNpcs,1.7.10d,false,RESTART,[]
+DamageIndicatorsMod,Damage Indicators,3.2.0,false,RESTART,[]
+defaultkeys,Default Keyconfig,1.0.28,false,RESTART,[]
+eplus,Enchanting Plus,3.0.2-d,false,RESTART,[]
+Enchiridion,Enchiridion,1.3,false,RESTART,"[Forge@[10.12.1.1082,)]"
+Enchiridion2,Enchiridion 2,2.0.2a,false,RESTART,[]
+enviromine,EnviroMine,1.3.124,false,RESTART,[]
+flansmod,Flan's Mod,4.10.0,false,RESTART,[]
+ForgeEssentialsClient,Forge Essentials Client Addon,1.4.5,false,RESTART,"[Forge@[10.13.4.1558,)]"
+Waila,Waila,1.5.8,false,RESTART,"[NotEnoughItems@[1.0.4.0,)]"
+FTBL,FTBLib,1.0.11.3,false,DEPENDENCIES,"[Forge@[10.13.4.1448,), Baubles, NotEnoughItems, Waila]"
+FTBU,FTBUtilities,1.0.11.3,false,RESTART,"[FTBL, Baubles, Waila]"
+HealthBar,Health Bar,1.0.2,false,RESTART,[]
+IC2NuclearControl,Nuclear Control 2,2.1.2a,false,RESTART,[IC2]
+ThermalFoundation,Thermal Foundation,1.7.10R1.2.6,false,DEPENDENCIES,"[CoFHCore@[1.7.10R3.1.4,1.7.10R3.2.0)]"
+ImmersiveEngineering,Immersive Engineering,0.7.5,false,RESTART,"[Railcraft, ThermalFoundation, Avaritia]"
+inventorytweaks,Inventory Tweaks,1.59-dev-152-cf6e263,false,RESTART,"[FML@[7.2.0,), Forge@[10.12.1,)]"
+journeymap,JourneyMap,5.1.4p2,false,YES,"[Forge@[10.13.4.1558,)]"
+Lockdown,Lockdown,2.0.0,false,RESTART,[]
+LostBooks,Lost Books,1.2.2,false,RESTART,[]
+lycanitesmobs,Lycanites Mobs,1.13.0.4 - MC 1.7.10,false,DEPENDENCIES,[]
+arcticmobs,Lycanites Arctic Mobs,1.13.0.4 - MC 1.7.10,false,RESTART,[lycanitesmobs]
+demonmobs,Lycanites Demon Mobs,1.13.0.4 - MC 1.7.10,false,RESTART,[lycanitesmobs]
+desertmobs,Lycanites Desert Mobs,1.13.0.4 - MC 1.7.10,false,RESTART,[lycanitesmobs]
+forestmobs,Lycanites Forest Mobs,1.13.0.4 - MC 1.7.10,false,RESTART,[lycanitesmobs]
+freshwatermobs,Lycanites Freshwater Mobs,1.13.0.4 - MC 1.7.10,false,RESTART,[lycanitesmobs]
+infernomobs,Lycanites Inferno Mobs,1.13.0.4 - MC 1.7.10,false,RESTART,[lycanitesmobs]
+junglemobs,Lycanites Jungle Mobs,1.13.0.4 - MC 1.7.10,false,RESTART,[lycanitesmobs]
+mountainmobs,Lycanites Mountain Mobs,1.13.0.4 - MC 1.7.10,false,RESTART,[lycanitesmobs]
+plainsmobs,Lycanites Plains Mobs,1.13.0.4 - MC 1.7.10,false,RESTART,[lycanitesmobs]
+saltwatermobs,Lycanites Saltwater Mobs,1.13.0.4 - MC 1.7.10,false,RESTART,[lycanitesmobs]
+shadowmobs,Lycanites Shadow Mobs,1.13.0.4 - MC 1.7.10,false,RESTART,[lycanitesmobs]
+swampmobs,Lycanites Swamp Mobs,1.13.0.4 - MC 1.7.10,false,RESTART,[lycanitesmobs]
+MineTweaker3,MineTweaker 3,3.0.10,false,DEPENDENCIES,[]
+MTRM,MineTweakerRecipeMaker,1.0,false,RESTART,[]
+MiningTools,Mining Tools,1.7.10-0.1.2,false,RESTART,"[IC2@[2.2.696-experimental,)]"
+modtweaker2,Mod Tweaker 2,0.9.4,false,RESTART,[MineTweaker3]
+musicchoices,Music Choices,1.2_for_1.7.10,false,RESTART,[]
+neiintegration,NEI Integration,1.1.2,false,RESTART,[]
+Netherless,Netherless,0.9.0,false,RESTART,[]
+nhlib,NHAVE's Library,2.0.11,false,DEPENDENCIES,"[Forge@[10.13.4.1614,)]"
+nhwrench,NHAVE's OmniWrench V3,3.1.6,false,DEPENDENCIES,"[Forge@[10.13.4.1614,), nhlib@[2.0.11,)]"
+nhintegration,NHWRENCH Integrations,1.0.12,false,RESTART,"[Forge@[10.13.4.1614,), nhwrench@[3.1.5,)]"
+bq_npc_integration,NPC Integration,2.0.23,false,RESTART,[]
+numina,Numina,0.4.0.87,false,RESTART,[]
+ThermalExpansion,Thermal Expansion,1.7.10R4.1.5,false,RESTART,"[CoFHCore@[1.7.10R3.1.4,1.7.10R3.2.0), ThermalFoundation@[1.7.10R1.2.6,1.7.10R1.3.0)]"
+openmodularturrets,Open Modular Turrets,2.2.0-214,false,RESTART,"[ThermalFoundation, ThermalExpansion, OpenComputers, ComputerCraft, Mekanism, EnderIO, Thaumcraft]"
+PFAAChemica,Chemica,0.2.27,false,RESTART,[]
+PFAAGeologica,Geologica,0.2.27,false,RESTART,[]
+ForgeMultipart,Forge Multipart,1.2.0.345,false,DEPENDENCIES,[]
+MrTJPCoreMod,MrTJPCore,1.1.0.33,false,DEPENDENCIES,[]
+ProjRed|Core,ProjectRed Core,4.7.0pre12.95,false,DEPENDENCIES,"[ForgeMultipart, MrTJPCoreMod]"
+ProjRed|Transmission,ProjectRed Transmission,4.7.0pre12.95,false,DEPENDENCIES,[ProjRed|Core]
+ProjRed|Transportation,ProjectRed Transportation,4.7.0pre12.95,false,RESTART,[ProjRed|Core]
+ProjRed|Exploration,ProjectRed Exploration,4.7.0pre12.95,false,RESTART,[ProjRed|Core]
+ProjRed|Compatibility,ProjectRed Compatibility,4.7.0pre12.95,false,RESTART,"[ProjRed|Core, ProjRed|Transmission, ProjRed|Exploration, ProjRed|Transportation, TConstruct, ThermalExpansion, ComputerCraft]"
+ProjRed|Integration,ProjectRed Integration,4.7.0pre12.95,false,DEPENDENCIES,[ProjRed|Core]
+ProjRed|Fabrication,ProjectRed Fabrication,4.7.0pre12.95,false,RESTART,"[ProjRed|Core, ProjRed|Integration, ProjRed|Transmission]"
+ProjRed|Illumination,ProjectRed Illumination,4.7.0pre12.95,false,RESTART,[ProjRed|Core]
+ProjRed|Expansion,ProjectRed Expansion,4.7.0pre12.95,false,RESTART,"[ProjRed|Core, ProjRed|Transmission]"
+questbook,Better Questing Quest Book,2.1.0-1.7.10,false,RESTART,"[betterquesting@[2.0.190,)]"
+ResourceLoader,Resource Loader,1.2,false,RESTART,[]
+bq_rf,RF Expansion,2.0.25,false,RESTART,[betterquesting]
+AS_Ruins,Ruins Spawning System,15.3,false,RESTART,[ExtraBiomes]
+bq_standard,Standard Expansion,2.0.130,false,RESTART,[betterquesting]
+TerrainControl,Terrain Control,2.7.0-SNAPSHOT,false,RESTART,[]
+ThermalDynamics,Thermal Dynamics,1.7.10R1.2.1,false,RESTART,"[CoFHCore@[1.7.10R3.1.4,1.7.10R3.2.0), ThermalFoundation@[1.7.10R1.2.6,1.7.10R1.3.0)]"
+worldedit,WorldEdit,6.1.1-SNAPSHOT,false,RESTART,[]
+WorldEditCuiFe,WorldEdit CUI Forge Edition,1.0.7,false,RESTART,"[Forge@[10.13.4.1558,), worldedit]"
+WR-CBE|Core,WR-CBE Core,1.4.1.9,false,DEPENDENCIES,"[CodeChickenCore@[1.0.4,), ForgeMultipart]"
+WR-CBE|Addons,WR-CBE Addons,1.4.1.9,false,RESTART,[WR-CBE|Core]
+WR-CBE|Logic,WR-CBE Logic,1.4.1.9,false,RESTART,"[WR-CBE|Core, ForgeMultipart]"
+McMultipart,Minecraft Multipart Plugin,1.2.0.345,false,RESTART,[]
+ForgeRelocation,ForgeRelocation,0.0.1.4,false,DEPENDENCIES,[]
+MCFrames,MCFrames,1.0,false,RESTART,[]
+RelocationFMP,RelocationFMP,0.0.1.2,false,RESTART,"[ForgeRelocation, ForgeMultipart]"
+JustAnotherSpawner,Just Another Spawner,0.17.7,false,RESTART,[*]
+ForgeMicroblock,Forge Microblocks,1.2.0.345,false,RESTART,"[ForgeMultipart, *]"

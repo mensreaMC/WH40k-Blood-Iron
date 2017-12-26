@@ -1,0 +1,97 @@
+Name Taurox
+//
+//*file info*
+//
+ShortName tauroxheavyautogun
+Icon tauroxheavyautogun
+Model bmp.Warrior
+Texture WarriorGreen
+CameraDistance 11.5
+//
+//*movement*
+//
+Tank True
+FourWheelDrive True
+MaxThrottle 1.0
+MaxNegativeThrottle 0.5
+TurnLeftSpeed 0.5
+TurnRightSpeed 0.5
+Drag 10.0
+Bounciness 0.2
+//
+//*wheels*
+//
+WheelRadius 1.5
+WheelPosition 0 -20 -10 -26
+WheelPosition 1 -20 -10 26
+WheelPosition 2 65 -10 25
+WheelPosition 3 65 -10 -26
+WheelSpringStrength 0.5
+RotateWheels True
+//
+//*weaponry*
+//
+BarrelPosition 18 36 0 52 -3 0
+DriverAimSpeed 2.251 2.251 0
+AllowAllAmmo False
+//
+AddGun 66 40 0 turret heavyautogun
+ShootDelay 3
+//
+//*cargo*
+//
+CargoSlots 32
+ShellSlots 0
+FuelTankSize 2500
+//
+//*seating*
+//
+Driver 0 32 0 -360 360 -10 20
+RotatedDriverOffset 0 0 0
+Passengers 5
+Passenger 1 0 2 12 core -170 -10 -15 60
+Passenger 2 -10 2 12 core -170 -10 -15 60
+Passenger 3 0 2 -12 core 10 170 -15 60 
+Passenger 4 -9 2 -12 core 10 170 -15 60 
+Passenger 5 -24 2 -12 core 10 170 -15 60
+//
+//*sounds*
+//
+IdleSound TankIdle
+IdleSoundLength 30
+IdleSoundRange 32
+EngineSound TankRun
+EngineSoundLength 30
+EngineSoundRange 64
+BackSound TankRun
+BackSoundLength 30
+BackSoundRange 64
+ShootSoundSecondary 12mmShoot
+//
+//*recipe*
+//
+AddRecipeParts turret 4 vehicleparts 2 vehiclearmor 1 vehicleelectronics 1 vehiclebattlecannon
+AddRecipeParts core 7 vehicleparts 7 vehiclearmor 2 vehicleelectronics 2 vehiclepowertrain 64 redstone
+AddRecipeParts leftTrack 2 vehicleparts 1 vehiclearmor
+AddRecipeParts rightTrack 2 vehicleparts 1 vehiclearmor
+//
+//*health & collision*
+//
+SetupPart core 4000 -40 -2 -30 124 29 60
+SetupPart rightTrack 4000 -36 -10 -28 114 8 8
+SetupPart leftTrack 4000 -36 -10 20 114 8 8
+SetupPart turret 4000 -18 28 -19 45 15 38
+BulletDetection 7
+IsExplosionWhenDestroyed true
+CollisionDamageEnable true
+CollisionDamageThrottle 0.21
+CollisionDamageTimes 0
+//
+Harvester True
+HarvestToolType Tank
+HarvestBox [125,54,60] [-41,-10,-30]
+SquashMobs True
+//
+//*particles*
+//
+ShootParticlesSecondary cloud 0 0 0

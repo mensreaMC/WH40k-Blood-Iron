@@ -1,0 +1,45 @@
+Name Firearm Workbench
+//
+ShortName firearmworkbench
+//
+TopTexture firearmworkbenchtop
+SideTexture workbenchside
+BottomTexture workbenchbottom
+//
+NumGuns 35
+//
+AddGun assaultcannon 32 firearmparts 1 weaponelectronics 2 autoloader
+AddGun autocannon 24 firearmparts
+AddGun autogun 6 firearmparts
+AddGun bolter 10 firearmparts 1 weaponelectronics
+AddGun boltpistol 4 firearmparts 1 weaponelectronics
+AddGun flamer 16 firearmparts
+AddGun grenadelauncher 6 firearmparts
+AddGun heavyautogun 12 firearmparts
+AddGun heavybolter 16 firearmparts 2 weaponelectronics
+AddGun missilelauncher 12 firearmparts 2 weaponelectronics
+AddGun portableautocannon 24 firearmparts
+AddGun portableheavyautogun 12 firearmparts
+AddGun portableheavybolter 16 firearmparts 2 weaponelectronics
+AddGun portablesnipercannon 24 firearmparts
+AddGun rocketlauncher 12 firearmparts
+AddGun sawedoff 4 firearmparts
+AddGun shotgun 6 firearmparts
+AddGun sluggun 4 firearmparts
+AddGun slugpistol 1 firearmparts
+AddGun snipercannon 24 firearmparts
+AddGun sniperrifle 6 firearmparts
+AddGun stationaryautocannon 24 firearmparts 1 autoloader
+AddGun stationaryheavyautogun 12 firearmparts 1 autoloader
+AddGun stationaryheavybolter 16 firearmparts 2 weaponelectronics 1 autoloader
+AddGun stationarysnipercannon 24 firearmparts 1 autoloader
+AddGun stormbolter 1 firearmparts 1 weaponelectronics
+AddGun vehicleassaultcannon 32 firearmparts 1 weaponelectronics 2 autoloader
+AddGun vehicleautocannon 24 firearmparts 1 autoloader
+AddGun vehiclebattlecannon 64 firearmparts 2 autoloader
+AddGun vehicleheavyautogun 12 firearmparts 1 autoloader
+AddGun vehicleheavybattlecannon 96 firearmparts 3 autoloader
+AddGun vehicleheavybolter 24 firearmparts 2 weaponelectronics 1 autoloader
+AddGun vehiclerocketpod 12 firearmparts 1 weaponelectronics 1 autoloader
+AddGun vehicletwinlinkedautocannon 48 firearmparts 2 autoloader
+AddGun vehicletwinlinkedheavybolter 32 firearmparts 4 weaponelectronics 2 autoloader

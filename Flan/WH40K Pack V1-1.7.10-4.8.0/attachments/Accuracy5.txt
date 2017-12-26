@@ -1,0 +1,7 @@
+Name Accuracy V
+ShortName accuracy5
+Icon abilitytoken
+//
+AttachmentType generic
+//
+SpreadMultiplier 0.75

@@ -1,0 +1,53 @@
+Name Narthecium
+// 
+//*file info*
+//
+ShortName narthecium
+Icon Narthecium
+Color 255 255 255
+Model fc.HB7
+Texture HB7
+ModelScale 0.2
+//
+//*sounds*
+//
+ShootSound NartheciumShoot
+GunSoundRange 32
+ReloadSound NartheciumReload
+ReloadSoundRange 8
+//
+//*gun stats*
+//
+UsableByPlayers True
+UsableByMechas False
+CanShootUnderwater False
+OneHanded True
+Mode SemiAuto
+//
+Ammo medicanister
+ReloadTime 60
+CanForceReload False
+//
+Damage 0
+Accuracy 0
+ShootDelay 20
+BulletSpeed 1.0
+//
+Recoil 0
+//
+//*melee*
+//
+MeleeDamage 1
+MeleeTime 60
+//MeleeSound Throw
+//
+//*attachments*
+//
+AllowAllAttachments false
+AllowAttachments bash1 bash2 bash3
+AllowScopeAttachments false
+NumGenericAttachmentSlots 1
+//
+//*status effects*
+//
+KnockbackModifier 1.0

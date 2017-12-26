@@ -1,0 +1,75 @@
+Name Scout Car
+//
+//*file info*
+//
+ShortName jeepcargo
+Icon ScoutCar
+Model Manus_DayZ.Vehicle.DayZ_Vehicle_UAZ469_1
+Texture Skin_DayZ_Vehicle_UAZ469_1A
+CameraDistance 5.0
+//
+//*movement*
+//
+Tank False
+FourWheelDrive True
+MaxThrottle 0.6
+MaxNegativeThrottle 0.3
+TurnLeftSpeed 0.7
+TurnRightSpeed 0.7
+Drag 1.0
+Bounciness 0.3
+//
+//*wheels*
+//
+WheelPosition 0 -21 -8 -14
+WheelPosition 1 -21 -8 14
+WheelPosition 2 21 -8 14
+WheelPosition 3 21 -8 -14
+WheelRadius 1.0
+SpringStrength 0.5
+RotateWheels True
+//
+//*cargo*
+//
+CargoSlots 32
+FuelTankSize 800
+//
+//*seating*
+//
+Driver -2 2 -6 -80 80 -45 45
+Passengers 3
+Passenger 1 -2 2 6 core -80 80 -45 45
+Passenger 2 -17 2 -6 core -80 80 -45 45
+Passenger 3 -17 2 6 core -80 80 -45 45
+//
+//*sounds*
+//
+IdleSound TankIdle
+IdleSoundLength 20
+IdleSoundRange 16
+EngineSound Engine
+EngineSoundLength 20
+EngineSoundRange 32
+BackSound Engine
+BackSoundLength 20
+BackSoundRange 32
+//
+//*recipe*
+//
+AddRecipeParts core 5 vehicleparts 1 vehiclepowertrain 32 redstone
+AddRecipeParts frontLeftWheel 1 wheel
+AddRecipeParts frontRightWheel 1 wheel
+AddRecipeParts backLeftWheel 1 wheel
+AddRecipeParts backRightWheel 1 wheel
+//
+//*health & collision*
+//
+SetupPart core 350 -34 -1 -14 64 26 28
+SetupPart backRightWheel 50 -27 -10 -15 13 13 4
+SetupPart backLeftWheel 50 -27 -10 11 13 13 4
+SetupPart frontLeftWheel 50 14 -10 11 13 13 4
+SetupPart frontRightWheel 50 14 -10 -15 13 13 4
+BulletDetection 5
+CollisionDamageEnable true
+CollisionDamageThrottle 0.50
+CollisionDamageTimes 5

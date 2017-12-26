@@ -1,0 +1,7 @@
+Name Steady
+ShortName steady
+Icon abilitytoken
+//
+AttachmentType grip
+//
+FOVZoomLevel 1.0

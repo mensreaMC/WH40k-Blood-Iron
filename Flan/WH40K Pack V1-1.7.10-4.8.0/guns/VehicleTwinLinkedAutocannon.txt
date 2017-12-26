@@ -1,0 +1,51 @@
+Name Vehicle Twin-Linked Autocannon
+// 
+//*file info*
+//
+ShortName vehicletwinlinkedautocannon
+Icon VehicleTwinLinkedAutocannon
+Color 255 255 255
+Model Manus_WH40K.Gun.WH40K_Gun_WarhoundTurboLaserDestructor_1
+Texture Skin_WH40K_Gun_WarhoundTurboLaserDestructor_1A
+ModelScale 0.2
+//
+//*sounds*
+//
+ShootSound 20mmShoot
+GunSoundRange 400
+ReloadSound BoxReload
+ReloadSoundRange 16
+//
+//*gun stats*
+//
+UsableByPlayers False
+UsableByMechas True
+CanShootUnderwater False
+OneHanded False
+Mode FullAuto
+//
+Ammo 20mmtxmag
+Ammo 20mmtqmag
+Ammo 20mmbox
+Ammo 20mmhebox
+Ammo 20mmapbox
+Ammo 20mmdrum
+Ammo 20mmhedrum
+Ammo 20mmapdrum
+ReloadTime 0
+CanForceReload False
+//
+Damage 40
+NumBullets 2
+Accuracy 2
+ShootDelay 20
+BulletSpeed 12.0
+//
+Recoil 0
+//
+//*attachments*
+//
+AllowAllAttachments false
+AllowAttachments none
+AllowScopeAttachments false
+NumGenericAttachmentSlots 0

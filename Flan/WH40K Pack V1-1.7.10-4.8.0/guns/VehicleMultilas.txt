@@ -1,0 +1,45 @@
+Name Vehicle Multilas
+// 
+//*file info*
+//
+ShortName vehiclemultilas
+Icon VehicleMultilas
+Color 255 255 255
+Model fc.MechAIC
+Texture MechAIC
+ModelScale 0.2
+//
+//*sounds*
+//
+ShootSound LaserShoot
+GunSoundRange 64
+ReloadSound ECReload
+ReloadSoundRange 16
+//
+//*gun stats*
+//
+UsableByPlayers False
+UsableByMechas True
+CanShootUnderwater False
+OneHanded False
+Mode FULLAUTO
+//
+Ammo echeavy
+Ammo echeavybundle
+ReloadTime 0
+CanForceReload False
+//
+Damage 33
+NumBullets 3
+Accuracy 3
+ShootDelay 2
+BulletSpeed 20.0
+//
+Recoil 0
+//
+//*attachments*
+//
+AllowAllAttachments false
+AllowAttachments none
+AllowScopeAttachments false
+NumGenericAttachmentSlots 0

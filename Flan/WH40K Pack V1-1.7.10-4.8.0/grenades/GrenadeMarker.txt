@@ -1,0 +1,41 @@
+Name Marker Grenade
+//
+//*fileinfo*
+//
+ShortName grenademarker
+Icon grenademarker
+Color 255 255 255
+Model mw.RoundGrenade
+Texture M67
+StackSize 32
+ThrowSound Throw
+//
+//*visual effects*
+//
+TrailParticles true
+SmokeParticles reddust
+SpinWhenThrown true
+SmokeTime 1000
+SmokeRadius 1
+//
+//*physics*
+//
+Bounciness 0.5
+ThrowSpeed 3.0
+FallSpeed 1.0
+BreaksGlass false
+PenetratesBlocks false
+MeleeDamage 0
+HitBoxSize 0.5
+//
+//*stats*
+//
+CanThrow True
+ThrowDelay 60
+//
+DetonateOnImpact False
+DetonateWhenShot true
+Fuse 40
+FireRadius 0
+ExplosionRadius 0
+ExplosionBreaksBlocks false

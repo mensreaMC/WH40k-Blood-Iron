@@ -1,0 +1,5 @@
+Name Nano-Gel Cell
+ShortName nanogelcell
+Icon NanoGelCell
+Category Misc
+StackSize 64

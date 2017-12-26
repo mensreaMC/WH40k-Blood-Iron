@@ -1,0 +1,55 @@
+Name 40mm Remote Charge
+//
+//*fileinfo*
+//
+ShortName 40mmremotecharge
+Icon 40mmRemoteCharge
+Color 255 255 255
+Model Manus_WH40K.Misc.WH40K_Misc_GunGrenade_1
+Texture Skin_WH40K_Bullet_GunGrenade_1A
+StackSize 60
+DetonateSound MineExplode
+DespawnTime 0
+//
+//*visual effects*
+//
+TrailParticles false
+ExplodeParticles explode
+SpinWhenThrown true
+SmokeTime 3
+SmokeRadius 3
+//
+//*physics*
+//
+Bounciness 1.0
+ThrowSpeed 2.5
+FallSpeed 0.5
+BreaksGlass false
+PenetratesBlocks false
+HitBoxSize 0.5
+Sticky true
+MeleeDamage 0
+//
+//*stats*
+//
+CanThrow false
+ThrowDelay 60
+//
+PrimeDelay 0
+Remote true
+DetonateOnImpact false
+DetonateWhenShot true
+Fuse 40
+FireRadius 0.0
+ExplosionRadius 2.4
+ExplosionDamageVsLiving 5.5
+ExplosionDamageVsPlane 1.0
+ExplosionDamageVsVehicle 1.0
+ExplosionBreaksBlocks false
+//
+//*smoke effects*
+//
+//Syntax is SmokeEffect <ID> <Duration> <Amplifier>
+//IDs are 	1:MoveSpeed		2:MoveSlowdown		3:DigSpeed			4:DigSlowdown		5:DamageBoost	6:Heal			7:Harm		8:Jump			9:Confusion		10:Regeneration
+//			11:Resistance	12:FireResistance	13:WaterBreathing	14:Invisibility		15:Blindness	16:NightVision	17:Hunger	18:Weakness		19:Poison		20:Wither
+//SmokeEffect 7 1 5

@@ -1,0 +1,47 @@
+Name Vehicle Lascannon
+// 
+//*file info*
+//
+ShortName vehiclelascannon
+Icon VehicleLascannon
+Color 255 255 255
+Model fc.MechPAC1
+Texture MechPAC1
+ModelScale 0.2
+//
+//*sounds*
+//
+ShootSound HeavyLaserShoot
+GunSoundRange 64
+ReloadSound ECReload
+ReloadSoundRange 16
+//
+//*gun stats*
+//
+UsableByPlayers False
+UsableByMechas True
+CanShootUnderwater False
+OneHanded False
+Mode FullAuto
+//
+Ammo echeavy
+Ammo echeavybundle
+ReloadTime 0
+CanForceReload False
+//
+Damage 100
+Accuracy 1
+ShootDelay 40
+BulletSpeed 20.0
+//
+Recoil 0
+//
+IgnoreArmorProbability 1.0
+IgnoreArmorDamageFactor 3.0
+//
+//*attachments*
+//
+AllowAllAttachments false
+AllowAttachments none
+AllowScopeAttachments false
+NumGenericAttachmentSlots 0

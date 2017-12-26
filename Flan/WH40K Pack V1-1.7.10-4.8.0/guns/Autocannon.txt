@@ -1,0 +1,45 @@
+Name Autocannon
+// 
+//*file info*
+//
+ShortName autocannon
+Icon Autocannon
+Color 255 255 255
+//
+//*sounds*
+//
+ShootSound 20mmShoot
+GunSoundRange 400
+ReloadSound BoxReload
+ReloadSoundRange 16
+//
+//*gun stats*
+//
+UsableByPlayers True
+UsableByMechas False
+CanShootUnderwater False
+OneHanded False
+//
+Ammo 20mmtxmag
+Ammo 20mmtqmag
+Ammo 20mmbox
+Ammo 20mmhebox
+Ammo 20mmapbox
+Ammo 20mmdrum
+Ammo 20mmhedrum
+Ammo 20mmapdrum
+ReloadTime 120
+CanForceReload True
+//
+Damage 40
+Accuracy 2
+ShootDelay 20
+BulletSpeed 12.0
+//
+Recoil 0
+//
+//*deployable info*
+// 
+Deployable True
+DeployedModel manus_modern_warfare.BrowningM2HB
+DeployedTexture SkinGunBrowningM2HB

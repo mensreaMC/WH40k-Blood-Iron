@@ -1,0 +1,6 @@
+Name Void Shield
+Description Slowly repairs your titans void shielding.
+ShortName voidshield
+Icon VoidShield
+Type shoulderUpgrade
+Nanorepair true

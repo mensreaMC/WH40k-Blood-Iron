@@ -1,0 +1,5 @@
+Name RDX
+ShortName rdx
+Icon RDX
+Category Misc
+StackSize 64

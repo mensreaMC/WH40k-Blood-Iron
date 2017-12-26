@@ -1,0 +1,236 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "IC2:itemCasing",
+                "Count": 6b,
+                "Damage": 5s
+            },
+            {
+                "Slot": 1b,
+                "id": "IC2:blockMachine",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "IW:iwParts1",
+                "Count": 1b,
+                "Damage": 25s
+            },
+            {
+                "Slot": 3b,
+                "id": "IC2:itemIngot",
+                "Count": 3b,
+                "Damage": 3s
+            },
+            {
+                "Slot": 4b,
+                "id": "IC2:blockMachine",
+                "Count": 1b,
+                "Damage": 12s
+            },
+            {
+                "Slot": 5b,
+                "id": "IW:iwParts1",
+                "Count": 1b,
+                "Damage": 24s
+            },
+            {
+                "Slot": 6b,
+                "id": "IC2:itemPartCircuit",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "IC2:itemBatREDischarged",
+                "Count": 1b,
+                "tag": {
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "id": "IW:iwParts1",
+                "Count": 1b,
+                "Damage": 12s
+            },
+            {
+                "Slot": 9b,
+                "id": "IC2:itemPartCircuitAdv",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 10b,
+                "id": "IC2:itemAdvBat",
+                "Count": 1b,
+                "tag": {
+                },
+                "Damage": 26s
+            },
+            {
+                "Slot": 11b,
+                "id": "IW:iwParts1",
+                "Count": 1b,
+                "Damage": 11s
+            },
+            {
+                "Slot": 12b,
+                "id": "IC2:itemRecipePart",
+                "Count": 1b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 13b,
+                "id": "IC2:itemBatCrystal",
+                "Count": 1b,
+                "tag": {
+                },
+                "Damage": 26s
+            },
+            {
+                "Slot": 14b,
+                "id": "IW:iwParts1",
+                "Count": 1b,
+                "Damage": 28s
+            },
+            {
+                "Slot": 15b,
+                "id": "IW:iwParts1",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 16b,
+                "id": "IC2:itemBatLamaCrystal",
+                "Count": 1b,
+                "tag": {
+                },
+                "Damage": 26s
+            },
+            {
+                "Slot": 17b,
+                "id": "IW:iwParts1",
+                "Count": 1b,
+                "Damage": 27s
+            }
+        ]
+    },
+    "TraderIgnoreDamage": 0b,
+    "TraderIgnoreNBT": 0b,
+    "TraderSold": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "IW:misc",
+                "Count": 1b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 1b,
+                "id": "IW:misc",
+                "Count": 3b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 2b,
+                "id": "IW:misc",
+                "Count": 1b,
+                "Damage": 2s
+            },
+            {
+                "Slot": 3b,
+                "id": "IW:misc",
+                "Count": 1b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 4b,
+                "id": "IW:misc",
+                "Count": 1b,
+                "Damage": 3s
+            },
+            {
+                "Slot": 5b,
+                "id": "IW:misc",
+                "Count": 1b,
+                "Damage": 3s
+            },
+            {
+                "Slot": 6b,
+                "id": "IW:misc",
+                "Count": 1b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 7b,
+                "id": "IW:misc",
+                "Count": 3b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 8b,
+                "id": "IW:misc",
+                "Count": 1b,
+                "Damage": 3s
+            },
+            {
+                "Slot": 9b,
+                "id": "IW:misc",
+                "Count": 3b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 10b,
+                "id": "IW:misc",
+                "Count": 1b,
+                "Damage": 3s
+            },
+            {
+                "Slot": 11b,
+                "id": "IW:misc",
+                "Count": 1b,
+                "Damage": 4s
+            },
+            {
+                "Slot": 12b,
+                "id": "IW:misc",
+                "Count": 2b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 13b,
+                "id": "IW:misc",
+                "Count": 1b,
+                "Damage": 6s
+            },
+            {
+                "Slot": 14b,
+                "id": "IW:misc",
+                "Count": 1b,
+                "Damage": 4s
+            },
+            {
+                "Slot": 15b,
+                "id": "IW:misc",
+                "Count": 1b,
+                "Damage": 2s
+            },
+            {
+                "Slot": 16b,
+                "id": "IW:misc",
+                "Count": 2b,
+                "Damage": 6s
+            },
+            {
+                "Slot": 17b,
+                "id": "IW:misc",
+                "Count": 1b,
+                "Damage": 5s
+            }
+        ]
+    }
+}

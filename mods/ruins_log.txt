@@ -1,0 +1,21 @@
+
+There was a problem loading the file: GasStation.tml
+java.lang.Exception: Rule [0,100,IInventory;ThermalExpansion:Strongbox:2;IC2:reactorUraniumSimpledepleted#3#0#0-6], blockString [IInventory;ThermalExpansion:Strongbox:2;IC2:reactorUraniumSimpledepleted#3#0#0-6] in template GasStation.tml can absolutely not be mapped to anything known
+	at atomicstryker.ruins.common.RuinTemplateRule.<init>(RuinTemplateRule.java:133)
+	at atomicstryker.ruins.common.RuinTemplate.parseFile(RuinTemplate.java:633)
+	at atomicstryker.ruins.common.RuinTemplate.<init>(RuinTemplate.java:69)
+	at atomicstryker.ruins.common.RuinTemplate.<init>(RuinTemplate.java:75)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:415)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:260)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:21)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:137)
+
+Loading excluded list from: C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\saves\dev world 4\DIM-1
+No exclusions found for this world.
+
+Loading options from: C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\saves\dev world 4\DIM-1
+tries_per_chunk_normal = 12
+chance_to_spawn_normal = 10.0
+templateInstancesMinDistance = 256.0
+anyRuinsMinDistance = 64.0
+Ruins mod loaded successfully for world C:\Users\OVERLORD\AppData\Roaming\.technic\modpacks\wh40k-blood-iron-pack\saves\dev world 4\DIM-1, template files: 83

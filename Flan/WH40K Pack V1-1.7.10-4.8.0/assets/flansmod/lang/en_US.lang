@@ -1,0 +1,423 @@
+//
+//magazines
+//
+item.8gamag.name=8ga Mag
+item.8gaapmag.name=8ga AP Mag
+item.8mmmag.name=8mm Mag
+item.8mmapmag.name=8mm AP Mag
+item.8mmtqmag.name=8mm TQ Mag
+item.8mmtxmag.name=8mm TX Mag
+item.8mmhighcapmag.name=8mm High-cap Mag
+item.8mmaphighcapmag.name=8mm AP High-cap Mag
+item.12mmmag.name=12mm Mag
+item.12mmapmag.name=12mm AP Mag
+item.12mmtxmag.name=12mm TX Mag
+item.12mmtqmag.name=12mm TQ Mag
+item.12mmbox.name=12mm Box
+item.12mmapbox.name=12mm AP Box
+item.20mmbox.name=20mm Box
+item.20mmapbox.name=20mm AP Box
+item.20mmhebox.name=20mm HE Box
+item.20mmmag.name=20mm Mag
+item.20mmapmag.name=20mm AP Mag
+item.20mmhemag.name=20mm HE Mag
+item.20mmtxmag.name=20mm TX Mag
+item.20mmtqmag.name=20mm TQ Mag
+item.20mmheiapmag.name=20mm HEIAP Mag
+item.boltmag.name=Bolt Mag
+item.bolthighcapmag.name=Bolt High-cap Mag
+item.boltbox.name=Bolt Box
+item.boltinfernomag.name=Inferno Bolt Mag
+item.boltinfernohighcapmag.name=Inferno Bolt High-cap Mag
+item.boltkrakenmag.name=Kraken Bolt Mag
+item.boltkrakenhighcapmag.name=Kraken Bolt High-cap Mag
+item.ec.name=EC Pack
+item.echeavy.name=Heavy EC Pack
+item.echeavyoverclocked.name=Overclocked Heavy EC Pack
+item.echotshot.name=Hotshot EC Pack
+item.ecmicro.name=Micro EC Pack
+item.ecmicrooverclocked.name=Micro Overclocked EC Pack
+item.ecoverclocked.name=Overclocked EC Pack
+item.shardpack.name=Shard Pack
+item.shardtxpack.name=TX Shard Pack
+item.shardtqpack.name=TQ Shard Pack
+item.shardhepack.name=HE Shard Pack
+item.12mmdrum.name=12mm Drum
+item.12mmapdrum.name=12mm AP Drum
+item.20mmdrum.name=20mm Drum
+item.20mmapdrum.name=20mm AP Drum
+item.20mmhedrum.name=20mm HE Drum
+item.boltdrum.name=Bolt Drum
+item.ecbundle.name=EC Bundle
+item.echotshotbundle.name=Hotshot EC Bundle
+item.echeavybundle.name=Heavy EC Bundle
+item.echeavyoverclockedbundle.name=Overclocked Heavy EC Bundle
+//
+//guns
+//
+item.assaultcannon.name=Assault Cannon
+item.autocannon.name=Autocannon
+item.autogun.name=Autogun
+item.bolter.name=Bolter
+item.boltpistol.name=Boltpistol
+item.combatshield.name=Combat Shield
+item.flamer.name=Flamer
+item.gravitongun.name=Graviton Gun
+item.grenadelauncher.name=Grenade Launcher
+item.heavyautogun.name=Heavy Autogun
+item.heavybolter.name=Heavy Bolter
+item.hellgun.name=Hellgun
+item.lascannon.name=Lascannon
+item.lasgun.name=Lasgun
+item.laspistol.name=Laspistol
+item.longlas.name=Long-las
+item.missilelauncher.name=Missile Launcher
+item.mortarlauncher.name=Mortar Launcher
+item.narthecium.name=Narthecium
+item.plasmacannon.name=Plasma Cannon
+item.plasmagun.name=Plasma Gun
+item.plasmapistol.name=Plasma Pistol
+item.portableautocannon.name=Portable Autocannon
+item.portableheavyautogun.name=Portable Heavy Autogun
+item.portableheavybolter.name=Portable Heavy Bolter
+item.portablelascannon.name=Portable Lascannon
+item.portableplasmacannon.name=Portable Plasmacannon
+item.portablesnipercannon.name=Portable Sniper Cannon
+item.stationarysnipercannon.name=Stationary Sniper Cannon
+item.stationaryautocannon.name=Stationary Autocannon
+item.stationaryheavyautogun.name=Stationary Heavy Autogun
+item.stationaryheavybolter.name=Stationary Heavy Bolter
+item.stationarylascannon.name=Stationary Lascannon
+item.stationaryplasmacannon.name=Stationary Plasma Cannon
+item.ripperbayonet.name=Ripper Bayonet
+item.rocketlauncher.name=Rocket Launcher
+item.sawedoff.name=Sawed-Off Double-Barrel Shotgun
+item.shotgun.name=Shotgun
+item.siegemortarlauncher.name=Siege Mortar Launcher
+item.sluggun.name=Slug Gun
+item.slugpistol.name=Slug Pistol
+item.sniperrifle.name=Sniper Rifle
+item.snipercannon.name=Sniper Cannon
+item.stormbolter.name=Stormbolter
+item.stormshield.name=Stormshield
+item.ultima.name=Ultima
+item.vehicleassaultcannon.name=Vehicle Assault Cannon
+item.vehicleautocannon.name=Vehicle Autocannon
+item.vehiclebattlecannon.name=Vehicle Battlecannon
+item.vehiclecoilgun.name=Vehicle Coilgun
+item.vehicleheavyautogun.name=Vehicle Heavy Autogun
+item.vehicleheavybattlecannon.name=Vehicle Heavy Battlecannon
+item.vehicleheavybolter.name=Vehicle Heavy Bolter
+item.vehicleheavymortarlauncher.name=Vehicle Heavy Mortar Launcher
+item.vehicleloader.name=Vehicle Loader
+item.vehiclelascannon.name=Vehicle Lascannon
+item.vehiclemultilas.name=Vehicle Multilas
+item.vehicleplasmacannon.name=Vehicle Plasma Cannon
+item.vehiclerocketpod.name=Vehicle Rocketpod
+item.vehicletwinlinkedautocannon.name=Vehicle Twin-Linked Autocannon
+item.vehicletwinlinkedheavybolter.name=Vehicle Twin-Linked Heavy Bolter
+item.vehicletwinlinkedlascannon.name=Vehicle Twin-Linked Lascannon
+//
+//single rounds
+//
+item.8mmround.name=8mm Round
+item.8mmapround.name=8mm AP Round
+item.8mmtxround.name=8mm TX Round
+item.8mmtqround.name=8mm TQ Round
+item.8garound.name=8ga Round
+item.8gaapround.name=8ga AP Round
+item.12mmround.name=12mm Round
+item.12mmapround.name=12mm AP Round
+item.12mmtxround.name=12mm TX Round
+item.12mmtqround.name=12mm TQ Round
+item.boltround.name=Bolt Round
+item.boltinfernoround.name=Inferno Bolt Round
+item.boltkrakenround.name=Kraken Bolt Round
+item.20mmround.name=20mm Round
+item.20mmapround.name=20mm AP Round
+item.20mmheround.name=20mm HE Round
+item.20mmheiapround.name=20mm HEIAP Round
+item.20mmtxround.name=20mm TX Round
+item.20mmtqround.name=20mm TQ Round
+item.40mmhegrenade.name=40mm HE Grenade
+item.40mminfernogrenade.name=40mm Inferno Grenade
+item.40mmricogrenade.name=40mm Rico Grenade
+item.40mmsmokegrenade.name=40mm Smoke Grenade
+item.40mmstickygrenade.name=40mm Sticky Grenade
+item.40mmtxgrenade.name=40mm TX Grenade
+item.40mmtqgrenade.name=40mm TQ Grenade
+item.40mmremotecharge.name=40mm Remote Charge
+item.40mmheimpactgrenade.name=40mm HE Impact Grenade
+item.40mmfoamgrenade.name=40mm Foam Grenade
+item.120mmround.name=120mm Round
+item.120mmapround.name=120mm AP Round
+item.120mmheround.name=120mm HE Round
+item.150mmround.name=150mm Round
+item.150mmapround.name=150mm AP Round
+item.150mmheround.name=150mm HE Round
+item.medicanister.name=Medicanister
+item.missileaa.name=AA Missile
+item.missileat.name=AT Missile
+item.mortarshell.name=Mortar Shell
+item.mortarshellimpact.name=Impact Mortar Shell
+item.mortarheavyshell.name=Heavy Mortar Shell
+item.rocketap.name=AP Rocket
+item.rockethe.name=HE Rocket
+item.rocketinferno.name=Inferno Rocket
+item.rockettq.name=TQ Rocket
+item.rockettx.name=TX Rocket
+item.bombhe.name=HE Bomb
+item.bombhesmall.name=Small HE Bomb
+item.bombinferno.name=Inferno Bomb
+item.bombinfernosmall.name=Small Inferno Bomb
+//
+//explosives
+//
+item.grenadehe.name=HE Grenade
+item.grenadeheal.name=Healing Grenade
+item.grenadeinferno.name=Inferno Grenade
+item.grenadetx.name=TX Grenade
+item.grenadetq.name=TQ Grenade
+item.grenadesmoke.name=Smoke Grenade
+item.grenademarker.name=Marker Grenade
+item.grenadesticky.name=Sticky Grenade
+item.grenaderico.name=Ricochet Grenade
+item.grenadeheimpact.name=HE Impact Grenade
+item.grenadefoam.name=Foam Grenade
+item.minehe.name=HE Mine
+item.mineap.name=AP Mine
+item.minetx.name=TX Mine
+item.minetq.name=TQ Mine
+item.minesmoke.name=Smoke Mine
+item.mineinferno.name=Inferno Mine
+item.minefoam.name=Foam Mine
+item.missileaavehicle.name=Vehicle AA Missile
+item.missileatvehicle.name=Vehicle AT Missile
+item.promethiumtank.name=Promethium Tank
+item.remotecharge.name=Remote Charge
+item.rocketapvehicle.name=Vehicle AP Rocket
+item.rockethevehicle.name=Vehicle HE Rocket
+item.rocketinfernovehicle.name=Vehicle Inferno Rocket
+item.satchelhe.name=HE Satchel
+item.satchelap.name=AP Satchel
+item.satcheltx.name=TX Satchel
+item.satcheltq.name=TQ Satchel
+item.satchelsmoke.name=Smoke Satchel
+item.satchelinferno.name=Inferno Satchel
+//
+//tools
+//
+item.parachute.name=Parachute
+item.medipack.name=Medi-pack
+item.remotedetonator.name=Remote Detonator
+item.repairtool.name=Repair Tool
+item.stimpack.name=Stim Pack
+item.flashlight.name=Flashlight
+item.rosarius.name=Rosarius
+//
+//attachements
+//
+item.reddotsight.name=Rod Dot Sight
+item.acogsight.name=ACOG Sight
+item.4xscope.name=4x Scope
+item.6xscope.name=6x Scope
+item.10xscope.name=10x Scope
+item.2xadjustable.name=2x Adjustable Scope
+item.4xadjustable.name=4x Adjustable Scope
+item.6xadjustable.name=6x Adjustable Scope
+item.10xadjustable.name=10x Adjustable Scope
+item.bayonet.name=Bayonet
+item.silencer.name=Silencer
+item.largesilencer.name=Large Silencer
+item.ripperbayonet.name=Ripper Bayonet
+//
+//vehicles
+//
+item.artillery.name=Artillery
+item.heavyartillery.name=Heavy Artillery
+item.baneblade150mmmultilas.name=Baneblade with Multilas
+item.baneblade150mmduallascannon.name=Baneblade with Twin-Linked Lascannons
+item.baneblade150mmlascannon.name=Baneblade with Lascannon
+item.baneblade150mmplasmacannon.name=Baneblade with Plasmacannon
+item.interceptor.name=Interceptor
+item.jeep.name=Scout Car
+item.jeepcargo.name=Scout Car
+item.jeepscout.name=Scrap Car
+item.jeepheavyautogun.name=Technical with Heavy Autogun
+item.jeepautocannon.name=Technical with Autocannon
+item.lemanruss120mm.name=Leman Russ with Heavy Autogun
+item.lemanrussassaultcannon.name=Leman Russ with Assault Cannon
+item.lemanrussdualautocannon.name=Leman Russ with Twin-Linked Autocannon
+item.lemanrussdualheavybolter.name=Leman Russ with Twin-Linked Heavy Bolter
+item.lemanrussduallascannon.name=Leman Russ with Twin-Linked Lascannon
+item.lemanrussheavymortar.name=Leman Russ with Heavy Mortar
+item.lemanrussplasmacannon.name=Leman Russ with Plasma Cannon
+item.tauroxplasmacannon.name=Taurox with Plasmacannon
+item.tauroxautocannon.name=Taurox with Autocannon
+item.tauroxheavyautogun.name=Taurox with Heavy Autogun
+item.tauroxlascannon.name=Taurox with Lascannon
+//
+//parts
+//
+item.fuelcan.name=Fuel Can
+item.fuelinterface.name=Fuel Interface
+item.fusioninterface.name=Fusion Interface
+item.nanogelcell.name=Nano-Gel Cell
+item.promethiumcan.name=Promethium Can
+item.wheel.name=Wheel
+item.mechandrites.name=Mechandrites
+item.voidshield.name=Void Shield Recharge Module
+item.vehiclearmor.name=Vehicle Armor
+item.vehicleavionics.name=Vehicle Avionics
+item.vehicleelectronics.name=Vehicle Electronics
+item.vehiclelabor.name=Vehicle Labor
+item.vehicleparts.name=Vehicle Parts
+item.vehiclepowertrain.name=Vehicle Powertrain
+item.mechpowertrain.name=Mech Powertrain
+item.autoloader.name=Autoloader
+item.energyweaponparts.name=Energy Weapon Parts
+item.firearmparts.name=Firearm Parts
+item.weaponelectronics.name=Weapon Electronics
+item.bulletparts.name=Bullet Parts
+item.casingparts.name=Casing Parts
+item.nitrocellulose.name=Nitrocellulose
+item.apbulletparts.name=AP Bullet Parts
+item.rdx.name=RDX
+item.boltparts.name=Bolt Parts
+//
+//boxes
+//
+tile.firearmworkbench.name=Firearm Workbench
+tile.energyweaponworkbench.name=Energy Weapon Workbench
+tile.ammunitionworkbench.name=Loading Bench
+//
+//mechs
+//
+item.paladinknighttitan.name=Paladin
+item.warhoundscouttitan.name=Warhound
+//
+//planes
+//
+item.valkyrie.name=Valkyrie
+item.vulturedualassaultcannon.name=Vulture with Assault Cannons
+item.vulturedualautocannon.name=Vulture with Twin-Linked Autocannons
+item.vulturedualheavybolter.name=Vulture with Twin-Linked Heavy Bolters
+item.vulturebomber.name=Vulture Bomber
+//
+//sentry guns
+//
+item.sentrygun8mm.name=8mm Sentry Gun
+item.sentrygun12mm.name=12mm Sentry Gun
+item.sentrygunlonglas.name=Long-las Sentry Gun
+//
+//armor
+//
+item.commissarhat.name=Commissar Hat
+item.commissarcoat.name=Commissar Coat
+item.commissarpants.name=Commissar Pants
+item.commissarboots.name=Commissar Boots
+//
+//titan weapons
+//
+item.warhoundturbolaser.name=Warhound Turbo Laser
+item.warhoundvulcanmegabolter.name=Warhound Megabolter
+item.warhoundinfernocannon.name=Warhound Inferno Cannon
+item.warhoundplasmablastgun.name=Warhound Plasma Blastgun
+//
+//perks skills and abilities
+//
+item.accuracy1.name=Perception 2
+item.accuracy2.name=Perception 4
+item.accuracy3.name=Perception 6
+item.accuracy4.name=Perception 8
+item.accuracy5.name=Perception 10
+item.agility1.name=Agility 2
+item.agility2.name=Agility 4
+item.agility3.name=Agility 6
+item.agility4.name=Agility 8
+item.agility5.name=Agility 10
+item.luckyshot1.name=Luck 2
+item.luckyshot2.name=Luck 4
+item.luckyshot3.name=Luck 6
+item.luckyshot4.name=Luck 8
+item.luckyshot5.name=Luck 10
+item.smallguns1.name=Firearm Specialist I
+item.smallguns2.name=Firearm Specialist II
+item.smallguns3.name=Firearm Specialist III
+item.smallguns4.name=Firearm Specialist IV
+item.heavyweapons1.name=Heavy Weapons Specialist I
+item.heavyweapons2.name=Heavy Weapons Specialist II
+item.heavyweapons3.name=Heavy Weapons Specialist III
+item.heavyweapons4.name=Heavy Weapons Specialist IV
+item.energyweapons1.name=Energy Weapons Specialist I
+item.energyweapons2.name=Energy Weapons Specialist II
+item.energyweapons3.name=Energy Weapons Specialist III
+item.energyweapons4.name=Energy Weapons Specialist IV
+item.meleeweapons1.name=Close Combat Specialist I
+item.meleeweapons2.name=Close Combat Specialist II
+item.meleeweapons3.name=Close Combat Specialist III
+item.meleeweapons4.name=Close Combat Specialist IV
+item.bash1.name=Bash I
+item.bash2.name=Bash II
+item.bash3.name=Bash III
+item.leap1.name=Leap I
+item.leap2.name=Leap II
+item.masterblaster1.name=Master Blaster I
+item.masterblaster2.name=Master Blaster II
+item.masterblaster3.name=Master Blaster III
+item.masterblaster4.name=Master Blaster IV
+item.steady.name=Steady Weapon
+item.charge.name=Charge
+//
+//melee weapons
+//
+item.combatknife.name=Combat Knife
+item.combatknife1.name=Combat Knife
+item.combatknife2.name=Combat Knife
+item.combatknife3.name=Combat Knife
+item.combatknife4.name=Combat Knife
+item.chainsword.name=Chainsword
+item.chainsword1.name=Chainsword
+item.chainsword2.name=Chainsword
+item.chainsword3.name=Chainsword
+item.chainsword4.name=Chainsword
+item.powersword.name=Power Sword
+item.powersword1.name=Power Sword
+item.powersword2.name=Power Sword
+item.powersword3.name=Power Sword
+item.powersword4.name=Power Sword
+item.powermaul.name=Thunder Hammer
+item.powermaul1.name=Thunder Hammer
+item.powermaul2.name=Thunder Hammer
+item.powermaul3.name=Thunder Hammer
+item.powermaul4.name=Thunder Hammer
+item.ripper.name=Ripper
+item.ripper1.name=Ripper
+item.ripper2.name=Ripper
+item.ripper3.name=Ripper
+item.ripper4.name=Ripper
+item.bladeoforder.name=Blade Of Order
+item.bladeoforder1.name=Blade Of Order
+item.bladeoforder2.name=Blade Of Order
+item.bladeoforder3.name=Blade Of Order
+item.bladeoforder4.name=Blade Of Order
+item.bladeofruin.name=Blade Of Ruin
+item.bladeofruin1.name=Blade Of Ruin
+item.bladeofruin2.name=Blade Of Ruin
+item.bladeofruin3.name=Blade Of Ruin
+item.bladeofruin4.name=Blade Of Ruin
+//
+item.sniper.name=Sniper
+item.shotgunsurgeon.name=Shotgun Surgeon
+item.lasercommando.name=Laser Commando
+item.plasmaspaz.name=Plasma Spaz
+item.spacemarine.name=Space Marine
+item.metalstormer.name=Metal Stormer
+item.antimaterialist.name=Anti-Materialist
+item.tankbuster.name=Tank Buster
+//item.slayer.name=Slayer
+//
+//entities
+//
+entity.Seat.name=Seat
+entity.MG.name=Mounted Gun

@@ -1,0 +1,53 @@
+Name Impact Mortar Shell
+//
+//*fileinfo*
+//
+ShortName mortarshellimpact
+Icon MortarShellImpact
+Color 255 255 255
+Model mw.RoundGrenade
+Texture M67
+ModelScale 1.2
+DetonateSound MortarExplode
+StackSize 64
+//
+//*visual effects*
+//
+TrailParticles true
+TrailParticleType slime
+SmokeParticles slime
+SpinWhenThrown true
+SmokeTime 3
+SmokeRadius 5
+//
+//*physics*
+//
+Bounciness 0.2
+ThrowSpeed 4.0
+FallSpeed 0.5
+BreaksGlass false
+PenetratesBlocks false
+HitBoxSize 1.0
+MeleeDamage 0
+//
+//*stats*
+//
+CanThrow False
+ThrowDelay 10
+//
+DetonateOnImpact true
+DetonateWhenShot false
+Fuse 0
+FireRadius 2
+ExplosionBreaksBlocks false
+ExplosionRadius 3.5
+ExplosionDamageVsLiving 4.5
+ExplosionDamageVsPlane 1.0
+ExplosionDamageVsVehicle 1.0
+//
+//*smoke effects*
+//
+//Syntax is SmokeEffect <ID> <Duration> <Amplifier>
+//IDs are 	1:MoveSpeed		2:MoveSlowdown		3:DigSpeed			4:DigSlowdown		5:DamageBoost	6:Heal			7:Harm		8:Jump			9:Confusion		10:Regeneration
+//			11:Resistance	12:FireResistance	13:WaterBreathing	14:Invisibility		15:Blindness	16:NightVision	17:Hunger	18:Weakness		19:Poison		20:Wither
+//SmokeEffect 7 1 5

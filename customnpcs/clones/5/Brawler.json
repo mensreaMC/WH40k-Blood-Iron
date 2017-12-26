@@ -1,0 +1,423 @@
+{
+    "ReturnToStart": 1b,
+    "NpcInv": [
+        {
+            "Slot": 0b,
+            "id": "customnpcs:npcSeveredEar",
+            "Count": 1b,
+            "Damage": 0s
+        },
+        {
+            "Slot": 1b,
+            "id": "IW:foods",
+            "Count": 1b,
+            "Damage": 14s
+        },
+        {
+            "Slot": 2b,
+            "id": "IW:foods",
+            "Count": 1b,
+            "Damage": 16s
+        },
+        {
+            "Slot": 3b,
+            "id": "IW:foods",
+            "Count": 1b,
+            "Damage": 3s
+        },
+        {
+            "Slot": 4b,
+            "id": "IW:foods",
+            "Count": 1b,
+            "Damage": 9s
+        },
+        {
+            "Slot": 5b,
+            "id": "IW:foods",
+            "Count": 1b,
+            "Damage": 10s
+        },
+        {
+            "Slot": 6b,
+            "id": "IW:foods",
+            "Count": 1b,
+            "Damage": 11s
+        }
+    ],
+    "PotionEffect": 5,
+    "Size": 5,
+    "stopAndInteract": 1b,
+    "Resistances": {
+        "Arrow": 1.0f,
+        "Explosion": 1.0f,
+        "Knockback": 2.0f,
+        "Melee": 1.3098592f
+    },
+    "BossBar": 0b,
+    "RespawnTime": 200,
+    "NpcAngrySound": "",
+    "ReactsToFire": 0b,
+    "IgnoreCobweb": 0b,
+    "PositionOffsetZ": 5.0f,
+    "PositionOffsetY": 5.0f,
+    "PositionOffsetX": 5.0f,
+    "LootMode": 0,
+    "TransformHasAI": 0b,
+    "AttackStrenght": 16,
+    "PersistenceRequired": 0b,
+    "id": "customnpcs.CustomNpc",
+    "HealF": 400.0f,
+    "MovingPatern": 1,
+    "NpcLines": {
+        "Lines": [
+        ]
+    },
+    "DefendFaction": 1b,
+    "FireIndirect": 0,
+    "NpcVisible": 0,
+    "LinkedNpcName": "",
+    "FindShelter": 2,
+    "ScriptsContainers": [
+    ],
+    "Air": 300s,
+    "TacticalVariant": 0,
+    "Orientation": 0,
+    "ScriptLanguage": "ECMAScript",
+    "KnockBack": 0,
+    "TransformHasJob": 0b,
+    "CustomName": "",
+    "CanDespawn": 0b,
+    "BurnInSun": 0b,
+    "StandingState": 0,
+    "AttackInvisible": 0b,
+    "HurtTime": 0s,
+    "WalkingRange": 10,
+    "CustomNameVisible": 0b,
+    "ShotCount": 1,
+    "pDur": 5,
+    "extendedPropertiesFluidRespiration": {
+        "airLevel": 300
+    },
+    "AttackRange": 2,
+    "NpcKillLines": {
+        "Lines": [
+            {
+                "Line": "RIP AND TEAR!",
+                "Song": "",
+                "Slot": 0
+            },
+            {
+                "Line": "I'M GONNA SHAVE YOU UP REAL THIN!",
+                "Song": "",
+                "Slot": 1
+            },
+            {
+                "Line": "MEAT'S BACK ON THE MENU!",
+                "Song": "",
+                "Slot": 2
+            },
+            {
+                "Line": "EAT PORK RINDS! EAT DEAD PIGS!",
+                "Song": "",
+                "Slot": 3
+            },
+            {
+                "Line": "[the raider smacks his lips at you]",
+                "Song": "",
+                "Slot": 4
+            }
+        ]
+    },
+    "PotionImmune": 0b,
+    "AvoidsSun": 0b,
+    "Texture": "customnpcs:textures/Other/Merc6.png",
+    "NpcJob": 0,
+    "BurstCount": 1,
+    "NpcAttackLines": {
+        "Lines": [
+        ]
+    },
+    "pSpeed": 10,
+    "pArea": 0,
+    "DeathTime": 0s,
+    "pImpact": 0,
+    "DropChances": [
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f
+    ],
+    "MoveState": 0,
+    "RangeAndMelee": 0,
+    "pRender3D": 0b,
+    "Motion": [
+        0.0d,
+        -0.0784000015258789d,
+        0.0d
+    ],
+    "CombatRegen": 1,
+    "pEffect": 0,
+    "DistanceToMelee": 4,
+    "NpcStepSound": "",
+    "FireRate": 5,
+    "pEffAmp": 0,
+    "OnGround": 1b,
+    "Dimension": 1,
+    "ImmuneToFire": 0b,
+    "NpcKilledLines": {
+        "Lines": [
+            {
+                "Line": "[the raider screams out one last time]",
+                "Song": "",
+                "Slot": 0
+            },
+            {
+                "Line": "[the raider slumps to the ground in a heap]",
+                "Song": "",
+                "Slot": 1
+            }
+        ]
+    },
+    "UUIDMost": 7651002717390324250L,
+    "Fire": -1s,
+    "DisablePitch": 0b,
+    "pPhysics": 1b,
+    "TransformHasInv": 0b,
+    "NpcInteractLines": {
+        "Lines": [
+            {
+                "Line": "Hello @p",
+                "Song": "",
+                "Slot": 0
+            }
+        ]
+    },
+    "pSpin": 0b,
+    "NpcHurtSound": "flansmod:malehurt1",
+    "pTrail": 0,
+    "CreatureType": 2,
+    "Attributes": [
+        {
+            "Base": 400.0d,
+            "Name": "generic.maxHealth"
+        },
+        {
+            "Base": 0.0d,
+            "Name": "generic.knockbackResistance"
+        },
+        {
+            "Base": 0.15000000596046448d,
+            "Name": "generic.movementSpeed"
+        },
+        {
+            "Base": 32.0d,
+            "Name": "generic.followRange"
+        },
+        {
+            "Base": 16.0d,
+            "Modifiers": [
+                {
+                    "UUIDMost": -3801225194067177672L,
+                    "UUIDLeast": -6586624321849018929L,
+                    "Amount": 6.0d,
+                    "Operation": 0,
+                    "Name": "Weapon modifier"
+                }
+            ],
+            "Name": "generic.attackDamage"
+        }
+    ],
+    "Invulnerable": 0b,
+    "TransformHasDisplay": 0b,
+    "NoFallDamage": 0b,
+    "AbsorptionAmount": 0.0f,
+    "TransformHasRole": 0b,
+    "Name": "Brawler",
+    "FallDistance": 0.0f,
+    "NpcIdleSound": "",
+    "Weapons": [
+        {
+            "Slot": 0b,
+            "id": "minecraft:iron_sword",
+            "Count": 1b,
+            "Damage": 0s
+        }
+    ],
+    "NPCDialogOptions": [
+    ],
+    "AggroRange": 16,
+    "DirectLOS": 1b,
+    "HealthRegen": 1,
+    "NpcModelData": {
+        "LegsConfig": {
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "BodyConfig": {
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "LegParts": {
+            "Type": 0b,
+            "PlayerTexture": 1b,
+            "Color": 16777215
+        },
+        "Parts": [
+        ],
+        "Breasts": 0b,
+        "Headwear": 2b,
+        "ArmsConfig": {
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "ExtraData": {
+        },
+        "HeadConfig": {
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        }
+    },
+    "minDelay": 20,
+    "DoorInteract": 1,
+    "MoveSpeed": 3,
+    "TransformEditingModus": 0b,
+    "UsingSkinUrl": 0b,
+    "Leashed": 0b,
+    "SkinUrl": "",
+    "CanSwim": 1b,
+    "MaxHealth": 400,
+    "HideBodyWhenKilled": 1b,
+    "AttackSpeed": 10,
+    "PotionDuration": 1,
+    "maxDelay": 40,
+    "ScriptEnabled": 0b,
+    "Role": 0,
+    "DropChance": [
+        {
+            "Integer": 100,
+            "Slot": 0
+        },
+        {
+            "Integer": 50,
+            "Slot": 1
+        },
+        {
+            "Integer": 20,
+            "Slot": 2
+        },
+        {
+            "Integer": 10,
+            "Slot": 3
+        },
+        {
+            "Integer": 10,
+            "Slot": 4
+        },
+        {
+            "Integer": 2,
+            "Slot": 5
+        },
+        {
+            "Integer": 2,
+            "Slot": 6
+        },
+        {
+            "Integer": 100,
+            "Slot": 7
+        },
+        {
+            "Integer": 100,
+            "Slot": 8
+        }
+    ],
+    "FactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "pDamage": 4,
+    "KilledTime": 0L,
+    "AimWhileShooting": 0b,
+    "CanPickUpLoot": 0b,
+    "AttackOtherFactions": 1b,
+    "CanDrown": 1b,
+    "AttackTime": 0s,
+    "pSize": 5,
+    "CanSprint": 1b,
+    "CanLeap": 1b,
+    "TransformIsActive": 0b,
+    "ForgeData": {
+        "HungerOverhaulCheck": 6
+    },
+    "MovingState": 2,
+    "MovingPos": 2,
+    "PotionAmp": 1,
+    "OnAttack": 0,
+    "TacticalRadius": 8,
+    "MaxExp": 4,
+    "OrderedLines": 0b,
+    "PortalCooldown": 0,
+    "pGlows": 0b,
+    "TransformHasAdvanced": 0b,
+    "TransformHasStats": 0b,
+    "FiringSound": "random.bow",
+    "ModRev": 16,
+    "Accuracy": 60,
+    "MinExp": 2,
+    "Armor": [
+    ],
+    "CloakTexture": "",
+    "GlowTexture": "",
+    "MaxFiringRange": 15,
+    "pXlr8": 0b,
+    "UUIDLeast": -4957233805978475571L,
+    "Health": 400s,
+    "pExplode": 0b,
+    "pStick": 0b,
+    "MovingPause": 1b,
+    "NpcDeathSound": "flansmod:maledeath1",
+    "FactionID": 26,
+    "Title": "Raider",
+    "TotalTicksAlive": 767071L,
+    "Rotation": [
+        6749.4883f,
+        0.0f
+    ],
+    "ShowName": 1,
+    "npcInteracting": 1b,
+    "AvoidsWater": 0b,
+    "Equipment": [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    "NoLivingAnimation": 0b,
+    "SpawnCycle": 0
+}

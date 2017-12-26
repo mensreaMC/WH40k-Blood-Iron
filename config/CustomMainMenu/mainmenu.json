@@ -1,0 +1,130 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "bfe:textures/title.png",
+            "posX" : -110,
+            "posY" : 120,
+            "width" : 323,
+            "height" : 125,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "Campaign",
+            "texture" : "bfe:textures/button.png",
+            "posX" : -200,
+            "posY" : 8,
+            "width" : 88,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "texture" : "bfe:textures/button.png",
+            "posX" : -200,
+            "posY" : 40,
+            "width" : 88,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "Mods",
+            "texture" : "bfe:textures/button.png",
+            "posX" : -160,
+            "posY" : 130,
+            "width" : 30,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "Options",
+            "texture" : "bfe:textures/button.png",
+            "posX" : -200,
+            "posY" : 72,
+            "width" : 88,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "texture" : "bfe:textures/button.png",
+            "posX" : -200,
+            "posY" : 104,
+            "width" : 88,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "texture" : "bfe:textures/lang.png",
+            "posX" : -200,
+            "posY" : 130,
+            "width" : 22,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        }
+    },
+    
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -100,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_center"
+        }
+    },
+    
+    "other":
+    {
+        "panorama":
+        {
+            "images" : "bfe:montage/panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : true,
+            "gradient" : true
+        }
+    }
+}

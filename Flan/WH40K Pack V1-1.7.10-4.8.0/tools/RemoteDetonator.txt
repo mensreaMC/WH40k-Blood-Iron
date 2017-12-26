@@ -1,0 +1,6 @@
+Name Remote Detonator
+ShortName remotedetonator
+Icon remotedetonator
+Colour 255 255 255
+StackSize 1
+ExplosiveRemote true

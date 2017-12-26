@@ -1,0 +1,7 @@
+Name Luckyshot 1
+ShortName luckyshot1
+Icon abilitytoken
+//
+AttachmentType generic
+//
+DamageMultiplier 1.05

@@ -1,0 +1,10 @@
+Name Red Dot Sight
+ShortName reddotsight
+Icon RedDotSight
+Model mw.RedDot
+Texture RedDotSight
+ModelScale 0.125
+AttachmentType sights
+ZoomLevel 1.0
+FOVZoomLevel 1.5
+ZoomOverlay None

@@ -1,0 +1,43 @@
+Name Promethium Tank
+//
+//*fileinfo*
+//
+ShortName promethiumtank
+Icon PromethiumTank
+Colour 255 255 255 
+WeaponType NONE
+Model Null
+//
+//*sounds*
+//
+HitSoundEnable True
+HitSound FlamerSpin
+HitSoundRange 16
+EntityHitSoundEnable True
+//
+//*bullet stats*
+//
+FallSpeed 0.20
+Fuse 8
+MaxStackSize 6
+RoundsPerItem 300
+DamageVsLiving 4
+DamageVsVehicles 4
+ExplodeOnImpact false
+FlakParticles 0
+FlakParticleType flame
+ExplosionRadius 0
+SetEntitiesOnFire true
+FireRadius 0.5
+BreaksGlass false
+HitBoxSize 1.0
+Penetrates false
+SmokeTrail true
+TrailParticleType flame
+//
+//*potion effects*
+//
+//Syntax is SmokeEffect <ID> <Duration> <Amplifier>
+//IDs are 	1:MoveSpeed		2:MoveSlowdown		3:DigSpeed			4:DigSlowdown		5:DamageBoost	6:Heal			7:Harm		8:Jump			9:Confusion		10:Regeneration
+//			11:Resistance	12:FireResistance	13:WaterBreathing	14:Invisibility		15:Blindness	16:NightVision	17:Hunger	18:Weakness		19:Poison		20:Wither
+PotionEffect 26 260 2

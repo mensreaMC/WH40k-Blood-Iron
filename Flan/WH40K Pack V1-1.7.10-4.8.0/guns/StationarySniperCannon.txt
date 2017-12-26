@@ -1,0 +1,69 @@
+Name Stationary Sniper Cannon
+// 
+//*file info*
+//
+ShortName stationarysnipercannon
+Icon PortableSniperCannon
+Color 255 255 255
+Model mw.Barrett
+Texture Barrett
+ModelScale 1.2
+//
+//*sounds*
+//
+ShootSound 20mmShoot
+GunSoundRange 400
+ReloadSound MagazineReload
+ReloadSoundRange 16
+//
+//*gun stats*
+//
+UsableByPlayers True
+UsableByMechas False
+CanShootUnderwater False
+OneHanded False
+Mode SemiAuto
+//
+Ammo 20mmmag
+Ammo 20mmhemag
+Ammo 20mmapmag
+Ammo 20mmheiapmag
+Ammo 20mmtxmag
+Ammo 20mmtqmag
+ReloadTime 0
+CanForceReload True
+//
+Damage 50
+Accuracy 3
+ShootDelay 20
+BulletSpeed 12.0
+//
+Recoil 16
+RandomRecoilRange 8.00
+RandomRecoilYawRange 3.00
+DecreaseRecoil 2.40
+DecreaseRecoilYaw 0.90
+//
+IgnoreArmorProbability 0.5
+IgnoreArmorDamageFactor 5.0
+//
+//*aiming*
+//
+Scope basic
+ZoomLevel 2.00
+FOVZoomLevel 1.00
+//
+//*attachments*
+//
+AllowAllAttachments false
+AllowAttachments reddotsight acogsight 4xscope 6xscope 10xscope bayonet accuracy1 accuracy2 accuracy3 accuracy4 accuracy5 luckyshot1 luckyshot2 luckyshot3 luckyshot4 luckyshot5 agility1 agility2 agility3 agility4 agility5 smallguns1 smallguns2 smallguns3 smallguns4 sniper steady
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 6
+//
+//*status effects*
+//
+MoveSpeedModifier 0.0
+KnockbackModifier 1.0

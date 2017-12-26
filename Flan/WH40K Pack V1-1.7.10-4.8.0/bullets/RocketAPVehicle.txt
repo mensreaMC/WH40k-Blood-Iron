@@ -1,0 +1,38 @@
+Name Vehicle AP Rocket
+//
+//*fileinfo*
+//
+ShortName rocketapvehicle
+Icon RocketAPVehicle
+WeaponType Missile
+//
+//*sounds*
+//
+HitSoundEnable True
+HitSound RocketHit
+HitSoundRange 32
+EntityHitSoundEnable True
+//
+//*bullet stats*
+//
+Speed 10.0
+FallSpeed 0.2
+MaxStackSize 6
+RoundsPerItem 1
+DamageVsVehicles 600
+DamageVsLiving 400
+ExplodeOnImpact False
+ExplosionRadius 0
+SetEntitiesOnFire False
+FireRadius 0
+BreaksGlass False
+HitBoxSize 1.0
+//
+//*visuals*
+//
+FlakParticles 10
+FlakParticleType explode
+TrailParticles True
+TrailParticleType flansmod.fmflame
+BoostParticle explode
+SmokeTrail True

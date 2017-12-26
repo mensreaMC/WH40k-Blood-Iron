@@ -1,0 +1,47 @@
+Name Vehicle Twin-Linked Heavy Bolter
+// 
+//*file info*
+//
+ShortName vehicletwinlinkedheavybolter
+Icon VehicleTwinLinkedHeavyBolter
+Color 255 255 255
+Model Manus_WH40K.Gun.WH40K_Gun_WarhoundVulcanMegaBolter_1
+Texture Skin_WH40K_Gun_WarhoundVulcanMegaBolter_1A
+ModelScale 0.2
+//
+//*sounds*
+//
+ShootSound BolterShoot
+GunSoundRange 208
+ReloadSound BoltReload
+ReloadSoundRange 16
+//
+//*gun stats*
+//
+UsableByPlayers False
+UsableByMechas True
+CanShootUnderwater False
+OneHanded False
+Mode FullAuto
+//
+Ammo boltbox
+Ammo boltdrum
+ReloadTime 0
+CanForceReload True
+//
+Damage 80
+Accuracy 2
+ShootDelay 1
+BulletSpeed 20.0
+//
+Recoil 0
+//
+IgnoreArmorProbability 0.5
+IgnoreArmorDamageFactor 1.0
+//
+//*attachments*
+//
+AllowAllAttachments false
+AllowAttachments none
+AllowScopeAttachments false
+NumGenericAttachmentSlots 0

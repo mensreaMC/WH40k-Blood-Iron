@@ -1,0 +1,47 @@
+Name Heavy Bolter
+// 
+//*file info*
+//
+ShortName heavybolter
+Icon HeavyBolter
+Color 255 255 255
+//
+//*sounds*
+//
+ShootSound BolterShoot
+GunSoundRange 208
+ReloadSound BoltReload
+ReloadSoundRange 16
+//
+//*gun stats*
+//
+UsableByPlayers False
+UsableByMechas False
+CanShootUnderwater False
+OneHanded False
+//
+Ammo boltbox
+Ammo boltdrum
+ReloadTime 120
+CanForceReload True
+//
+Damage 80
+Accuracy 2
+ShootDelay 3
+BulletSpeed 20.0
+//
+Recoil 0
+//
+IgnoreArmorProbability 0.1
+IgnoreArmorDamageFactor 5.0
+//
+//*deployable info*
+// 
+Deployable True
+DeployedModel Manus_WH40K.MG.WH40K_MG_HeavyBolter_1
+DeployedTexture Skin_WH40K_MG_HeavyBolter_1A
+TopViewLimit 20
+BottomViewLimit 20
+SideViewLimit 45
+PivotHeight 0.75
+StandBackDistance 1.0

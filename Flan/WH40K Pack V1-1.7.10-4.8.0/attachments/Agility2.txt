@@ -1,0 +1,9 @@
+Name Agility II
+ShortName agility2
+Icon abilitytoken
+//
+AttachmentType generic
+//
+SpreadMultiplier 0.9
+ReloadTimeMultiplier 0.9
+RecoilMultiplier 0.9

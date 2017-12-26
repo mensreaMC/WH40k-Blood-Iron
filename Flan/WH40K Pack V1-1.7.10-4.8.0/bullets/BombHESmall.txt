@@ -1,0 +1,37 @@
+Name Small HE Bomb
+//
+//*fileinfo*
+//
+ShortName bombhesmall
+Icon BombHESmall
+Model bmp.WE177
+Texture WE177
+//
+//*sounds*
+//
+HitSoundEnable True
+HitSound TankHit
+HitSoundRange 32
+EntityHitSoundEnable True
+//
+//*bullet stats*
+//
+WeaponType Bomb
+FallSpeed 1.0
+HitBoxSize 1.0
+MaxStackSize 6
+RoundsPerItem 1
+//
+DamageVsVehicles 20
+DamageVsLiving 200
+//
+ExplodeOnImpact True
+ExplosionBreaksBlocks True
+ExplosionRadius 6.0
+ExplosionDamageVsLiving 8.0
+ExplosionDamageVsPlane 1.0
+ExplosionDamageVsVehicle 1.0
+//
+SetEntitiesOnFire False
+FireRadius 0
+BreaksGlass False

@@ -1,0 +1,5 @@
+Name APBulletParts
+ShortName apbulletparts
+Icon APBulletParts
+Category Misc
+StackSize 64

@@ -1,0 +1,50 @@
+Name Vehicle AA Missile
+//
+//*fileinfo*
+//
+ShortName missileaavehicle
+Icon MissileAAVehicle
+Colour 255 255 255 
+WeaponType Missile
+Model mw.StingerMissile
+Texture Stinger
+//
+//*sounds*
+//
+HitSoundEnable True
+HitSound RocketHit
+HitSoundRange 32
+EntityHitSoundEnable True
+//
+//*bullet stats*
+//
+Speed 4.0
+FallSpeed 0.1
+MaxStackSize 2
+RoundsPerItem 1
+DamageVsVehicles 200
+DamageVsLiving 20
+ExplodeOnImpact True
+ExplosionRadius 1
+BreaksGlass False
+HitBoxSize 1.0
+//
+//*homing projectile*
+//
+LockOnToVehicles False
+LockOnToMechas False
+LockOnToPlanes True
+TickStartHoming 5
+CanLockOnAngle 5
+MaxLockOnAngle 45
+TurningForce 1
+DragInAir 0.99
+//
+//*visuals*
+//
+FlakParticles 10
+FlakParticleType explode
+TrailParticles True
+TrailParticleType flansmod.fmflame
+BoostParticle explode
+SmokeTrail True

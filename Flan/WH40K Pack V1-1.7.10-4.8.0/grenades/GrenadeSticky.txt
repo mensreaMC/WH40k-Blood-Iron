@@ -1,0 +1,52 @@
+Name Sticky Grenade
+//
+//*fileinfo*
+//
+ShortName grenadesticky
+Icon GrenadeSticky
+Color 255 255 255
+Model Manus_WH40K.Misc.WH40K_Misc_FragGrenade_1
+Texture Skin_WH40K_Misc_FragGrenade_1A
+StackSize 32
+ThrowSound Throw
+//
+//*visual effects*
+//
+TrailParticles false
+ExplodeParticles largesmoke
+SpinWhenThrown false
+SmokeTime 3
+SmokeRadius 3
+//
+//*physics*
+//
+Bounciness 0.1
+ThrowSpeed 1.7
+FallSpeed 1.0
+BreaksGlass false
+PenetratesBlocks false
+Sticky True
+MeleeDamage 0
+HitBoxSize 0.5
+//
+//*stats*
+//
+CanThrow True
+ThrowDelay 60
+//
+DetonateOnImpact false
+DetonateWhenShot true
+Fuse 80
+FireRadius 0.0
+ExplosionRadius 2.4
+ExplosionDamageVsLiving 5.5
+ExplosionDamageVsPlane 1.0
+ExplosionDamageVsVehicle 1.0
+ExplosionBreaksBlocks false
+//
+//*smoke effects*
+//
+//Syntax is SmokeEffect <ID> <Duration> <Amplifier>
+//IDs are 	1:MoveSpeed		2:MoveSlowdown		3:DigSpeed			4:DigSlowdown		5:DamageBoost	6:Heal			7:Harm		8:Jump			9:Confusion		10:Regeneration
+//			11:Resistance	12:FireResistance	13:WaterBreathing	14:Invisibility		15:Blindness	16:NightVision	17:Hunger	18:Weakness		19:Poison		20:Wither
+//SmokeEffect 7 1 5

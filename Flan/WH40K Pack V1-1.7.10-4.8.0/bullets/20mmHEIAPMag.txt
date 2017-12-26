@@ -1,0 +1,42 @@
+Name 20mm HEIAP Mag
+//
+//*fileinfo*
+//
+ShortName 20mmheiapmag
+Icon 20mmHEIAPMag
+Colour 255 255 255 
+WeaponType NONE
+//
+//*sounds*
+//
+HitSoundEnable True
+HitSound BoltHit
+HitSoundRange 16
+EntityHitSoundEnable True
+//
+//*bullet stats*
+//
+FallSpeed 0.1
+HitBoxSize 1.0
+MaxStackSize 6
+RoundsPerItem 10
+//
+DamageVsLiving 3.0
+DamageVsVehicles 1.5
+//
+ExplodeOnImpact True
+ExplosionRadius 1.0
+//
+SetEntitiesOnFire True
+FireRadius 1.0
+//
+BreaksGlass False
+//
+PotionEffect 26 120 2
+PotionEffect 24 600 12
+//
+//*visuals*
+//
+FlakParticles 10
+FlakParticleType explode
+SmokeTrail True

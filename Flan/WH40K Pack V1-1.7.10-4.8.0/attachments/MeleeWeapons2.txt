@@ -1,0 +1,7 @@
+Name Melee Weapons 2
+ShortName meleeweapons2
+Icon abilitytoken
+//
+AttachmentType generic
+//
+MeleeDamageMultiplier 1.2

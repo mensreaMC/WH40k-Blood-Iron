@@ -1,0 +1,11 @@
+Name Small Guns 4
+ShortName smallguns4
+Icon abilitytoken
+//
+AttachmentType generic
+//
+BulletSpeedMultiplier 1.4
+DamageMultiplier 1.35
+SpreadMultiplier 0.6
+RecoilMultiplier 0.6
+ReloadTimeMultiplier 0.6

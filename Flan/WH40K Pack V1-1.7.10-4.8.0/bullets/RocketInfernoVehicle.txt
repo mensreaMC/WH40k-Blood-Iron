@@ -1,0 +1,42 @@
+Name Vehicle Inferno Rocket
+//
+//*fileinfo*
+//
+ShortName rocketinfernovehicle
+Icon RocketInfernoVehicle
+WeaponType MISSILE
+//
+//*sounds*
+//
+HitSoundEnable True
+HitSound RocketHit
+HitSoundRange 32
+EntityHitSoundEnable True
+//
+//*bullet stats*
+//
+Speed 10.0
+FallSpeed 0.2
+MaxStackSize 6
+RoundsPerItem 1
+DamageVsVehicles 20
+DamageVsLiving 400
+ExplodeOnImpact True
+ExplosionRadius 2
+ExplosionDamageVsLiving 100
+ExplosionDamageVsDrivable 0
+SetEntitiesOnFire True
+FireRadius 4
+BreaksGlass False
+HitBoxSize 1.0
+//
+PotionEffect 26 120 4
+//
+//*visuals*
+//
+FlakParticles 10
+FlakParticleType explode
+TrailParticles True
+TrailParticleType flansmod.fmflame
+BoostParticle explode
+SmokeTrail True

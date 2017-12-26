@@ -1,0 +1,54 @@
+Name AT Missile
+//
+//*fileinfo*
+//
+ShortName missileat
+Icon MissileAT
+Colour 255 255 255 
+WeaponType NONE
+Model mw.StingerMissile
+Texture Stinger
+//
+//*sounds*
+//
+HitSoundEnable True
+HitSound RocketHit
+HitSoundRange 32
+EntityHitSoundEnable True
+//
+//*bullet stats*
+//
+FallSpeed 0.1
+Fuse 400
+MaxStackSize 60
+RoundsPerItem 1
+//
+DamageVsVehicles 400
+DamageVsLiving 20
+//
+ExplodeOnImpact True
+ExplosionRadius 1
+SetEntitiesOnFire False
+FireRadius 0
+BreaksGlass False
+HitBoxSize 1.0
+//
+//*homing projectile*
+//
+LockOnToVehicles False
+LockOnToMechas False
+LockOnToPlanes True
+TickStartHoming 5
+CanLockOnAngle 5
+MaxLockOnAngle 45
+TurningForce 1
+DragInAir 0.99
+//
+//*visuals*
+//
+FlakParticles 10
+FlakParticleType explode
+TrailParticles True
+TrailParticleType flansmod.fmflame
+BoostParticle explode
+SmokeTrail True

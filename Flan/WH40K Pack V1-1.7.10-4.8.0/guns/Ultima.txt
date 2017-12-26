@@ -1,0 +1,60 @@
+Name Ultima
+// 
+//*file info*
+//
+ShortName ultima
+Icon Ultima
+Color 255 255 255
+Model mw.Dragunov
+Texture Dragunov
+ModelScale 1
+//
+//*sounds*
+//
+//ShootSound
+//GunSoundRange
+ReloadSound ECReload
+ReloadSoundRange 16
+//
+//*gun stats*
+//
+UsableByPlayers True
+UsableByMechas False
+CanShootUnderwater False
+OneHanded False
+Mode SemiAuto
+//
+Ammo shardpack
+Ammo shardhepack
+Ammo shardtxpack
+Ammo shardtqpack
+ReloadTime 60
+CanForceReload False
+//
+Damage 80
+Accuracy 0
+ShootDelay 20
+BulletSpeed 14.0
+//
+Recoil 0
+//
+//*aiming*
+//
+Scope basic
+ZoomLevel 2.00
+FOVZoomLevel 1.00
+//
+//*status effects*
+//
+MoveSpeedModifier 1.0
+KnockbackModifier 1.0
+//
+//*attachments*
+//
+AllowAllAttachments false
+AllowAttachments 2xadjustable 4xadjustable 6xadjustable 10xadjustable accuracy1 accuracy2 accuracy3 accuracy4 accuracy5 luckyshot1 luckyshot2 luckyshot3 luckyshot4 luckyshot5 agility1 agility2 agility3 agility4 agility5 energyweapons1 energyweapons2 energyweapons3 energyweapons4 sniper
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 6

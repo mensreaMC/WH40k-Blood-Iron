@@ -1,0 +1,10 @@
+﻿Name Imperial Commissar Hat
+ShortName commissarhat
+//
+Model Manus_WH40K.Armor.WH40K_Armor_CommissarHat_1
+ArmourTexture Skin_WH40K_Armor_Commissar_1A
+ModelScale 0.25
+Icon CommissarHat
+//
+Type Hat
+Defence 0.10

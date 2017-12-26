@@ -1,0 +1,34 @@
+Name 20mm TQ Round
+//
+//*fileinfo*
+//
+ShortName 20mmtqround
+Icon 20mmTQRound
+Colour 255 255 255 
+WeaponType NONE
+//
+//*sounds*
+//
+HitSoundEnable True
+HitSound BulletHit
+HitSoundRange 16
+EntityHitSoundEnable True
+//
+//*bullet stats*
+//
+FallSpeed 0.1
+MaxStackSize 64
+RoundsPerItem 1
+DamageVsLiving 1
+DamageVsVehicles 0.1
+BreaksGlass False 
+ExplosionRadius 0
+SetEntitiesOnFire False
+FireRadius 0
+BreaksGlass False
+HitBoxSize 1.0
+SmokeTrail False
+PotionEffect 2 200 3
+PotionEffect 4 200 3
+PotionEffect 9 200 3
+PotionEffect 18 200 3

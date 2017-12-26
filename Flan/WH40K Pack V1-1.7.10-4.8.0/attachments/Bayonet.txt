@@ -1,0 +1,5 @@
+Name Bayonet
+ShortName bayonet
+Icon Bayonet
+AttachmentType generic
+MeleeDamageMultiplier 5.0

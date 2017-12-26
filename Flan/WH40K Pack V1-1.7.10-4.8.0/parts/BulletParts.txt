@@ -1,0 +1,5 @@
+Name Bullet Parts
+ShortName bulletparts
+Icon BulletParts
+Category Misc
+StackSize 64

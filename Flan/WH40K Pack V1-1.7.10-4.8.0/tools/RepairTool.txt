@@ -1,0 +1,9 @@
+Name Repair Tool
+ShortName repairtool
+Icon repairtool
+StackSize 1
+RepairVehicles True
+RepairAmount 500
+ToolLife 20
+DestroyOnEmpty false
+RechargeRecipe 4 nanogelcell

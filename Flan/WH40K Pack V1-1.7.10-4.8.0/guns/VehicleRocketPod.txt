@@ -1,0 +1,41 @@
+Name Vehicle Rocket Pod
+// 
+//*file info*
+//
+ShortName vehiclerocketpod
+Icon VehicleRocketPod
+Color 255 255 255
+Model fc.MechAIC
+ModelScale 0.2
+Texture MechAIC
+//
+//*sounds*
+//
+ShootSound RocketShoot
+GunSoundRange 208
+ReloadSound RocketReload
+ReloadSoundRange 16
+//
+//*gun stats*
+//
+UsableByPlayers False
+UsableByMechas True
+CanShootUnderwater False
+OneHanded False
+Mode FULLAUTO
+Ammo rockethe
+Ammo rocketap
+ReloadTime 0
+CanForceReload False
+Damage 1
+Recoil 0
+Accuracy 0
+ShootDelay 10
+BulletSpeed 12.0
+//
+//*attachments*
+//
+AllowAllAttachments false
+AllowAttachments none
+AllowScopeAttachments false
+NumGenericAttachmentSlots 0

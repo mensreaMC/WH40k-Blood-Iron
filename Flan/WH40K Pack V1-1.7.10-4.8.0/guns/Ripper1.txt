@@ -1,0 +1,35 @@
+Name Ripper
+// 
+//*file info*
+//
+ShortName ripper1
+Icon Ripper
+Color 255 255 255
+//
+//*sounds*
+//
+MeleeSound Chainsword
+GunSoundRange 16
+IdleSound ChainswordIdle
+IdleSoundLength 20
+//
+//*gun stats*
+//
+UsableByPlayers True
+UsableByMechas False
+OneHanded False
+//
+//*melee*
+//
+MeleeDamage 7
+MeleeTime 20
+//
+//*status effects*
+//
+KnockbackModifier 0.3
+//
+//*attachments*
+//
+AllowAllAttachments false
+AllowAttachments meleeweapons1 meleeweapons2 meleeweapons3 meleeweapons4
+NumGenericAttachmentSlots 4

@@ -1,0 +1,5 @@
+Name Firearm Parts
+ShortName firearmparts
+Icon GunParts
+Category Misc
+StackSize 64

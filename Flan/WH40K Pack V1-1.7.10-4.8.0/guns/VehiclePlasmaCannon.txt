@@ -1,0 +1,47 @@
+Name Vehicle Plasma Cannon
+// 
+//*file info*
+//
+ShortName vehicleplasmacannon
+Icon VehiclePlasmaCannon
+Color 255 255 255
+Model fc.MechPAC1
+Texture MechPAC1
+ModelScale 0.2
+//
+//*sounds*
+//
+ShootSound PlasmaShoot
+GunSoundRange 304
+ReloadSound ECReload
+ReloadSoundRange 16
+//
+//*gun stats*
+//
+UsableByPlayers False
+UsableByMechas True
+CanShootUnderwater False
+OneHanded False
+Mode FullAuto
+//
+Ammo echeavyoverclocked
+Ammo echeavyoverclockedbundle
+ReloadTime 0
+CanForceReload False
+//
+Damage 250
+Accuracy 5
+ShootDelay 40
+BulletSpeed 4.0
+//
+Recoil 0
+//
+IgnoreArmorProbability 1.0
+IgnoreArmorDamageFactor 8.0
+//
+//*attachments*
+//
+AllowAllAttachments false
+AllowAttachments none
+AllowScopeAttachments false
+NumGenericAttachmentSlots 0

@@ -1,0 +1,52 @@
+Name Sniper Cannon
+// 
+//*file info*
+//
+ShortName snipercannon
+Icon SniperCannon
+Color 255 255 255
+//
+//*sounds*
+//
+ShootSound 20mmShoot
+GunSoundRange 400
+ReloadSound MagazineReload
+ReloadSoundRange 16
+//
+//*gun stats*
+//
+UsableByPlayers True
+UsableByMechas False
+CanShootUnderwater False
+OneHanded False
+//
+Ammo 20mmmag
+Ammo 20mmhemag
+Ammo 20mmapmag
+Ammo 20mmheiapmag
+Ammo 20mmtxmag
+Ammo 20mmtqmag
+ReloadTime 160
+CanForceReload True
+//
+Damage 50
+Accuracy 1
+ShootDelay 20
+BulletSpeed 12.0
+//
+Recoil 0
+//
+IgnoreArmorProbability 0.5
+IgnoreArmorDamageFactor 5.0
+//
+//*optics*
+//
+Scope basic
+ZoomLevel 2.00
+FOVZoomLevel 1.00
+//
+//*deployable info*
+// 
+Deployable True
+DeployedModel manus_modern_warfare.BrowningM2HB
+DeployedTexture SkinGunBrowningM2HB

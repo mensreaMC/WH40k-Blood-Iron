@@ -1,0 +1,5 @@
+Name Vehicle Parts
+ShortName vehicleparts
+Icon VehicleParts
+Category Misc
+StackSize 16

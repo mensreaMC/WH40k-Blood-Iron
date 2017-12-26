@@ -1,0 +1,10 @@
+Name ACOG Sight
+ShortName acogsight
+Icon ACOGSight
+Model mw.ACOG
+Texture ACOGSight
+ModelScale 0.125
+AttachmentType sights
+ZoomLevel 1.0
+FOVZoomLevel 2.0
+ZoomOverlay None

@@ -1,0 +1,44 @@
+Name Vehicle Heavy Battle Cannon
+// 
+//*file info*
+//
+ShortName vehicleheavybattlecannon
+Icon VehicleHeavyBattlecannon
+Color 255 255 255
+Model fc.MechCannon
+Texture MechCannon
+ModelScale 0.2
+//
+//*sounds*
+//
+ShootSound 150mmShoot
+GunSoundRange 817
+ReloadSound
+ReloadSoundRange 32
+//
+//*gun stats*
+//
+UsableByPlayers False
+UsableByMechas True
+CanShootUnderwater False
+OneHanded False
+Mode SEMIAUTO
+Ammo 150mmround
+Ammo 150mmheround
+Ammo 150mmapround
+ReloadTime 0
+CanForceReload False
+Damage 1
+Recoil 0
+Accuracy 0
+ShootDelay 60
+BulletSpeed 20.0
+IgnoreArmorProbability 1.0
+IgnoreArmorDamageFactor 16.0
+//
+//*attachments*
+//
+AllowAllAttachments false
+AllowAttachments none
+AllowScopeAttachments false
+NumGenericAttachmentSlots 0

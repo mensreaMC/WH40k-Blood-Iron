@@ -1,0 +1,35 @@
+Name Shard TQ pack
+//
+//*fileinfo*
+//
+ShortName shardtqpack
+Icon ShardTQpack
+Colour 255 255 255 
+WeaponType NONE
+//
+//*sounds*
+//
+HitSoundEnable True
+HitSound BulletHit
+HitSoundRange 16
+EntityHitSoundEnable True
+//
+//*bullet stats*
+//
+FallSpeed 0
+MaxStackSize 1
+RoundsPerItem 60
+DamageVsVehicles 0
+DamageVsLiving 1
+ExplodeOnImpact False
+ExplosionRadius 0
+SetEntitiesOnFire False
+FireRadius 0
+BreaksGlass False
+HitBoxSize 1.0
+PotionEffect 2 200 4
+PotionEffect 4 200 4
+PotionEffect 9 200 4
+PotionEffect 18 200 4
+Penetrates False
+SmokeTrail False

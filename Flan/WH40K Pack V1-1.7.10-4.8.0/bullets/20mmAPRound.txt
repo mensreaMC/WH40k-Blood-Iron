@@ -1,0 +1,30 @@
+Name 20mm AP Round
+//
+//*fileinfo*
+//
+ShortName 20mmapround
+Icon 20mmAPRound
+Colour 255 255 255 
+WeaponType NONE
+//
+//*sounds*
+//
+HitSoundEnable True
+HitSound BulletHit
+HitSoundRange 16
+EntityHitSoundEnable True
+//
+//*bullet stats*
+//
+FallSpeed 0.1
+MaxStackSize 64
+RoundsPerItem 1
+DamageVsLiving 1
+DamageVsVehicles 3
+ExplodeOnImpact False
+ExplosionRadius 0
+SetEntitiesOnFire False
+FireRadius 0
+BreaksGlass False
+HitBoxSize 1.0
+SmokeTrail False

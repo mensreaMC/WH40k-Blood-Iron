@@ -1,0 +1,53 @@
+Name Graviton Gun
+// 
+//*file info*
+//
+ShortName gravitongun
+Icon GravitonGun
+Color 255 255 255
+Model dwfirearms.KGL40
+Texture KGL40_Standard
+ModelScale 0.2
+//
+//*sounds*
+//
+ShootSound GravitonShoot
+GunSoundRange 16
+ReloadSound ECReload
+ReloadSoundRange 8
+//
+//*gun stats*
+//
+UsableByPlayers True
+UsableByMechas False
+CanShootUnderwater False
+OneHanded True
+Mode SemiAuto
+//
+Ammo ecmicrooverclocked
+LoadIntoGun 1
+ReloadTime 120
+CanForceReload False
+//
+Damage 0
+NumBullets 6
+Accuracy 6
+ShootDelay 20
+BulletSpeed 14.0
+//
+Recoil 1
+RandomRecoilRange 1.00
+RandomRecoilYawRange 1.00
+DecreaseRecoil 0.30
+DecreaseRecoilYaw 0.30
+//
+//*melee*
+//
+MeleeDamage 1
+MeleeTime 60
+//MeleeSound Throw
+//
+//*status effects*
+//
+MoveSpeedModifier 1.0
+KnockbackModifier 0.0

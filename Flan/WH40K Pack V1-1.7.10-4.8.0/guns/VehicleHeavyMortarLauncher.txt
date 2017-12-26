@@ -1,0 +1,40 @@
+Name Vehicle Heavy Mortar Launcher
+// 
+//*file info*
+//
+ShortName vehicleheavymortarlauncher
+Icon VehicleHeavyMortarLauncher
+Color 255 255 255
+Model fc.MechPAC1
+Texture MechPAC1
+ModelScale 0.2
+//
+//*sounds*
+//
+ShootSound MortarShoot
+GunSoundRange 208
+ReloadSound MortarReload
+ReloadSoundRange 16
+//
+//*gun stats*
+//
+UsableByPlayers False
+UsableByMechas False
+CanShootUnderwater False
+OneHanded False
+Mode SEMIAUTO
+Ammo mortarheavyshell
+ReloadTime 0
+CanForceReload False
+Damage 200
+Recoil 0
+Accuracy 3
+ShootDelay 40
+BulletSpeed 5.0
+//
+//*attachments*
+//
+AllowAllAttachments false
+AllowAttachments none
+AllowScopeAttachments false
+NumGenericAttachmentSlots 0

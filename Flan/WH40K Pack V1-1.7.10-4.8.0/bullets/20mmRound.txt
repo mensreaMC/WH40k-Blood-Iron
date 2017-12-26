@@ -1,0 +1,30 @@
+Name 20mm Round
+//
+//*fileinfo*
+//
+ShortName 20mmround
+Icon 20mmRound
+Colour 255 255 255 
+WeaponType NONE
+//
+//*sounds*
+//
+HitSoundEnable True
+HitSound BulletHit
+HitSoundRange 16
+EntityHitSoundEnable True
+//
+//*bullet stats*
+//
+FallSpeed 0.1
+MaxStackSize 64
+RoundsPerItem 1
+DamageVsLiving 1
+DamageVsVehicles 1
+ExplodeOnImpact False
+ExplosionRadius 0
+SetEntitiesOnFire False
+FireRadius 0
+BreaksGlass False
+HitBoxSize 1.0
+SmokeTrail False

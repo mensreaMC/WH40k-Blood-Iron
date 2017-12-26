@@ -1,0 +1,10 @@
+Name Energy Weapons 3
+ShortName energyweapons3
+Icon abilitytoken
+//
+AttachmentType generic
+//
+DamageMultiplier 2.5
+SpreadMultiplier 0.7
+RecoilMultiplier 0.7
+ReloadTimeMultiplier 0.6

@@ -1,0 +1,37 @@
+Name Inferno Bomb
+//
+//*fileinfo*
+//
+ShortName bombinferno
+Icon BombInferno
+Model bmp.WE177
+Texture WE177
+//
+//*sounds*
+//
+HitSoundEnable True
+HitSound TankHit
+HitSoundRange 32
+EntityHitSoundEnable True
+//
+//*bullet stats*
+//
+WeaponType Bomb
+FallSpeed 1.0
+HitBoxSize 1.0
+MaxStackSize 2
+RoundsPerItem 1
+//
+DamageVsVehicles 40
+DamageVsLiving 400
+//
+ExplodeOnImpact True
+ExplosionBreaksBlocks False
+ExplosionRadius 4.0
+ExplosionDamageVsLiving 6.5
+ExplosionDamageVsPlane 1.0
+ExplosionDamageVsVehicle 1.0
+//
+SetEntitiesOnFire False
+FireRadius 6
+BreaksGlass False

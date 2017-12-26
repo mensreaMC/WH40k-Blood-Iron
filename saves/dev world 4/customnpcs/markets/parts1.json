@@ -1,0 +1,96 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "IW:misc",
+                "Count": 1b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 1b,
+                "id": "IW:misc",
+                "Count": 3b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 3b,
+                "id": "IW:misc",
+                "Count": 1b,
+                "Damage": 2s
+            },
+            {
+                "Slot": 4b,
+                "id": "IW:misc",
+                "Count": 1b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 9b,
+                "id": "IW:misc",
+                "Count": 1b,
+                "Damage": 4s
+            },
+            {
+                "Slot": 12b,
+                "id": "IW:misc",
+                "Count": 1b,
+                "Damage": 4s
+            },
+            {
+                "Slot": 15b,
+                "id": "IW:misc",
+                "Count": 1b,
+                "Damage": 3s
+            }
+        ]
+    },
+    "TraderIgnoreDamage": 0b,
+    "TraderIgnoreNBT": 0b,
+    "TraderSold": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "IW:foods",
+                "Count": 1b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 1b,
+                "id": "minecraft:potion",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "IW:foods",
+                "Count": 1b,
+                "Damage": 2s
+            },
+            {
+                "Slot": 4b,
+                "id": "IC2:itemCellEmpty",
+                "Count": 4b,
+                "Damage": 12s
+            },
+            {
+                "Slot": 9b,
+                "id": "IW:foods",
+                "Count": 24b,
+                "Damage": 12s
+            },
+            {
+                "Slot": 12b,
+                "id": "IW:foods",
+                "Count": 1b,
+                "Damage": 13s
+            },
+            {
+                "Slot": 15b,
+                "id": "IW:foods",
+                "Count": 1b,
+                "Damage": 14s
+            }
+        ]
+    }
+}

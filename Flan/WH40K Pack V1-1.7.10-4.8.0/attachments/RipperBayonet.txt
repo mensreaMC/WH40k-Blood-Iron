@@ -1,0 +1,5 @@
+Name Ripper Bayonet
+ShortName ripperbayonet
+Icon RipperBayonet
+AttachmentType generic
+MeleeDamageMultiplier 15.0

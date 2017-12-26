@@ -1,0 +1,31 @@
+Name 8mm TX Mag
+//
+//*fileinfo*
+//
+ShortName 8mmtxmag
+Icon 8mmTXMag
+Colour 255 255 255 
+WeaponType NONE
+//
+//*sounds*
+//
+HitSoundEnable True
+HitSound BulletHit
+HitSoundRange 8
+EntityHitSoundEnable True
+//
+//*bullet stats*
+//
+FallSpeed 0.2
+MaxStackSize 64
+RoundsPerItem 10
+DamageVsVehicles 0
+DamageVsLiving 1
+ExplodeOnImpact False
+ExplosionRadius 0
+SetEntitiesOnFire False
+FireRadius 0
+BreaksGlass False
+HitBoxSize 0.1
+PotionEffect 20 100 1
+SmokeTrail False

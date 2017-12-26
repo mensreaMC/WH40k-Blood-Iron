@@ -1,0 +1,10 @@
+Name Anti-Materialist
+ShortName antimaterialist
+Icon abilitytoken
+//
+AttachmentType generic
+//
+DamageMultiplier 1.4
+SpreadMultiplier 0.1
+RecoilMultiplier 0.1
+ReloadTimeMultiplier 0.5

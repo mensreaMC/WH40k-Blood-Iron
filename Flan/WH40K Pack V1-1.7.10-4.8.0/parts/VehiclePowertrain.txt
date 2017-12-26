@@ -1,0 +1,5 @@
+Name Vehicle Powertrain
+ShortName vehiclepowertrain
+Icon VehiclePowertrain
+Category Misc
+StackSize 1

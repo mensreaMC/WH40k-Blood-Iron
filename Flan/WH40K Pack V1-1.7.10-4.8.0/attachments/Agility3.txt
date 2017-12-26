@@ -1,0 +1,9 @@
+Name Agility III
+ShortName agility3
+Icon abilitytoken
+//
+AttachmentType generic
+//
+SpreadMultiplier 0.85
+ReloadTimeMultiplier 0.85
+RecoilMultiplier 0.85

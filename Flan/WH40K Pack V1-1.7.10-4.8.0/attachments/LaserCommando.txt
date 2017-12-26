@@ -1,0 +1,10 @@
+Name Laser Commando
+ShortName lasercommando
+Icon abilitytoken
+//
+AttachmentType generic
+//
+DamageMultiplier 1.5
+SpreadMultiplier 0.1
+RecoilMultiplier 0.1
+ReloadTimeMultiplier 0.5

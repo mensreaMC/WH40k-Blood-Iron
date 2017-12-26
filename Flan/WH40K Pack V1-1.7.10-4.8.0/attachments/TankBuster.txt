@@ -1,0 +1,11 @@
+Name Tank Buster
+ShortName tankbuster
+Icon abilitytoken
+//
+AttachmentType generic
+//
+BulletSpeedMultiplier 1.6
+DamageMultiplier 2.0
+SpreadMultiplier 0.1
+RecoilMultiplier 0.1
+ReloadTimeMultiplier 0.5

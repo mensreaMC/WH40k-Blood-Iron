@@ -1,0 +1,43 @@
+Name Heavy EC
+//
+//*fileinfo*
+//
+ShortName echeavy
+Icon ECHeavy
+Colour 255 255 255 
+WeaponType NONE
+Model Manus_WH40K.Misc.WH40K_Misc_Laser_1
+Texture Skin_WH40K_Bullet_Laser_1A
+//
+//*sounds*
+//
+HitSoundEnable True
+HitSound LasHit
+HitSoundRange 16
+EntityHitSoundEnable True
+//
+//*bullet stats*
+//
+FallSpeed 0.0
+Fuse 10
+HitBoxSize 1.0
+MaxStackSize 1
+RoundsPerItem 80
+//
+DamageVsVehicles 1.0
+DamageVsLiving 1.0
+//
+ExplodeOnImpact False
+ExplosionRadius 0.0
+ExplosionBreaksBlocks False
+//
+SetEntitiesOnFire True
+FireRadius 0.0
+//
+BreaksGlass False
+//
+//*visuals*
+//
+SmokeTrail false
+TrailParticles true
+TrailParticleType fireworksSpark

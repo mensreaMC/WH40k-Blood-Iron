@@ -1,0 +1,65 @@
+Name Rocket Launcher
+// 
+//*file info*
+//
+ShortName rocketlauncher
+Icon RocketLauncher
+Color 255 255 255
+Model dwfirearms.LK103
+Texture LK103_Standard
+ModelScale 0.3
+//
+//*sounds*
+//
+ShootSound RocketShoot
+GunSoundRange 208
+ReloadSound RocketReload
+ReloadSoundRange 8
+//
+//*gun stats*
+//
+UsableByPlayers True
+UsableByMechas False
+CanShootUnderwater False
+OneHanded False
+Mode SemiAuto
+//
+Ammo rockethe
+Ammo rocketap
+Ammo rockettx
+Ammo rockettq
+Ammo rocketinferno
+ReloadTime 200
+CanForceReload False
+//
+Damage 1
+Accuracy 4
+ShootDelay 0
+BulletSpeed 12.0
+//
+Recoil 3
+RandomRecoilRange 4.00
+RandomRecoilYawRange 1.00
+DecreaseRecoil 1.20
+DecreaseRecoilYaw 0.30
+//
+//*melee*
+//
+MeleeDamage 1
+MeleeTime 60
+//MeleeSound Throw
+//
+//*status effects*
+//
+MoveSpeedModifier 0.8
+KnockbackModifier 1.0
+//
+//*attachments*
+//
+AllowAllAttachments false
+AllowAttachments 2xadjustable 4xadjustable 6xadjustable 10xadjustable accuracy1 accuracy2 accuracy3 accuracy4 accuracy5 luckyshot1 luckyshot2 luckyshot3 luckyshot4 luckyshot5 agility1 agility2 agility3 agility4 agility5 masterblaster1 masterblaster2 masterblaster3 masterblaster4 tankbuster
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 6

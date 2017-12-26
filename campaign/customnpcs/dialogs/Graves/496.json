@@ -1,0 +1,64 @@
+{
+    "DialogShowWheel": 0b,
+    "AvailabilityQuestId": -1,
+    "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "tp @dp 7 40 198",
+                "Dialog": -1,
+                "Title": "[wake up]",
+                "DialogColor": 14737632,
+                "OptionType": 4
+            }
+        }
+    ],
+    "DialogHideNPC": 0b,
+    "AvailabilityFactionStance": 0,
+    "AvailabilityQuest": 0,
+    "AvailabilityDialog4": 0,
+    "AvailabilityDialog3": 0,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "ModRev": 16,
+    "DecreaseFaction1Points": 0b,
+    "DialogQuest": -1,
+    "AvailabilityDialog2": 0,
+    "OptionFactions1": -1,
+    "AvailabilityDayTime": 0,
+    "OptionFactions2": -1,
+    "AvailabilityFaction2Id": -1,
+    "OptionFaction1Points": 100,
+    "DialogDisableEsc": 1b,
+    "AvailabilityFaction": 0,
+    "DialogTitle": "Z.chaos",
+    "AvailabilityDialog": 1,
+    "AvailabilityFaction2": 0,
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "AvailabilityDialogId": 347,
+    "OptionFaction2Points": 100,
+    "DialogText": "[you went on to receive the rank of colonel-commissar while fighting in the Macharian crusade after a string of overwhelming victories that lead to many worlds being liberated and brought into the Imperium. knowing exactly where and when to strike brought innumerable honors to you, and as the victories piled up so did the promotions. as the promotions rolled in, you were assigned to increasingly dangerous operations. eventually, you were noticed by none other than Lord Solar Macharius himself and given command of your own regiment, receiving the rare rank of Colonel-Commissar in the process. you were tasked with some of the most dangerous missions of the crusade, and many men under your command died despite your best efforts. ultimately, the Macharian crusade was successful, but the victory was bitter sweet, as after Macharius's premature passing most of the territorial gains were subsumed by his generals-turned-warlords, leaving you feeling as if the whole struggle was in vain. after the crusade concluded, you sunk into a deep depression. wallowing in addiction and depravity, your acclaimed reputation as a hero became tarnished with numerous charges stemming from your raucous behavior and insubordination. you were nearly on your way out the door before you had been sent to Mortua, so you wonder if this had been what the inquisitor had in mind for you all along. knowing the truth of your past, you feel even more empowered, and you curse Graves for holding you back from your true potential so many years ago]",
+    "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest3Id": -1,
+    "AvailabilityQuest2Id": -1,
+    "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog3Id": -1,
+    "AvailabilityDialog4Id": -1,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1504459775301L,
+        "Time": 0L,
+        "Subject": ""
+    }
+}

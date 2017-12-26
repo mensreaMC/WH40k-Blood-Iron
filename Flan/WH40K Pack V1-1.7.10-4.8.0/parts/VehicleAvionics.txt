@@ -1,0 +1,5 @@
+Name Vehicle Avionics
+ShortName vehicleavionics
+Icon VehicleAvionics
+Category Misc
+StackSize 16

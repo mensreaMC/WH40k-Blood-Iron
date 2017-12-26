@@ -1,0 +1,54 @@
+Name Inferno Grenade
+//
+//*fileinfo*
+//
+ShortName grenadeinferno
+Icon GrenadeInferno
+Color 255 255 255
+Model Manus_WH40K.Misc.WH40K_Misc_KrakGrenade_1
+Texture Skin_WH40K_Misc_KrakGrenade_1A
+StackSize 32
+ThrowSound Throw
+//
+//*visual effects*
+//
+TrailParticles false
+SmokeParticles flame
+SpinWhenThrown true
+ExplodeParticles 10
+ExplodeParticleType flame
+SmokeTime 3
+SmokeRadius 3
+//
+//*physics*
+//
+Bounciness 0.5
+ThrowSpeed 1.7
+FallSpeed 1.0
+BreaksGlass false
+PenetratesBlocks false
+MeleeDamage 0
+HitBoxSize 0.5
+//
+//*stats*
+//
+CanThrow True
+ThrowDelay 60
+//
+DetonateOnImpact false
+DetonateWhenShot true
+Fuse 40
+FireRadius 3
+ExplosionBreaksBlocks false
+ExplosionRadius 1.0
+ExplosionDamageVsLiving 2.5
+ExplosionDamageVsPlane 1.0
+ExplosionDamageVsVehicle 1.0
+//
+//*SmokeEffect*
+//
+//Syntax is SmokeEffect <ID> <Duration> <Amplifier>
+//IDs are 	1:MoveSpeed		2:MoveSlowdown		3:DigSpeed			4:DigSlowdown		5:DamageBoost	6:Heal			7:Harm		8:Jump			9:Confusion		10:Regeneration
+//			11:Resistance	12:FireResistance	13:WaterBreathing	14:Invisibility		15:Blindness	16:NightVision	17:Hunger	18:Weakness		19:Poison		20:Wither
+SmokeEffect 26 240 2
+//SmokeEffect 7 1 3

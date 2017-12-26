@@ -1,0 +1,9 @@
+Name Agility V
+ShortName agility5
+Icon abilitytoken
+//
+AttachmentType generic
+//
+SpreadMultiplier 0.75
+ReloadTimeMultiplier 0.75
+RecoilMultiplier 0.75

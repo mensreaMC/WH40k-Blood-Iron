@@ -1,0 +1,28 @@
+Name Energy Weapon Workbench
+//
+ShortName energyweaponworkbench
+//
+TopTexture energyweaponworkbenchtop
+SideTexture workbenchside
+BottomTexture workbenchbottom
+//
+NumGuns 18
+//
+AddGun hellgun 4 energyweaponparts 2 weaponelectronics
+AddGun lascannon 12 energyweaponparts 4 weaponelectronics
+AddGun lasgun 3 energyweaponparts 1 weaponelectronics
+AddGun laspistol 1 energyweaponparts 1 weaponelectronics
+AddGun longlas 4 energyweaponparts 2 weaponelectronics
+AddGun plasmacannon 16 energyweaponparts 5 weaponelectronics 2 autoloader
+AddGun plasmagun 5 energyweaponparts 3 weaponelectronics 1 autoloader
+AddGun plasmapistol 3 energyweaponparts 2 weaponelectronics 1 autoloader
+AddGun portablelascannon 12 energyweaponparts 4 weaponelectronics
+AddGun portableplasmacannon 16 energyweaponparts 5 weaponelectronics 2 autoloader
+AddGun siegemortarlauncher 12 energyweaponparts 4 weaponelectronics 1 autoloader
+AddGun stationarylascannon 12 energyweaponparts 4 weaponelectronics 1 autoloader
+AddGun stationaryplasmacannon 16 energyweaponparts 5 weaponelectronics 3 autoloader
+AddGun vehicleheavymortarlauncher 24 energyweaponparts 8 weaponelectronics 2 autoloader
+AddGun vehiclelascannon 12 energyweaponparts 4 weaponelectronics 1 autoloader
+AddGun vehiclemultilas 16 energyweaponparts 5 weaponelectronics 1 autoloader
+AddGun vehicleplasmacannon 16 energyweaponparts 5 weaponelectronics 3 autoloader
+AddGun vehicletwinlinkedlascannon 24 energyweaponparts 8 weaponelectronics 2 autoloader

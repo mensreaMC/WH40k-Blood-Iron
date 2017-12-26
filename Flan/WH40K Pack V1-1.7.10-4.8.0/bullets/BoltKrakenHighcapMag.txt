@@ -1,0 +1,47 @@
+Name Kraken Bolt High-cap Mag
+//
+//*fileinfo*
+//
+ShortName boltkrakenhighcapmag
+Icon BoltKrakenHighcapMag
+Colour 255 255 255 
+WeaponType NONE
+Model Manus_WH40K.Misc.WH40K_Misc_BoltBullet_1
+Texture Skin_WH40K_Bullet_BoltBullet_1A
+//
+//*sounds*
+//
+HitSoundEnable True
+HitSound BoltHit
+HitSoundRange 16
+EntityHitSoundEnable True
+//
+//*bullet stats*
+//
+FallSpeed 0.0
+Fuse 20
+HitBoxSize 1.0
+MaxStackSize 2
+RoundsPerItem 30
+//
+DamageVsVehicles 3
+DamageVsLiving 1.2
+//
+ExplodeOnImpact False
+ExplosionRadius 0
+ExplosionBreaksBlocks false
+//
+SetEntitiesOnFire False
+FireRadius 0
+//
+BreaksGlass False
+//
+PotionEffect 24 600 12
+//
+//*visuals*
+//
+FlakParticles 10
+FlakParticleType explode
+TrailParticles True
+TrailParticleType flansmod.fmflame
+BoostParticle explode

@@ -1,0 +1,8 @@
+Name Medi-Pack
+ShortName medipack
+Icon medipack
+StackSize 1
+Heal True
+HealAmount 5
+ToolLife 60
+DestroyOnEmpty True

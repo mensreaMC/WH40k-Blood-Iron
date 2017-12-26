@@ -1,0 +1,11 @@
+Name Small Guns 2
+ShortName smallguns2
+Icon abilitytoken
+//
+AttachmentType generic
+//
+BulletSpeedMultiplier 1.2
+DamageMultiplier 1.15
+SpreadMultiplier 0.8
+RecoilMultiplier 0.8
+ReloadTimeMultiplier 0.8

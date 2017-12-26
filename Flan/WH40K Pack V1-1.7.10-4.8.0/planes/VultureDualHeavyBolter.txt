@@ -1,0 +1,132 @@
+Name Vulture
+//
+//*file info*
+//
+ShortName vulturedualheavybolter
+Icon vulturedualheavybolter
+Model Manus_WH40K.Plane.WH40K_Plane_Vulture_1
+Texture Skin_WH40K_Plane_Vulture_1A
+ModelScale 1.0
+CameraDistance 15.0
+RestingPitch 5.0
+//
+//*movement*
+//
+Mode VTOL
+MaxThrottle 6.0
+MaxNegativeThrottle 4.0
+Drag 1.0
+TurnLeftSpeed 4.0
+TurnRightSpeed 4.0
+LookUpSpeed 4.0
+LookDownSpeed 4.0
+RollLeftSpeed 4.0
+RollRightSpeed 4.0
+//
+//*wheels*
+//
+WheelPosition 0 -38 -8 -113
+WheelPosition 1 -38 -8 113
+WheelPosition 2 66 -8 0
+WheelSpringStrength 0.125
+//
+//*propellers*
+//
+Propeller 0 1 -51 0 core thruster
+Propeller 1 146 -51 0 core thruster
+HeliPropeller 0 1 -51 0 core thruster
+HeliPropeller 1 146 -51 0 core thruster
+//
+//*weaponry*
+//
+Primary Gun
+ShootPointPrimary 40 29 46 rightWing vehicletwinlinkedheavybolter
+ShootPointPrimary 40 29 -46 leftWing vehicletwinlinkedheavybolter
+ShootDelayPrimary 2
+BulletSpeed 20
+BulletSpread 0
+//
+Secondary Missile
+ShootPointSecondary 7 23 77 rightWing
+ShootPointSecondary 7 23 -77 leftWing
+ShootDelaySecondary 20
+AllowAllAmmo False
+AddAmmo missileatvehicle
+AddAmmo missileaavehicle
+AddAmmo rockethevehicle
+AddAmmo rocketapvehicle
+AddAmmo rocketinfernovehicle
+//
+//*cargo*
+//
+CargoSlots 0
+BombSlots 0
+MissileSlots 4
+FuelTankSize 2000
+HasFlare True
+FlareDelay 300
+TimeFlareUsing 5
+//
+//*seating*
+//
+Pilot 14 48 0
+Passengers 1
+Passenger 1 53 32 0 core 0 0 0 0 vehicleheavyautogun PassengerGun1
+GunOrigin 1 -90 -1 0
+//
+//*sounds*
+//
+StartSound propStart
+StartSoundLength 60
+PropSoundLength 40
+PropSound JetEngine2
+ShootSoundPrimary 20mmShoot
+ShootSoundSecondary MissileShoot
+//
+//*recipe*
+//
+AddRecipeParts core 6 vehicleparts 4 vehiclearmor 1 vehicleelectronics 2 vehicleavionics 2 vehicletwinlinkedheavybolter
+AddRecipeParts coreWheel 2 wheel 
+AddRecipeParts nose 3 vehicleparts 2 vehiclearmor 1 vehicleelectronics
+AddRecipeParts rightWing 3 vehicleparts 1 vehiclearmor 1 vehicleelectronics 1 vehicleavionics
+AddRecipeParts leftWing 3 vehicleparts 1 vehiclearmor 1 vehicleelectronics 1 vehicleavionics
+AddRecipeParts tail 4 vehicleparts 2 vehiclearmor
+//
+//*health & collision*
+//
+SetupPart core 2000 -99 8 -16 196 62 39
+SetupPart tail 400 -270 69 -52 26 37 104
+SetupPart rightWing 400 -99 32 28 95 23 78
+SetupPart leftWing 400 -99 32 -106 95 23 78
+SetupPart rightWingWheel 400 -52 -10 103 52 10 20
+SetupPart leftWingWheel 400 -52 -10 -123 52 10 20
+CollisionPoint -120 63 30 tail
+CollisionPoint -150 67 30 tail
+CollisionPoint -180 71 30 tail
+CollisionPoint -210 77 30 tail
+CollisionPoint -240 83 30 tail
+CollisionPoint -260 86 30 tail
+CollisionPoint -260 86 0 tail
+CollisionPoint -260 63 62 tail
+CollisionPoint -260 96 51 tail
+CollisionPoint -120 63 -30 tail
+CollisionPoint -150 67 -30 tail
+CollisionPoint -180 71 -30 tail
+CollisionPoint -210 77 -30 tail
+CollisionPoint -240 83 -30 tail
+CollisionPoint -260 86 -30 tail
+CollisionPoint -260 63 -62 tail
+CollisionPoint -260 96 -51 tail
+CollisionPoint -26 49 38 rightWing
+CollisionPoint -26 46 68 rightWing
+CollisionPoint -26 41 84 rightWing
+CollisionPoint -26 25 100 rightWing
+CollisionPoint -26 11 116 rightWing
+CollisionPoint -26 49 -38 leftWing
+CollisionPoint -26 46 -68 leftWing
+CollisionPoint -26 41 -84 leftWing
+CollisionPoint -26 25 -100 leftWing
+CollisionPoint -26 11 -116 leftWing
+BulletDetection 10
+IsExplosionWhenDestroyed True
+HasGear True

@@ -1,0 +1,384 @@
+{
+
+    "Chainsword": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Chainsword" ]
+	},
+
+	"LaserShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:LaserShoot" ]
+	},
+
+	"HeavyLaserShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:HeavyLaserShoot" ]
+	},
+
+	"PlasmaShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:PlasmaShoot" ]
+	},
+
+	"8mmShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:8mmShoot" ]
+	},
+
+	"8gaShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:8gaShoot" ]
+	},
+
+	"12mmShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:12mmShoot" ]
+	},
+
+	"20mmShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:20mmShoot" ]
+	},
+
+	"150mmShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:150mmShoot" ]
+	},
+
+	"BolterPistolShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:BolterPistolShoot" ]
+	},
+
+	"BolterShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:BolterShoot" ]
+	},
+
+	"GrenadeLauncherShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:GrenadeLauncherShoot" ]
+	},
+
+	"RocketShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:RocketShoot" ]
+	},
+
+	"MissileShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:MissileShoot" ]
+	},
+
+	"MortarShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:MortarShoot" ]
+	},
+
+	"GravitonShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:GravitonShoot" ]
+	},
+
+	"NartheciumShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:NartheciumShoot" ]
+	},
+
+	"CoilShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:CoilShoot" ]
+	},
+
+	"ECReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:ECReload" ]
+	},
+
+	"MagazineReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:MagazineReload" ]
+	},
+
+	"BoxReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:BoxReload" ]
+	},
+
+	"BoltReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:BoltReload" ]
+	},
+
+	"GrenadeLauncherReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:GrenadeLauncherReload" ]
+	},
+
+	"RocketReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:RocketReload" ]
+	},
+
+	"MortarReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:MortarReload" ]
+	},
+
+	"NartheciumReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:NartheciumReload" ]
+	},
+
+	"MortarExplode": {
+		"category" : "player",
+		"sounds" : [ "flansmod:MortarExplode" ]
+	},
+
+	"MineExplode": {
+		"category" : "player",
+		"sounds" : [ "flansmod:MineExplode" ]
+	},
+
+	"Throw": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Throw" ]
+	},
+
+	"BulletHit": {
+		"category" : "player",
+		"sounds" : [ "flansmod:BulletHit" ]
+	},
+
+	"AssaultCannonWarmup": {
+		"category" : "player",
+		"sounds" : [ "flansmod:AssaultCannonWarmup" ]
+	},
+
+	"AssaultCannonSpin": {
+		"category" : "player",
+		"sounds" : [ "flansmod:AssaultCannonSpin" ]
+	},
+
+	"AssaultCannonCooldown": {
+		"category" : "player",
+		"sounds" : [ "flansmod:AssaultCannonCooldown" ]
+	},
+
+	"FlamerWarmup": {
+		"category" : "player",
+		"sounds" : [ "flansmod:FlamerWarmup" ]
+	},
+
+	"FlamerSpin": {
+		"category" : "player",
+		"sounds" : [ "flansmod:FlamerSpin" ]
+	},
+
+	"FlamerCooldown": {
+		"category" : "player",
+		"sounds" : [ "flansmod:FlamerCooldown" ]
+	},
+
+	"FlamerReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:FlamerReload" ]
+	},
+
+	"ChainswordIdle": {
+		"category" : "player",
+		"sounds" : [ "flansmod:ChainswordIdle" ]
+	},
+
+	"PowerSwing": {
+		"category" : "player",
+		"sounds" : [ "flansmod:PowerSwing" ]
+	},
+
+	"LongLasShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:LongLasShoot" ]
+	},
+
+	"SignOfEvil": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Doom - Sign of Evil remake by Andrew Hulshult" ]
+	},
+
+	"Suspense": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Doom - Suspense remake by Andrew Hulshult" ]
+	},
+
+	"BaronPain": {
+		"category" : "player",
+		"sounds" : [ "flansmod:BaronPain" ]
+	},
+
+	"BaronHowl": {
+		"category" : "player",
+		"sounds" : [ "flansmod:BaronHowl" ]
+	},
+
+	"TankRun": {
+		"category" : "player",
+		"sounds" : [ "flansmod:TankRun" ]
+	},
+
+	"TankIdle": {
+		"category" : "player",
+		"sounds" : [ "flansmod:TankIdle" ]
+	},
+
+	"Turret": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Turret" ]
+	},
+
+	"Stop": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Stop" ]
+	},
+
+	"Engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Engine" ]
+	},
+
+	"BoltHit": {
+		"category" : "player",
+		"sounds" : [ "flansmod:BoltHit" ]
+	},
+
+	"RocketHit": {
+		"category" : "player",
+		"sounds" : [ "flansmod:RocketHit" ]
+	},
+
+	"TankHit": {
+		"category" : "player",
+		"sounds" : [ "flansmod:TankHit" ]
+	},
+
+	"LasHit": {
+		"category" : "player",
+		"sounds" : [ "flansmod:LasHit" ]
+	},
+
+	"Lock": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Lock" ]
+	},
+
+	"femaledeath1": {
+		"category" : "player",
+		"sounds" : [ "flansmod:femaledeath1" ]
+	},
+
+	"femaledeath2": {
+		"category" : "player",
+		"sounds" : [ "flansmod:femaledeath2" ]
+	},
+
+	"femaledeath3": {
+		"category" : "player",
+		"sounds" : [ "flansmod:femaledeath3" ]
+	},
+
+	"femalehurt1": {
+		"category" : "player",
+		"sounds" : [ "flansmod:femalehurt1" ]
+	},
+
+	"femalehurt2": {
+		"category" : "player",
+		"sounds" : [ "flansmod:femalehurt2" ]
+	},
+
+	"femalehurt3": {
+		"category" : "player",
+		"sounds" : [ "flansmod:femalehurt3" ]
+	},
+
+	"doomdeath1": {
+		"category" : "player",
+		"sounds" : [ "flansmod:doomdeath1" ]
+	},
+
+	"doomdeath2": {
+		"category" : "player",
+		"sounds" : [ "flansmod:doomdeath2" ]
+	},
+
+	"doomgrunt": {
+		"category" : "player",
+		"sounds" : [ "flansmod:doomgrunt" ]
+	},
+
+	"doompain": {
+		"category" : "player",
+		"sounds" : [ "flansmod:doompain" ]
+	},
+
+	"gibbed": {
+		"category" : "player",
+		"sounds" : [ "flansmod:gibbed" ]
+	},
+
+	"maledeath1": {
+		"category" : "player",
+		"sounds" : [ "flansmod:maledeath1" ]
+	},
+
+	"maledeath2": {
+		"category" : "player",
+		"sounds" : [ "flansmod:maledeath2" ]
+	},
+
+	"maledeath3": {
+		"category" : "player",
+		"sounds" : [ "flansmod:maledeath3" ]
+	},
+
+	"malehurt1": {
+		"category" : "player",
+		"sounds" : [ "flansmod:malehurt1" ]
+	},
+
+	"malehurt2": {
+		"category" : "player",
+		"sounds" : [ "flansmod:malehurt2" ]
+	},
+
+	"malehurt3": {
+		"category" : "player",
+		"sounds" : [ "flansmod:malehurt3" ]
+	},
+
+	"punch": {
+		"category" : "player",
+		"sounds" : [ "flansmod:punch" ]
+	},
+
+	"ZombPain": {
+		"category" : "player",
+		"sounds" : [ "flansmod:ZombPain" ]
+	},
+
+	"ZombDeath": {
+		"category" : "player",
+		"sounds" : [ "flansmod:ZombDeath" ]
+	},
+
+	"SawedOffReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:SawedOffReload" ]
+	},
+
+	"SawedOffShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:SawedOffShoot" ]
+	}
+
+
+}

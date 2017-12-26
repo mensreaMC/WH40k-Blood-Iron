@@ -1,0 +1,43 @@
+Name Plasma Cannon
+// 
+//*file info*
+//
+ShortName plasmacannon
+Icon PlasmaCannon
+Color 255 255 255
+//
+//*sounds*
+//
+ShootSound PlasmaShoot
+GunSoundRange 304
+ReloadSound ECReload
+ReloadSoundRange 16
+//
+//*gun stats*
+//
+UsableByPlayers True
+UsableByMechas False
+CanShootUnderwater False
+OneHanded False
+Mode SemiAuto
+//
+Ammo echeavyoverclocked
+Ammo echeavyoverclockedbundle
+ReloadTime 200
+CanForceReload False
+//
+Damage 250
+Accuracy 5
+ShootDelay 40
+BulletSpeed 4.0
+//
+Recoil 0
+//
+IgnoreArmorProbability 1.0
+IgnoreArmorDamageFactor 8.0
+//
+//*deployable info*
+// 
+Deployable True
+DeployedModel manus_sifi.LaserCannon
+DeployedTexture SkinGunColonialBlasterCannon

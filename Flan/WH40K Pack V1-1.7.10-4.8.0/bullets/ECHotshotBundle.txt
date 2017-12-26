@@ -1,0 +1,43 @@
+Name Hotshot EC Bundle
+//
+//*fileinfo*
+//
+ShortName echotshotbundle
+Icon ECHotshotBundle
+Colour 255 255 255 
+WeaponType NONE
+Model Manus_WH40K.Misc.WH40K_Misc_LaserSmall_1
+Texture Skin_WH40K_Bullet_Laser_1C
+//
+//*sounds*
+//
+HitSoundEnable True
+HitSound LasHit
+HitSoundRange 16
+EntityHitSoundEnable True
+//
+//*bullet stats*
+//
+FallSpeed 0.0
+Fuse 4
+HitBoxSize 0.2
+MaxStackSize 1
+RoundsPerItem 180
+//
+DamageVsVehicles 2.0
+DamageVsLiving 2.0
+//
+ExplodeOnImpact False
+ExplosionRadius 0.0
+ExplosionBreaksBlocks False
+//
+SetEntitiesOnFire True
+FireRadius 0.5
+//
+BreaksGlass False
+//
+//*visuals*
+//
+SmokeTrail False
+TrailParticles True
+TrailParticleType flame

@@ -1,0 +1,5 @@
+Name Energy Weapons Parts
+ShortName energyweaponparts
+Icon EnergyWeaponParts
+Category Misc
+StackSize 64

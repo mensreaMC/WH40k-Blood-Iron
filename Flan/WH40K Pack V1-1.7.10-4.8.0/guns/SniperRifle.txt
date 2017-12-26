@@ -1,0 +1,66 @@
+Name Sniper Rifle
+// 
+//*file info*
+//
+ShortName sniperrifle
+Icon SniperRifle
+Color 255 255 255
+Model dwfirearms.Dzky103
+Texture Dzky103_Standard
+ModelScale 0.2
+//
+//*sounds*
+//
+ShootSound 12mmShoot
+GunSoundRange 304
+ReloadSound MagazineReload
+ReloadSoundRange 8
+//
+//*gun stats*
+//
+UsableByPlayers True
+UsableByMechas False
+CanShootUnderwater False
+OneHanded False
+Mode SemiAuto
+//
+Ammo 12mmmag
+Ammo 12mmapmag
+Ammo 12mmtxmag
+Ammo 12mmtqmag
+ReloadTime 80
+CanForceReload True
+//
+Damage 25
+Accuracy 2
+ShootDelay 20
+BulletSpeed 10.0
+//
+Recoil 8
+RandomRecoilRange 5.50
+RandomRecoilYawRange 2.50
+DecreaseRecoil 1.65
+DecreaseRecoilYaw 0.75
+//
+IgnoreArmorProbability 0.5
+IgnoreArmorDamageFactor 2.0
+//
+//*aiming*
+//
+Scope basic
+ZoomLevel 2.00
+FOVZoomLevel 1.00
+//
+//*attachments*
+//
+AllowAllAttachments false
+AllowAttachments reddotsight acogsight 4xscope 6xscope 10xscope largesilencer accuracy1 accuracy2 accuracy3 accuracy4 accuracy5 luckyshot1 luckyshot2 luckyshot3 luckyshot4 luckyshot5 agility1 agility2 agility3 agility4 agility5 smallguns1 smallguns2 smallguns3 smallguns4 sniper
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 6
+//
+//*status effects*
+//
+KnockbackModifier 1.0

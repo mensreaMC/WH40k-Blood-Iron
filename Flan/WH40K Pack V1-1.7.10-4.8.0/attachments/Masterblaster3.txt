@@ -1,0 +1,10 @@
+Name Master Blaster 3
+ShortName masterblaster3
+Icon abilitytoken
+//
+AttachmentType generic
+//
+DamageMultiplier 1.45
+SpreadMultiplier 0.7
+RecoilMultiplier 0.7
+ReloadTimeMultiplier 0.7

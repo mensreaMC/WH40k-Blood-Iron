@@ -1,0 +1,47 @@
+Name Lascannon
+// 
+//*file info*
+//
+ShortName lascannon
+Icon Lascannon
+Color 255 255 255
+//
+//*sounds*
+//
+ShootSound HeavyLaserShoot
+GunSoundRange 64
+ReloadSound ECReload
+ReloadSoundRange 16
+//
+//*gun stats*
+//
+UsableByPlayers True
+UsableByMechas False
+CanShootUnderwater False
+OneHanded False
+//
+Ammo echeavy
+Ammo echeavybundle
+ReloadTime 200
+CanForceReload False
+//
+Damage 100
+Accuracy 1
+ShootDelay 40
+BulletSpeed 20.0
+//
+Recoil 0
+//
+IgnoreArmorProbability 1.0
+IgnoreArmorDamageFactor 3.0
+//
+//*deployable info*
+// 
+Deployable True
+DeployedModel Manus_WH40K.MG.WH40K_MG_LasCannon_1
+DeployedTexture Skin_WH40K_MG_LasCannon_1A
+TopViewLimit 20
+BottomViewLimit 20
+SideViewLimit 45
+PivotHeight 0.75
+StandBackDistance 1.0

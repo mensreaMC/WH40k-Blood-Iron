@@ -1,0 +1,7 @@
+Name Bash 2
+ShortName bash2
+Icon abilitytoken
+//
+AttachmentType generic
+//
+MeleeDamageMultiplier 15.0

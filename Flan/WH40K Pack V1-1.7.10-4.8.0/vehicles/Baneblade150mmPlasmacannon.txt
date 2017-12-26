@@ -1,0 +1,145 @@
+Name Baneblade
+//
+//*file info*
+//
+ShortName baneblade150mmplasmacannon
+Icon Baneblade150mmPlasmacannon
+Model Manus_WH40K.Vehicle.WH40K_Vehicle_Baneblade_1
+Texture Skin_WH40K_Vehicle_Baneblade_1A
+ModelScale 1.0
+CameraDistance 7.5
+//
+//*movement*
+//
+Tank True
+FourWheelDrive True
+MaxThrottle 0.50
+MaxNegativeThrottle 0.50
+TurnLeftSpeed 1.0
+TurnRightSpeed 0.0
+Drag 20.0
+Bounciness 0.1
+//
+//*wheels*
+//
+WheelPosition 0 -42 -8 -65
+WheelPosition 1 -42 -8 65
+WheelPosition 2 100 -8 65
+WheelPosition 3 100 -8 -65
+WheelRadius 1.0
+WheelSpringStrength 0.5
+//
+//*weaponry*
+//
+BarrelPosition 160 100 -2
+DriverAimSpeed 2 2 0
+ShellDelay 60
+BulletSpeed 20
+BulletSpread 1
+AllowAllAmmo False
+AddAmmo 150mmround
+AddAmmo 150mmapround
+AddAmmo 150mmheround
+//
+AddGun 100 100 12 turret plasmacannon
+ShootDelay 40
+//
+//*cargo*
+//
+CargoSlots 32
+ShellSlots 32
+FuelTankSize 20000
+//
+//*seating*
+//
+Driver 0 97 0 -360 360 -10 30
+RotatedDriverOffset 4 0 12
+Passengers 6
+Passenger 1 71 52 -38 core -10 10 0 60 vehicleheavybattlecannon PassengerGun1
+Passenger 2 95 30 5 core -20 20 -5 35 plasmacannon PassengerGun2
+Passenger 3 50 31 -86 core -90 0 -45 20 plasmacannon PassengerGun3
+Passenger 4 50 31 53 core 0 90 -45 20 plasmacannon PassengerGun4
+Passenger 5 0 63 74 core 0 180 -10 30 heavyautogun PassengerGun5
+Passenger 6 0 64 -108 core -180 0 -10 30 heavyautogun PassengerGun6
+GunOrigin 1 104 34 -38
+GunOrigin 2 64 38 5
+GunOrigin 3 6 30 -113
+GunOrigin 4 6 30 79
+GunOrigin 5 0 51 74
+GunOrigin 6 0 51 -108
+//
+//*sounds*
+//
+IdleSound TankIdle
+IdleSoundLength 30
+IdleSoundRange 32
+EngineSound TankRun
+EngineSoundLength 30
+EngineSoundRange 64
+BackSound TankRun
+BackSoundLength 30
+BackSoundRange 64
+ShootSoundPrimary 150mmShoot
+ShootSoundSecondary PlasmaShoot
+//
+//*recipe*
+//
+AddRecipeParts turret 6 vehicleparts 8 vehiclearmor 2 vehicleelectronics 1 vehicleheavybattlecannon
+AddRecipeParts core 16 vehicleparts 18 vehiclearmor 4 vehicleelectronics 5 vehiclepowertrain 512 redstone
+AddRecipeParts leftTrack 10 vehicleparts 10 vehiclearmor
+AddRecipeParts rightTrack 10 vehicleparts 10 vehiclearmor
+//
+//*health & collision*
+//
+SetupPart core 30000 -104 17 -26 245 60 86
+SetupPart turret 30000 -65 77 -38 108 28 76
+SetupPart rightTrack 30000 -79 -9 -69 225 73 43
+SetupPart leftTrack 30000 -79 -9 60 225 73 43
+BulletDetection 10
+IsExplosionWhenDestroyed True
+CollisionDamageEnable True
+CollisionDamageThrottle 0.21
+CollisionDamageTimes 0
+//
+Harvester True
+HarvestToolType Tank
+HarvestBox [160,52,70] [-83,-10,-35]
+SquashMobs True
+//
+//*particles*
+//
+ShootParticlesPrimary largeexplode 0 0 0
+ShootParticlesPrimary cloud 1 0 0
+ShootParticlesPrimary cloud 1.75 0 0
+ShootParticlesPrimary cloud 1.5 0 0
+ShootParticlesPrimary cloud 1.25 0 0
+ShootParticlesPrimary cloud 0.75 0 0
+ShootParticlesPrimary cloud 0.5 0 0
+ShootParticlesPrimary cloud 0.25 0 0
+ShootParticlesPrimary explode 1.5 0 0
+ShootParticlesPrimary largesmoke 0.5 0 0.1
+ShootParticlesPrimary largesmoke 0.5 0 -0.1
+ShootParticlesPrimary largesmoke 0.5 0.06 0.06
+ShootParticlesPrimary largesmoke 0.5 0.06 -0.06
+ShootParticlesPrimary largesmoke 0.5 -0.06 0.06
+ShootParticlesPrimary largesmoke 0.5 -0.06 -0.06
+ShootParticlesPrimary largesmoke 0.5 -0.1 0
+ShootParticlesPrimary largesmoke 0.5 0.1 0
+ShootParticlesPrimary cloud 0.05 0 0.2
+ShootParticlesPrimary cloud 0.05 0 -0.2
+ShootParticlesPrimary cloud 0.05 0.13 0.13
+ShootParticlesPrimary cloud 0.05 0.13 -0.13
+ShootParticlesPrimary cloud 0.05 -0.13 0.13
+ShootParticlesPrimary cloud 0.05 -0.13 -0.13
+ShootParticlesPrimary cloud 0.05 -0.2 0
+ShootParticlesPrimary cloud 0.05 0.2 0
+ShootParticlesPrimary flame 0.1 0 0.4
+ShootParticlesPrimary flame 0.1 0 -0.4
+ShootParticlesPrimary flame 0.1 0.26 0.26
+ShootParticlesPrimary flame 0.1 0.26 -0.26
+ShootParticlesPrimary flame 0.1 -0.26 0.26
+ShootParticlesPrimary flame 0.1 -0.26 -0.26
+ShootParticlesPrimary flame 0.1 -0.4 0
+ShootParticlesPrimary flame 0.1 0.4 0
+//
+ShootParticlesSecondary flame 0 0 0

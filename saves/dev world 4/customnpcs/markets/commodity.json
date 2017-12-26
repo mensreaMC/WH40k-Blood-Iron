@@ -1,0 +1,48 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "IC2:itemIngot",
+                "Count": 1b,
+                "Damage": 6s
+            },
+            {
+                "Slot": 3b,
+                "id": "minecraft:gold_ingot",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "minecraft:redstone",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "TraderIgnoreDamage": 0b,
+    "TraderIgnoreNBT": 0b,
+    "TraderSold": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "IW:misc",
+                "Count": 1b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 3b,
+                "id": "IW:misc",
+                "Count": 1b,
+                "Damage": 3s
+            },
+            {
+                "Slot": 6b,
+                "id": "IW:misc",
+                "Count": 1b,
+                "Damage": 1s
+            }
+        ]
+    }
+}

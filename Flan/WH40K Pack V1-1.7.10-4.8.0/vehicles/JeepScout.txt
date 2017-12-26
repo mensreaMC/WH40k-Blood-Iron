@@ -1,0 +1,74 @@
+Name Scrap Car
+//
+//*file info*
+//
+ShortName jeepscout
+Icon Jeep
+Model Manus_WW2.Vehicle.WW2_Vehicle_WillyJeep_1
+Texture Skin_WW2_Vehicle_WillyJeep_1A
+CameraDistance 5.0
+//
+//*movement*
+//
+Tank False
+FourWheelDrive True
+MaxThrottle 0.5
+MaxNegativeThrottle 0.2
+TurnLeftSpeed 0.75
+TurnRightSpeed 0.75
+Drag 1.0
+Bounciness 0.3
+//
+//*wheels*
+//
+WheelPosition 0 -28 -8 -20
+WheelPosition 1 -28 -8 20
+WheelPosition 2 32 -8 20
+WheelPosition 3 32 -8 -20
+WheelRadius 1.0
+WheelSpringStrength 0.5
+RotateWheels True 
+//
+//*cargo*
+//
+CargoSlots 32
+FuelTankSize 400
+//
+//*seating*
+//
+Driver -2 0 -9
+RotatedDriverOffset 0 0 0
+Passengers 1
+Passenger 1 -2 0 9 core -360 360 -89 89
+//
+//*sounds*
+//
+IdleSound TankIdle
+IdleSoundLength 20
+IdleSoundRange 8
+EngineSound TankIdle
+EngineSoundLength 20
+EngineSoundRange 16
+BackSound TankIdle
+BackSoundLength 20
+BackSoundRange 16
+BrakeSound Stop
+BrakeSoundRange 16
+BrakeSoundLength 20
+//
+//*recipe*
+//
+AddRecipeParts core 5 vehicleparts 1 vehiclepowertrain 32 redstone
+AddRecipeParts frontLeftWheel 1 wheel
+AddRecipeParts frontRightWheel 1 wheel
+AddRecipeParts backLeftWheel 1 wheel
+AddRecipeParts backRightWheel 1 wheel
+//
+//*health & collision*
+//
+SetupPart core 300 -30 -10 -15 55 21 30
+BulletDetection 5
+IsExplosionWhenDestroyed True
+CollisionDamageEnable True
+CollisionDamageThrottle 0.50
+CollisionDamageTimes 5

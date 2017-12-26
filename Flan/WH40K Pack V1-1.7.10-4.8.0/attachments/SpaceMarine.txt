@@ -1,0 +1,10 @@
+Name Space Marine
+ShortName spacemarine
+Icon abilitytoken
+//
+AttachmentType generic
+//
+DamageMultiplier 1.2
+SpreadMultiplier 0.1
+RecoilMultiplier 0.1
+ReloadTimeMultiplier 0.5

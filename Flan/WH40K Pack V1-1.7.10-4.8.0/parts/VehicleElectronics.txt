@@ -1,0 +1,5 @@
+Name Vehicle Electronics
+ShortName vehicleelectronics
+Icon VehicleElectronics
+Category Misc
+StackSize 16

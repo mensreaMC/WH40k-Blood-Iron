@@ -1,0 +1,41 @@
+Name EC
+//
+//*fileinfo*
+//
+ShortName ec
+Icon EC
+Colour 255 255 255 
+WeaponType NONE
+Model Manus_WH40K.Misc.WH40K_Misc_LaserSmall_1
+Texture Skin_WH40K_Bullet_Laser_1C
+//
+//*sounds*
+//
+HitSoundEnable True
+HitSound LasHit
+HitSoundRange 16
+EntityHitSoundEnable True
+//
+//*bullet stats*
+//
+FallSpeed 0.0
+Fuse 5
+HitBoxSize 0.1
+MaxStackSize 32
+RoundsPerItem 100
+//
+DamageVsVehicles 1.0
+DamageVsLiving 1.0
+//
+ExplodeOnImpact False
+ExplosionRadius 0.0
+ExplosionBreaksBlocks False
+//
+SetEntitiesOnFire False
+FireRadius 0.0
+//
+BreaksGlass False
+//
+//*visuals*
+//
+SmokeTrail False

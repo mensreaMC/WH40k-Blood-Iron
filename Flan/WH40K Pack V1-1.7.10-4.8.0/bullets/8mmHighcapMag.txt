@@ -1,0 +1,35 @@
+Name 8mm High-cap Mag
+//
+//*fileinfo*
+//
+ShortName 8mmhighcapmag
+Icon 8mmHighcapMag
+Colour 255 255 255 
+WeaponType NONE
+//
+//*sounds*
+//
+HitSoundEnable True
+HitSound BulletHit
+HitSoundRange 8
+EntityHitSoundEnable True
+//
+//*bullet stats*
+//
+FallSpeed 0.1
+HitBoxSize 0.1
+MaxStackSize 12
+RoundsPerItem 60
+/
+DamageVsVehicles 0
+DamageVsLiving 1
+//
+SetEntitiesOnFire False
+FireRadius 0
+BreaksGlass False
+//
+ExplodeOnImpact False
+//
+//*visuals*
+//
+SmokeTrail False

@@ -1,0 +1,53 @@
+Name 40mm Inferno Grenade
+//
+//*fileinfo*
+//
+ShortName 40mminfernogrenade
+Icon 40mmInfernoGrenade
+Color 255 255 255
+Model Manus_WH40K.Misc.WH40K_Misc_GunGrenade_1
+Texture Skin_WH40K_Bullet_GunGrenade_1A
+StackSize 32
+//
+//*visual effects*
+//
+TrailParticles false
+SmokeParticles flame
+SpinWhenThrown true
+ExplodeParticles 10
+ExplodeParticleType flame
+SmokeTime 3
+SmokeRadius 3
+//
+//*physics*
+//
+Bounciness 0.8
+ThrowSpeed 3.0
+FallSpeed 1.0
+BreaksGlass false
+PenetratesBlocks false
+HitBoxSize 0.5
+MeleeDamage 0
+//
+//*stats*
+//
+CanThrow False
+ThrowDelay 10
+//
+DetonateOnImpact true
+DetonateWhenShot true
+Fuse 40
+FireRadius 3
+ExplosionBreaksBlocks false
+ExplosionRadius 1.0
+ExplosionDamageVsLiving 3.5
+ExplosionDamageVsPlane 1.0
+ExplosionDamageVsVehicle 1.0
+//
+//*SmokeEffect*
+//
+//Syntax is SmokeEffect <ID> <Duration> <Amplifier>
+//IDs are 	1:MoveSpeed		2:MoveSlowdown		3:DigSpeed			4:DigSlowdown		5:DamageBoost	6:Heal			7:Harm		8:Jump			9:Confusion		10:Regeneration
+//			11:Resistance	12:FireResistance	13:WaterBreathing	14:Invisibility		15:Blindness	16:NightVision	17:Hunger	18:Weakness		19:Poison		20:Wither
+SmokeEffect 26 240 2
+//SmokeEffect 7 1 3

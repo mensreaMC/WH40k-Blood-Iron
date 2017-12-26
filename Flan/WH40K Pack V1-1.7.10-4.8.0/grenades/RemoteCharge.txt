@@ -1,0 +1,55 @@
+Name Remote Charge
+//
+//*fileinfo*
+//
+ShortName remotecharge
+Icon RemoteCharge
+Color 255 255 255
+Model mw.RoundGrenade
+Texture M67
+StackSize 60
+ThrowSound Throw
+DetonateSound MineExplode
+DespawnTime 0
+//
+//*visual effects*
+//
+TrailParticles false
+ExplodeParticles explode
+SpinWhenThrown true
+SmokeTime 3
+SmokeRadius 3
+//
+//*physics*
+//
+Bounciness 0.4
+ThrowSpeed 1.5
+FallSpeed 1.0
+BreaksGlass false
+PenetratesBlocks false
+Sticky true
+MeleeDamage 0
+//
+//*stats*
+//
+CanThrow True
+ThrowDelay 60
+//
+PrimeDelay 20
+Remote true
+DetonateOnImpact false
+DetonateWhenShot true
+Fuse 0
+FireRadius 0
+ExplosionBreaksBlocks false
+ExplosionRadius 2.0
+ExplosionDamageVsLiving 5.5
+ExplosionDamageVsPlane 1.0
+ExplosionDamageVsVehicle 1.0
+//
+//*smoke effects*
+//
+//Syntax is SmokeEffect <ID> <Duration> <Amplifier>
+//IDs are 	1:MoveSpeed		2:MoveSlowdown		3:DigSpeed			4:DigSlowdown		5:DamageBoost	6:Heal			7:Harm		8:Jump			9:Confusion		10:Regeneration
+//			11:Resistance	12:FireResistance	13:WaterBreathing	14:Invisibility		15:Blindness	16:NightVision	17:Hunger	18:Weakness		19:Poison		20:Wither
+SmokeEffect 7 1 5

@@ -1,0 +1,10 @@
+Name Master Blaster 4
+ShortName masterblaster4
+Icon abilitytoken
+//
+AttachmentType generic
+//
+DamageMultiplier 1.6
+SpreadMultiplier 0.6
+RecoilMultiplier 0.6
+ReloadTimeMultiplier 0.6

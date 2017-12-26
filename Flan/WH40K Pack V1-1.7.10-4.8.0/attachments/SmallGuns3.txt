@@ -1,0 +1,11 @@
+Name Small Guns 3
+ShortName smallguns3
+Icon abilitytoken
+//
+AttachmentType generic
+//
+BulletSpeedMultiplier 1.3
+DamageMultiplier 1.25
+SpreadMultiplier 0.7
+RecoilMultiplier 0.7
+ReloadTimeMultiplier 0.7

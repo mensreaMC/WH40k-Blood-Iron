@@ -1,0 +1,10 @@
+﻿Name Imperial Commissar Boots
+ShortName commissarboots
+//
+Model Manus_WH40K.Armor.WH40K_Armor_CommissarBoots_1
+ArmourTexture Skin_WH40K_Armor_Commissar_1A
+ModelScale 0.25
+Icon CommissarBoots
+//
+Type Boots
+Defence 0.05

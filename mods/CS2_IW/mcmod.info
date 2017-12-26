@@ -1,0 +1,17 @@
+[
+{
+ "modid": "IW",
+ "name": "Blood & Iron",
+ "description": "Adds many blocks and items to BFe.",
+ "version": "1.0.0",
+ "mcversion": "1.7.10",
+ "url": "",
+ "updateUrl": "",
+ "authors": ["Mensrea"],
+ "credits": "",
+ "logoFile": "",
+ "screenshots": [],
+ "dependencies": ["CustomStuff2"],
+ "parent": "CustomStuff2"
+}
+]

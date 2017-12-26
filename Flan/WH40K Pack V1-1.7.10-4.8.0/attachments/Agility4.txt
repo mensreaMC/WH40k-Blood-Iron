@@ -1,0 +1,9 @@
+Name Agility IV
+ShortName agility4
+Icon abilitytoken
+//
+AttachmentType generic
+//
+SpreadMultiplier 0.8
+ReloadTimeMultiplier 0.8
+RecoilMultiplier 0.8

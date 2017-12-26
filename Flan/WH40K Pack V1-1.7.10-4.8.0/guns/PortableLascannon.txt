@@ -1,0 +1,64 @@
+Name Portable Lascannon
+// 
+//*file info*
+//
+ShortName portablelascannon
+Icon PortableLascannon
+Color 255 255 255
+Model fc.MechPAC1
+Texture MechPAC1
+ModelScale 0.2
+//
+//*sounds*
+//
+ShootSound HeavyLaserShoot
+GunSoundRange 64
+ReloadSound ECReload
+ReloadSoundRange 16
+//
+//*gun stats*
+//
+UsableByPlayers True
+UsableByMechas False
+CanShootUnderwater False
+OneHanded False
+Mode SemiAuto
+//
+Ammo echeavy
+ReloadTime 240
+CanForceReload False
+//
+Damage 100
+Accuracy 4
+ShootDelay 40
+BulletSpeed 20.0
+//
+Recoil 8
+RandomRecoilRange 3.50
+RandomRecoilYawRange 2.00
+DecreaseRecoil 1.05
+DecreaseRecoilYaw 0.60
+//
+IgnoreArmorProbability 1.0
+IgnoreArmorDamageFactor 3.0
+//
+//*melee*
+//
+MeleeDamage 1
+MeleeTime 60
+//MeleeSound Throw
+//
+//*status effects*
+//
+MoveSpeedModifier 0.8
+KnockbackModifier 1.0
+//
+//*attachments*
+//
+AllowAllAttachments false
+AllowAttachments bayonet ripperbayonet accuracy1 accuracy2 accuracy3 accuracy4 accuracy5 luckyshot1 luckyshot2 luckyshot3 luckyshot4 luckyshot5 agility1 agility2 agility3 agility4 agility5 heavyweapons1 heavyweapons2 heavyweapons3 heavyweapons4 steady
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 6

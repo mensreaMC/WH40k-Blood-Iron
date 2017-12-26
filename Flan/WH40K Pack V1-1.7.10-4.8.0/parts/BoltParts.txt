@@ -1,0 +1,5 @@
+Name Bolt Parts
+ShortName boltparts
+Icon BoltParts
+Category Misc
+StackSize 64
